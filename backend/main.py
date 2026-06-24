@@ -1,27 +1,20 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 import os
 from news_service import fetch_and_process_news
 from kv_store import kv
-import asyncio
 
 app = FastAPI()
-
-# Serve the React build (once we build it) as static files
-# We will mount it later after the frontend is built; for now we just define the routes.
 
 @app.get("/api/health")
 async def health():
     return {"status": "ok"}
 
-@app.post("/api/refresh-news")
+@app.api_route("/api/refresh-news", methods=["GET", "POST"])
 async def refresh_news():
-    """Called by Vercel cron every hour. Fetches, processes and stores articles."""
+    """Called manually or by Vercel cron. Fetches, processes and stores articles."""
     articles = await fetch_and_process_news()
-    # Store full list
     await kv.set("articles", articles)
-    # Store each article individually for detail pages
     for article in articles:
         await kv.set(f"article:{article['id']}", article)
     return {"success": True, "count": len(articles)}
@@ -30,7 +23,6 @@ async def refresh_news():
 async def get_articles():
     articles = await kv.get("articles")
     if articles is None:
-        # First time: trigger a refresh
         articles = await fetch_and_process_news()
         await kv.set("articles", articles)
     return articles
@@ -42,6 +34,10 @@ async def get_article(article_id: str):
         raise HTTPException(status_code=404, detail="Article not found")
     return article
 
-# In production, we'll serve the React frontend build
-if os.path.exists("../frontend/dist"):
-    app.mount("/", StaticFiles(directory="../frontend/dist", html=True), name="frontend")
+# Serve the React frontend
+static_dir = os.path.join(os.path.dirname(__file__), "static")
+dev_dir = os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
+if os.path.exists(static_dir):
+    app.mount("/", StaticFiles(directory=static_dir, html=True), name="frontend")
+elif os.path.exists(dev_dir):
+    app.mount("/", StaticFiles(directory=dev_dir, html=True), name="frontend")
