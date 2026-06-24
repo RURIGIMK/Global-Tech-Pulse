@@ -9,7 +9,7 @@ export default function HomePage() {
   const [search, setSearch] = useState('');
 
   useEffect(() => {
-    fetch('/data/articles.json')
+    fetch(new URL('data/articles.json', import.meta.url).href)
       .then(res => res.json())
       .then(data => {
         setArticles(data);
