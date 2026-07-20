@@ -1,5 +1,313 @@
 [
   {
+    "id": "EfZnZ5DGvEM",
+    "title": "The Linux community's next big fight isn't about Wayland anymore; it's about whether AI belongs in your distro",
+    "description": "Where do you stand?",
+    "url": "https://www.xda-developers.com/the-next-big-linux-fight-ai/",
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/linux-battery.jpg?w=1600&h=900&fit=crop",
+    "source": "XDA Developers",
+    "publishedAt": "2026-07-19T00:00:10Z",
+    "category": "Artificial Intelligence",
+    "summary": "Where do you stand?"
+  },
+  {
+    "id": "sNAhqymFp9Q",
+    "title": "Articles On: China, Cybersecurity, AI, Space, Russia, Taiwan, South China Sea, and Military Technology",
+    "description": "Articles on the comprehensive military modernization and expansion program undertaken by the Chinese Communist Party, which supports an increasingly aggressive foreign policy and threatens the safety of China's neighbors.",
+    "url": "https://www.hoover.org/research/articles-china-cybersecurity-ai-space-russia-taiwan-south-china-sea-and-military",
+    "image": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/research/images/csgp_military.jpg?h=7a66c18d&itok=BuC2EUqk",
+    "source": "Hoover.org",
+    "publishedAt": "2026-07-19T00:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Articles on the comprehensive military modernization and expansion program undertaken by the Chinese Communist Party, which supports an increasingly aggressive foreign policy and threatens the safety of China's neighbors."
+  },
+  {
+    "id": "n3Bam8Hhxbs",
+    "title": "Nikon Z9, Z8, Z6, Z7, and Zf cameras have dual gain ISO: this means it\u2019s better to shoot at ISO 500 than at ISO 250, due to the wider dynamic range and less noise",
+    "description": "The Nikon Z9, Z8, Z6, Z7, and Zf cameras have dual gain ISO \u2013 this means it\u2019s better to shoot at ISO 500 than at ISO 250, due to the wider dynamic range and less noise. This is a guest post by Dariusz Bre\u015b (Instagram\u00a0|\u00a0Facebook\u00a0|\u00a0Flickr |\u00a0Previous posts): The\u2026",
+    "url": "https://nikonrumors.com/2026/07/18/nikon-z9-z8-z6-z7-and-zf-cameras-have-dual-gain-iso-this-means-its-better-to-shoot-at-iso-500-than-at-iso-250-due-to-the-wider-dynamic-range-and-less-noise.aspx/",
+    "image": "https://nikonrumors.com/wp-content/uploads/2026/07/Nikon-Z9-Z8-Z6-Z7-Zf-cameras-dual-gain-ISO-better-to-shoot-at-ISO-500-than-at-ISO-250-because-of-wider-dynamic-range-less-noise.jpg",
+    "source": "Nikonrumors.com",
+    "publishedAt": "2026-07-18T23:58:25Z",
+    "category": "Artificial Intelligence",
+    "summary": "The Nikon Z9, Z8, Z6, Z7, and Zf cameras have dual gain ISO \u2013 this means it\u2019s better to shoot at ISO 500 than at ISO 250, due to the wider dynamic range and less noise. This is a guest post by Dariusz Bre\u015b (Instagram\u00a0|\u00a0Facebook\u00a0|\u00a0Flickr |\u00a0Previous posts): The\u2026"
+  },
+  {
+    "id": "JiYCN0RsCZA",
+    "title": "Reviewing NAMA\u2019s impressive 2026 mid-year performance",
+    "description": "By Abdul Jayu\u00a0 Over the years, the Nigerian Airspace\u00a0Management Agency, NAMA, has maintained a safe and stable air navigation environment.\u00a0 The agency under the leadership of its Managing Director/Chief Executive, Engr. Farouk Ahmed Umar entered 2026 with the\u2026",
+    "url": "https://www.vanguardngr.com/2026/07/reviewing-namas-impressive-2026-mid-year-performance/",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/image-392.png",
+    "source": "Vanguard",
+    "publishedAt": "2026-07-18T23:52:20Z",
+    "category": "Artificial Intelligence",
+    "summary": "By Abdul Jayu\u00a0 Over the years, the Nigerian Airspace\u00a0Management Agency, NAMA, has maintained a safe and stable air navigation environment.\u00a0 The agency under the leadership of its Managing Director/Chief Executive, Engr. Farouk Ahmed Umar entered 2026 with the\u2026"
+  },
+  {
+    "id": "In1w0xRJngs",
+    "title": "Embrace savings, shun Ponzi schemes, NDIC urges youths",
+    "description": "The NDIC encourages Nigerian youth to embrace legitimate wealth creation through savings and avoid Ponzi schemes, promoting financial literacy and inclusio\n\nRead More: https://punchng.com/embrace-savings-shun-ponzi-schemes-ndic-urges-youths/",
+    "url": "https://punchng.com/embrace-savings-shun-ponzi-schemes-ndic-urges-youths/",
+    "image": "https://punchng.com/wp-content/uploads/2026/07/NDIC-2_1782936053.webp",
+    "source": "The Punch",
+    "publishedAt": "2026-07-18T23:50:03Z",
+    "category": "Other Tech",
+    "summary": "The NDIC encourages Nigerian youth to embrace legitimate wealth creation through savings and avoid Ponzi schemes, promoting financial literacy and inclusio\n\nRead More: https://punchng.com/embrace-savings-shun-ponzi-schemes-ndic-urges-youths/"
+  },
+  {
+    "id": "KCAPxkRQ8fM",
+    "title": "Nigeria, Liberia deepen trade ties under AfCFTA agenda",
+    "description": "Nigeria and Liberia are strengthening trade ties and attracting investment under the AfCFTA agenda. Discover how this partnership will boost economic growt\n\nRead More: https://punchng.com/nigeria-liberia-deepen-trade-ties-under-afcfta-agenda/",
+    "url": "https://punchng.com/nigeria-liberia-deepen-trade-ties-under-afcfta-agenda/",
+    "image": "https://punchng.com/wp-content/uploads/2026/07/AfCFTA_1784418173-1187x630.webp",
+    "source": "The Punch",
+    "publishedAt": "2026-07-18T23:50:03Z",
+    "category": "Other Tech",
+    "summary": "Nigeria and Liberia are strengthening trade ties and attracting investment under the AfCFTA agenda. Discover how this partnership will boost economic growt\n\nRead More: https://punchng.com/nigeria-liberia-deepen-trade-ties-under-afcfta-agenda/"
+  },
+  {
+    "id": "dxTYFCXVIbI",
+    "title": "BrainCo unveils brain-controlled robot AI platform: The future of eating Cheetos while building PCs hands-free with just a thought",
+    "description": "BrainCo has demonstrated at WAIC 2026 the ability to remotely control robotic hands, arms, and humanoids with just a thought thanks to the company's brain-computer interface (BCI) and brain-controlled robot AI platform technology.",
+    "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg",
+    "source": "Notebookcheck.net",
+    "publishedAt": "2026-07-18T23:48:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "BrainCo has demonstrated at WAIC 2026 the ability to remotely control robotic hands, arms, and humanoids with just a thought thanks to the company's brain-computer interface (BCI) and brain-controlled robot AI platform technology."
+  },
+  {
+    "id": "YFIza94X7b4",
+    "title": "Audiences Think Sam Neill's Sci-Fi Horror Movie Is Secretly Connected To Warhammer 40K",
+    "description": "The Gravity Drive that exists in the movie Event Horizon sounds eerily similar to the way characters in Warhammer 40K travel to different planets in space.",
+    "url": "https://www.bgr.com/2217048/sam-neill-sci-fi-horror-movie-event-horizon-warhammer-connection/",
+    "image": "https://www.bgr.com/img/gallery/audiences-think-sam-neills-sci-fi-horror-movie-is-secretly-connected-to-warhammer-40k/l-intro-1784234372.jpg",
+    "source": "BGR",
+    "publishedAt": "2026-07-18T23:47:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "The Gravity Drive that exists in the movie Event Horizon sounds eerily similar to the way characters in Warhammer 40K travel to different planets in space."
+  },
+  {
+    "id": "_MzN7TXGLhc",
+    "title": "Court Upholds Instagram\u2019s TOS\u2013Feds for Freedom v. Meta",
+    "description": "Feds for Freedom is an anti-COVID vax organization.  It registered an Instagram account. F4F is upset that Instagram allegedly warned anyone who tried to repost their content that: This account has repeatedly posted false information that was reviewed by...\u2026",
+    "url": "https://blog.ericgoldman.org/archives/2026/07/court-upholds-instagrams-tos-feds-for-freedom-v-meta.htm",
+    "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/07/images.jpg",
+    "source": "Ericgoldman.org",
+    "publishedAt": "2026-07-18T23:37:46Z",
+    "category": "Other Tech",
+    "summary": "Feds for Freedom is an anti-COVID vax organization.  It registered an Instagram account. F4F is upset that Instagram allegedly warned anyone who tried to repost their content that: This account has repeatedly posted false information that was reviewed by...\u2026"
+  },
+  {
+    "id": "PyBViPfCDaU",
+    "title": "SpaceX (SPCX) Loses Its IPO Premium as a Bigger Supply Test Looms",
+    "description": "With investors increasingly questioning whether massive AI and infrastructure spending will generate adequate returns, Space Exploration Technologies Corp (N...",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-loses-ipo-premium-233457233.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/C16E1FD299DC72E455EE9AEED50C1983976C7A2636E38D3E1B97540B30C19565/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fdd28b77167a6595a1da26c5c26d08e4b",
+    "source": "Yahoo Entertainment",
+    "publishedAt": "2026-07-18T23:34:57Z",
+    "category": "Artificial Intelligence",
+    "summary": "With investors increasingly questioning whether massive AI and infrastructure spending will generate adequate returns, Space Exploration Technologies Corp (N..."
+  },
+  {
+    "id": "ggP5aMl67es",
+    "title": "How Does The Odyssey Compare to Chris Nolan\u2019s Other 12 Films? (No. 1 Can Never Be Beat)",
+    "description": "Image Courtesy of Universal and Warner Bros\n\nThe Odyssey sits among Christopher Nolan\u2019s best films, but here is how it ranks among his past releases. Nolan remains one of the best filmmakers working today, and one of the few filmmakers who can still sell a mo\u2026",
+    "url": "http://comicbook.com/movies/list/how-does-the-odyssey-compare-to-chris-nolans-other-12-films-no-1-can-never-be-beat/",
+    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/07/The-Odyssey-Inception-and-The-Dark-Knight.jpg?resize=2000,1125",
+    "source": "ComicBook.com",
+    "publishedAt": "2026-07-18T23:30:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Image Courtesy of Universal and Warner Bros\n\nThe Odyssey sits among Christopher Nolan\u2019s best films, but here is how it ranks among his past releases. Nolan remains one of the best filmmakers working today, and one of the few filmmakers who can still sell a mo\u2026"
+  },
+  {
+    "id": "3KZ8c4ooKIU",
+    "title": "England\u2019s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight",
+    "description": "England's historic 6-4 World Cup win over France drives fan token volatility as Kraken's FIFA sponsorship and Chiliz trading activity spotlight crypto in\nThe post England\u2019s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight appear\u2026",
+    "url": "https://cryptobriefing.com/england-france-world-cup-crypto-fan-tokens/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18191940/best-time-to-go-to-london-england-and-scotland-by-rick-steve-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-07-18T23:19:42Z",
+    "category": "Other Tech",
+    "summary": "England's historic 6-4 World Cup win over France drives fan token volatility as Kraken's FIFA sponsorship and Chiliz trading activity spotlight crypto in\nThe post England\u2019s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight appear\u2026"
+  },
+  {
+    "id": "B-HkfaztRbM",
+    "title": "Woman had to prove innocence after technology wrongly tied her to package theft",
+    "description": "The Flock camera supposedly picked up Chrisanna Elser stealing the package, despite her not actually being in the area.",
+    "url": "https://www.newsnationnow.com/us-news/west/woman-prove-innocence-camera-technology-wrong-theft/",
+    "image": "https://s.yimg.com/lo/mysterio/api/3ea3521202d49cbc1e8b1ba4cee3d6893fac2dbae1865cd86b0740c18e6338e3/lightyear_networkapi/resizefill_w900_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F720e571cfcdb4faffd065edd7d71ca79",
+    "source": "Newsnationnow.com",
+    "publishedAt": "2026-07-18T23:04:53Z",
+    "category": "Artificial Intelligence",
+    "summary": "The Flock camera supposedly picked up Chrisanna Elser stealing the package, despite her not actually being in the area."
+  },
+  {
+    "id": "RZgAdDZj3Zo",
+    "title": "Massive TSMC deal is huge stride for US in high-tech race",
+    "description": "Washington spent four years trying to convince the world's most important chipmaker to build in America. On Thursday, July 16, it got a positive answer. Taiw...",
+    "url": "https://www.thestreet.com/investing/stocks/tsmc-tsm-arizona-265-billion-stock-drop-capex",
+    "image": "https://s.yimg.com/lo/mysterio/api/402A3C8012EBF62D2F0E134ADC4731D7DF39A158E6F6B4862EA39EFC404A55AD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F0a22d9a5938297120fa8a23ef7f10010",
+    "source": "TheStreet",
+    "publishedAt": "2026-07-18T23:03:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Washington spent four years trying to convince the world's most important chipmaker to build in America. On Thursday, July 16, it got a positive answer. Taiw..."
+  },
+  {
+    "id": "xAnWfQb8vRI",
+    "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+    "description": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.",
+    "url": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+    "image": "https://image.cnbcfm.com/api/v1/image/107055974-16516814172022-05-04t161953z_974790308_rc2f0u9detsz_rtrmadp_0_canada-minerals.jpeg?v=1695124801&w=1920&h=1080",
+    "source": "CNBC",
+    "publishedAt": "2026-07-18T23:01:01Z",
+    "category": "Artificial Intelligence",
+    "summary": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say."
+  },
+  {
+    "id": "zlDK0nhNFQA",
+    "title": "I ditched half my subscriptions, all because of one hobby",
+    "description": "I never planned to reduce my software subscriptions, but self-hosting made many of them completely unnecessary.",
+    "url": "https://www.xda-developers.com/ditched-half-my-subscriptions-all-because-of-one-hobby/",
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/home-lab-server-cabinet.jpg?w=1600&h=900&fit=crop",
+    "source": "XDA Developers",
+    "publishedAt": "2026-07-18T23:00:10Z",
+    "category": "Other Tech",
+    "summary": "I never planned to reduce my software subscriptions, but self-hosting made many of them completely unnecessary."
+  },
+  {
+    "id": "H9wtG0BQWKI",
+    "title": "New Athlone addiction service as gambling issues rise",
+    "description": "A new outpatient addiction service unit has been launched in Athlone, Co Westmeath due to increased demand for treatment from the west of the country, particularly those affected by gambling.",
+    "url": "https://www.rte.ie/news/2026/0719/1584001-gambling-addiction-treatment/",
+    "image": "https://www.rte.ie/images/00233106-1600.jpg",
+    "source": "RTE",
+    "publishedAt": "2026-07-18T23:00:00Z",
+    "category": "Other Tech",
+    "summary": "A new outpatient addiction service unit has been launched in Athlone, Co Westmeath due to increased demand for treatment from the west of the country, particularly those affected by gambling."
+  },
+  {
+    "id": "kmihO9ywoFE",
+    "title": "Nouriel Roubini predicts universal basic income or socialism due to AI disruption",
+    "description": "Nouriel Roubini warns AI could cause massive unemployment, pushing governments toward universal basic income. Here's what it means for crypto and markets.\nThe post Nouriel Roubini predicts universal basic income or socialism due to AI disruption appeared firs\u2026",
+    "url": "https://cryptobriefing.com/roubini-predicts-ubi-ai-disruption/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18185156/https-upload-wikimedia-org-wikipedia-commons-2-29-nouriel-ro-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-07-18T22:51:58Z",
+    "category": "Artificial Intelligence",
+    "summary": "Nouriel Roubini warns AI could cause massive unemployment, pushing governments toward universal basic income. Here's what it means for crypto and markets.\nThe post Nouriel Roubini predicts universal basic income or socialism due to AI disruption appeared firs\u2026"
+  },
+  {
+    "id": "J7RLp8v3bbA",
+    "title": "Elizabeth Warren Grills Fed Chair Kevin Warsh Over Stanley Druckenmiller Ties: 'Who Gave You $100 Million?'",
+    "description": "Federal Reserve Chairman Kevin Warsh was subjected to intense questioning by Sen. Elizabeth Warren (D-Mass.) regarding potential ethics violations. On Wednes...",
+    "url": "https://finance.yahoo.com/economy/policy/articles/elizabeth-warren-grills-fed-chair-223136189.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/D30EAC97F01C6009CC25A15BDF248AD2FA3B04174835C5B0650052DC618D549E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F46b2b7b9d85bcd7818ee72b4b4a5b448",
+    "source": "Yahoo Entertainment",
+    "publishedAt": "2026-07-18T22:31:36Z",
+    "category": "Artificial Intelligence",
+    "summary": "Federal Reserve Chairman Kevin Warsh was subjected to intense questioning by Sen. Elizabeth Warren (D-Mass.) regarding potential ethics violations. On Wednes..."
+  },
+  {
+    "id": "jWF_GbOc1r8",
+    "title": "\u2018Manhunter: The Final Cut\u2019 Shows Why Director\u2019s Cuts Are Almost Never an Improvement. But It\u2019s Still the Greatest Thriller of Our Time",
+    "description": "If you\u2019re a movie buff, a cinephile, or whatever else you want to call it (I called my 2016 memoir \u201cMovie Freak\u201d), one of the greatest pleasures to be had is when a film grabs hold of you and won\u2019t let go. That\u2019s happened to me a number of times, with movies \u2026",
+    "url": "https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MSDMANH_EC006.jpg?crop=0px%2C89px%2C2518px%2C1416px&resize=1000%2C563",
+    "source": "Variety",
+    "publishedAt": "2026-07-18T22:26:31Z",
+    "category": "Other Tech",
+    "summary": "If you\u2019re a movie buff, a cinephile, or whatever else you want to call it (I called my 2016 memoir \u201cMovie Freak\u201d), one of the greatest pleasures to be had is when a film grabs hold of you and won\u2019t let go. That\u2019s happened to me a number of times, with movies \u2026"
+  },
+  {
+    "id": "XR4t85q29Tg",
+    "title": "Why Taking Pictures Of Your Rental Car Is Still An Important Rule To Follow",
+    "description": "With so much modern technology around, is it really still worth taking pictures of your rental car before you drive it? Yes, it is, and here's why.",
+    "url": "https://www.jalopnik.com/2216385/taking-rental-car-pictures-rule-to-follow/",
+    "image": "https://www.jalopnik.com/img/gallery/why-taking-pictures-of-your-rental-car-is-still-an-important-rule-to-follow/l-intro-1784190044.jpg",
+    "source": "Jalopnik",
+    "publishedAt": "2026-07-18T22:25:00Z",
+    "category": "Other Tech",
+    "summary": "With so much modern technology around, is it really still worth taking pictures of your rental car before you drive it? Yes, it is, and here's why."
+  },
+  {
+    "id": "L7AklL5AgBI",
+    "title": "4 Tablet Display Specs Worth Paying Extra For",
+    "description": "Some of the display specs that are worth paying extra for include, pixels per inch (PPI), the panel type, refresh rate, and sustained brightness level.",
+    "url": "https://www.bgr.com/2214919/tablet-display-specs-worth-paying-for/",
+    "image": "https://www.bgr.com/img/gallery/4-tablet-display-specs-worth-paying-extra-for/l-intro-1784049453.jpg",
+    "source": "BGR",
+    "publishedAt": "2026-07-18T22:17:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Some of the display specs that are worth paying extra for include, pixels per inch (PPI), the panel type, refresh rate, and sustained brightness level."
+  },
+  {
+    "id": "dOdurPQjvzs",
+    "title": "Yangon Region to Lead the Way in Food Security",
+    "description": "Agricultural and livestock breeding zones aim to meet the daily demand for meat, fish, eggs, and various vegetables for the [\u2026]",
+    "url": "https://www.gnlm.com.mm/yangon-region-to-lead-the-way-in-food-security/",
+    "image": "https://cdn.digitalagencybangkok.com/file/client-cdn/gnlm/wp-content/uploads/2026/07/19-7-2026-sdrf-13-1024x615.jpg",
+    "source": "Gnlm.com.mm",
+    "publishedAt": "2026-07-18T22:16:27Z",
+    "category": "Artificial Intelligence",
+    "summary": "Agricultural and livestock breeding zones aim to meet the daily demand for meat, fish, eggs, and various vegetables for the [\u2026]"
+  },
+  {
+    "id": "l1OrcM9OFOk",
+    "title": "Samsung Electronics America cutting 739 jobs in New Jersey as tech layoffs keep rolling",
+    "description": "Samsung Electronics America plans to lay off 739 workers in New Jersey, adding to ongoing tech sector restructuring with potential implications for markets.\nThe post Samsung Electronics America cutting 739 jobs in New Jersey as tech layoffs keep rolling appea\u2026",
+    "url": "https://cryptobriefing.com/samsung-america-739-job-cuts-new-jersey/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18181419/samsung-electronics-is-cheap-next-to-apple-barron-s-2-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-07-18T22:14:22Z",
+    "category": "Gadgets & Hardware",
+    "summary": "Samsung Electronics America plans to lay off 739 workers in New Jersey, adding to ongoing tech sector restructuring with potential implications for markets.\nThe post Samsung Electronics America cutting 739 jobs in New Jersey as tech layoffs keep rolling appea\u2026"
+  },
+  {
+    "id": "uvJPzlVN2U4",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "description": "The reality of how much damage AI mania is doing to our ability to run institutions effectively.",
+    "url": "https://hermit-tech.com",
+    "image": "https://hermit-tech.com/images/assets/share-img-a07c0f99bf68eb4deba4a5bc2e3b9d36.png?vsn=d",
+    "source": "Hermit-tech.com",
+    "publishedAt": "2026-07-18T22:10:54Z",
+    "category": "Artificial Intelligence",
+    "summary": "The reality of how much damage AI mania is doing to our ability to run institutions effectively."
+  },
+  {
+    "id": "ZeJ__jjbVvU",
+    "title": "Utah\u2019s film-watching setup goes viral and draws attention from an NFL vet",
+    "description": "In a slow time for football, Wallace\u2019s video picked up steam and was reposted to the NFL\u2019s Instagram page, where it drew 87,000-plus likes",
+    "url": "https://www.deseret.com/sports/2026/07/18/utah-jamal-wallace-film-setup-video-board-nfl/",
+    "image": "https://s.yimg.com/lo/mysterio/api/8c6f0652413b1736301c20caf5d71414cf8156b55f9f1962cdf80ba5eb1a4450/lightyear_networkapi/resizefill_w800_h452;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2Faa006e092be929b626dd8924475b3ecb",
+    "source": "Deseret News",
+    "publishedAt": "2026-07-18T22:07:20Z",
+    "category": "Other Tech",
+    "summary": "In a slow time for football, Wallace\u2019s video picked up steam and was reposted to the NFL\u2019s Instagram page, where it drew 87,000-plus likes"
+  },
+  {
+    "id": "0lIr9o38G9U",
+    "title": "Ukraine set to get its own 'Starlink' satellite constellation with SpaceX starting in 2027 as $1bn project powers on despite CEO death",
+    "description": "Ukraine\u2019s Stetman plans a 360-satellite constellation by 2027, using SpaceX launches and European partnerships despite leadership changes.",
+    "url": "https://www.techradar.com/pro/ukraine-set-to-get-its-own-starlink-satellite-constellation-with-spacex-starting-in-2027-as-usd1bn-project-powers-on-despite-ceo-death",
+    "image": "https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg",
+    "source": "TechRadar",
+    "publishedAt": "2026-07-18T22:05:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Ukraine\u2019s Stetman plans a 360-satellite constellation by 2027, using SpaceX launches and European partnerships despite leadership changes."
+  },
+  {
+    "id": "09W3YqRkjqg",
+    "title": "England demolishes France 4-0 at halftime as crypto\u2019s World Cup integration hits full stride",
+    "description": "England leads France 4-0 at halftime in the 2026 World Cup as Kraken, Avalanche, and Chainlink power crypto infrastructure behind the tournament.\nThe post England demolishes France 4-0 at halftime as crypto\u2019s World Cup integration hits full stride appeared fi\u2026",
+    "url": "https://cryptobriefing.com/england-france-world-cup-crypto-integration/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18180342/qatar-world-cup-england-knocked-out-after-quarter-final-defe-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-07-18T22:03:45Z",
+    "category": "Artificial Intelligence",
+    "summary": "England leads France 4-0 at halftime in the 2026 World Cup as Kraken, Avalanche, and Chainlink power crypto infrastructure behind the tournament.\nThe post England demolishes France 4-0 at halftime as crypto\u2019s World Cup integration hits full stride appeared fi\u2026"
+  },
+  {
     "id": "iGgw6G4BQpI",
     "title": "Quote of the day by Steve Jobs: 'I'm willing to go thermonuclear war on this' \u2014 giving a bitter rival both barrels",
     "description": "The late Apple co-founder was furious with Google's work developing Android, claiming it was a stolen product",
@@ -31,61 +339,6 @@
     "publishedAt": "2026-07-18T21:36:51Z",
     "category": "Artificial Intelligence",
     "summary": "OpenAI and Anthropic don't train on enterprise data by default, but employee use of consumer AI accounts creates major corporate privacy risks.\nThe post OpenAI and Anthropic address enterprise data privacy concerns, but the real risk is your employees appeare\u2026"
-  },
-  {
-    "id": "A8BY7iJ0m5E",
-    "title": "Bill Would Ban Chinese Connected Cars in the US\u2014From Sale and on the Streets",
-    "description": "A driver rolling up to a US border crossing in a Chinese vehicle would \u2018have to buy another car, because their car will not be allowed\u2019 in the US, says Sen. Bernie Moreno, the bill\u2019s sponsor.\nA bipartisan group of legislators is trying to advance a bill that \u2026",
-    "url": "https://uk.pcmag.com/cars-auto/166225/bill-would-ban-chinese-connected-cars-in-the-us-from-sale-and-on-the-streets",
-    "image": "https://sm.pcmag.com/t/pcmag_uk/news/b/bill-would/bill-would-ban-chinese-connected-cars-in-the-us-from-sale-an_81uq.1200.jpg",
-    "source": "PCMag.com",
-    "publishedAt": "2026-07-18T21:35:03Z",
-    "category": "Other Tech",
-    "summary": "A driver rolling up to a US border crossing in a Chinese vehicle would \u2018have to buy another car, because their car will not be allowed\u2019 in the US, says Sen. Bernie Moreno, the bill\u2019s sponsor.\nA bipartisan group of legislators is trying to advance a bill that \u2026"
-  },
-  {
-    "id": "sGhjtKezuQI",
-    "title": "Domietta Luketic Appointed Vice President of Marketing Strategy, Latin America at Thomson Reuters - EUROPE SAYS",
-    "description": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil, July 2026 \u2014 Thomson Reuters has appointed Domietta Luketic as Vice President of Marketing Strategy, Latin America, strengthening",
-    "url": "https://www.europesays.com/3139276/",
-    "image": "https://www.europesays.com/wp-content/uploads/2026/07/HR-TODAY-SUNIL-34-4.png",
-    "source": "Europesays.com",
-    "publishedAt": "2026-07-18T21:30:27Z",
-    "category": "Other Tech",
-    "summary": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil, July 2026 \u2014 Thomson Reuters has appointed Domietta Luketic as Vice President of Marketing Strategy, Latin America, strengthening"
-  },
-  {
-    "id": "3XpyLIwxUlc",
-    "title": "I stopped downloading VirtualBox after discovering Windows 11's built-in sandbox",
-    "description": "A desktop within my desktop comes in handy a surprising amount of times",
-    "url": "https://www.xda-developers.com/windows-11-has-a-built-in-vm-tool-most-people-replace-with-third-party-software/",
-    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-sandbox-on-a-pc.jpg?w=1600&h=900&fit=crop",
-    "source": "XDA Developers",
-    "publishedAt": "2026-07-18T21:30:10Z",
-    "category": "Other Tech",
-    "summary": "A desktop within my desktop comes in handy a surprising amount of times"
-  },
-  {
-    "id": "lcO14s2uHyY",
-    "title": "Inside Josh Kerr's audacious bid to smash the mile world record: Inspired by Sir Roger Bannister, how he achieved the remarkable feat and why he credits his wife for his success",
-    "description": "On Saturday, in front of a crowd of 60,000 ecstatic fans in the former Olympic Stadium in London, Josh Kerr\u00a0delivered the performance of his lifetime to break the mile world record.",
-    "url": "https://www.dailymail.com/sport/othersports/article-15987481/Inside-Josh-Kerrs-audacious-bid-smash-mile.html",
-    "image": "https://i.dailymail.com/1s/2026/07/18/21/110107155-0-image-m-28_1784406356592.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-18T21:19:25Z",
-    "category": "Other Tech",
-    "summary": "On Saturday, in front of a crowd of 60,000 ecstatic fans in the former Olympic Stadium in London, Josh Kerr\u00a0delivered the performance of his lifetime to break the mile world record."
-  },
-  {
-    "id": "_b4XbIiAc2Y",
-    "title": "Andy Burnham's pledge to unite Labour branded 'dead on arrival' amid mounting mayhem over who will serve in his Cabinet",
-    "description": "At the centre of the chaos is the divisive figure of Ed Miliband, whose hopes of becoming the next Chancellor appeared to have been dashed last week.",
-    "url": "https://www.dailymail.com/news/article-15987705/Andy-Burnhams-pledge-unite-Labour-branded-dead-arrival-amid-mounting-mayhem-serve-Cabinet.html",
-    "image": "https://i.dailymail.com/1s/2026/07/18/20/110106657-0-image-a-10_1784403871948.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-18T21:11:37Z",
-    "category": "Other Tech",
-    "summary": "At the centre of the chaos is the divisive figure of Ed Miliband, whose hopes of becoming the next Chancellor appeared to have been dashed last week."
   },
   {
     "id": "cJnaY-3DhDQ",
@@ -176,28 +429,6 @@
     "summary": "For one glorious month, football brought nations together. It also revealed what still unites them. Opinion."
   },
   {
-    "id": "S6-ddRgzdJE",
-    "title": "LiuGong brings electric heavy equipment options to North America [video]",
-    "description": "This week, Chinese equipment brand LiuGong officially launched its battery-electric equipment and material handling asset portfolio in the United States and Canada, making it easier than ever for construction and forestry crews to decarbonize their fleets.",
-    "url": "http://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
-    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/liugong_main.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "source": "Electrek",
-    "publishedAt": "2026-07-18T20:50:45Z",
-    "category": "Other Tech",
-    "summary": "This week, Chinese equipment brand LiuGong officially launched its battery-electric equipment and material handling asset portfolio in the United States and Canada, making it easier than ever for construction and forestry crews to decarbonize their fleets."
-  },
-  {
-    "id": "p4EAH1NQmZM",
-    "title": "Andy Burnham to scrap Starmer's digital ID scheme as he 'resets priorities'",
-    "description": "Mr Burnham's team described the move as a 'reset of priorities', with money that had been earmarked for implementing digital ID redirected to more 'tangible' improvements.",
-    "url": "https://www.dailymail.com/news/article-15987791/Andy-Burnham-Starmers-digital-ID-scheme.html",
-    "image": "https://i.dailymail.com/1s/2026/07/18/21/110107129-0-image-a-8_1784406131791.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-18T20:49:02Z",
-    "category": "Other Tech",
-    "summary": "Mr Burnham's team described the move as a 'reset of priorities', with money that had been earmarked for implementing digital ID redirected to more 'tangible' improvements."
-  },
-  {
     "id": "MsBl6C771R0",
     "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
     "description": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities\u2019 sexual orientation for \u201cdiscriminatory purposes.\u201d",
@@ -231,17 +462,6 @@
     "summary": "Humans First, a conservative-led nonprofit, organized nationwide protests against AI data centers on Saturday."
   },
   {
-    "id": "R8cwpp_bU30",
-    "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
-    "description": "Coinbase Global Inc. CEO Brian Armstrong shared advice for entrepreneurs, saying founders should pursue difficult problems instead of choosing safer, less am...",
-    "url": "https://finance.yahoo.com/small-business/articles/coinbase-ceo-brian-armstrong-tells-203130586.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/40D060153B8F77472FFB77B94A63F3CCADE1D55871D6683AE17C6915DF8B91EA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F7535e6a6f93723b70363233b7751c2c1",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-07-18T20:31:30Z",
-    "category": "Other Tech",
-    "summary": "Coinbase Global Inc. CEO Brian Armstrong shared advice for entrepreneurs, saying founders should pursue difficult problems instead of choosing safer, less am..."
-  },
-  {
     "id": "FeIbjTrNuNQ",
     "title": "ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results",
     "description": "ASML sold 16 EUV lithography machines in Q2 2026, posting 9.3 billion in sales and raising its full-year outlook as AI chip demand surges across the\nThe post ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results appeared first on C\u2026",
@@ -251,28 +471,6 @@
     "publishedAt": "2026-07-18T20:25:06Z",
     "category": "Artificial Intelligence",
     "summary": "ASML sold 16 EUV lithography machines in Q2 2026, posting 9.3 billion in sales and raising its full-year outlook as AI chip demand surges across the\nThe post ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results appeared first on C\u2026"
-  },
-  {
-    "id": "inIoTo3ZdYE",
-    "title": "From 40 cartographers to two: Street directories nearing end of the road",
-    "description": "While sales of the once-ubiquitous street directories have fallen dramatically since their peak in the 1980s, they still have a niche market.",
-    "url": "https://www.abc.net.au/news/2026-07-19/street-directories-are-nearing-the-end-of-the-road/106883510",
-    "image": "https://live-production.wcms.abc-cdn.net.au/0e9b2eef401501cecfb07e85abf3f144?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "source": "ABC News (AU)",
-    "publishedAt": "2026-07-18T20:18:01Z",
-    "category": "Other Tech",
-    "summary": "While sales of the once-ubiquitous street directories have fallen dramatically since their peak in the 1980s, they still have a niche market."
-  },
-  {
-    "id": "tpYwAdkEWgc",
-    "title": "Left insists for U.S. that people live smaller lives but they \u2018don\u2019t do that\u2019",
-    "description": "'For too long, Americans have been treated like children, coerced into buying over-priced energy efficient appliances and technologies that don\u2019t do the job'",
-    "url": "https://www.wnd.com/2026/07/left-insists-u-s-that-people-live-smaller/",
-    "image": "https://www.wnd.com/wp-content/uploads/2024/06/oil-drilling-energy-rig-sunset-unsplash-1200x630.jpg",
-    "source": "Wnd.com",
-    "publishedAt": "2026-07-18T20:08:30Z",
-    "category": "Other Tech",
-    "summary": "'For too long, Americans have been treated like children, coerced into buying over-priced energy efficient appliances and technologies that don\u2019t do the job'"
   },
   {
     "id": "Qj-UD7-LfmY",
@@ -295,28 +493,6 @@
     "publishedAt": "2026-07-18T20:00:04Z",
     "category": "Artificial Intelligence",
     "summary": "All 33 early S&P 500 reporters beat EPS estimates in Q2 2026, with aggregate earnings exceeding projections by 14.5% and blended growth near 23.5% YoY.\nThe post S&P 500 earnings season starts strong with 33 companies beating EPS estimates appeared first on Cr\u2026"
-  },
-  {
-    "id": "ZQ-ebKBkAXI",
-    "title": "5 Armored DC Heroes That Could Give Iron Man a Run For His Money",
-    "description": "Image Courtesy of DC Comics\n\nIron Man from Marvel Comics is synonymous with armored superheroes. Indeed, with his immense brilliance and vast wealth, the Armored Avenger has created countless suits that let him stand amongst superhumans and gods. However, he\u2019\u2026",
-    "url": "http://comicbook.com/comics/list/5-armored-dc-heroes-that-could-give-iron-man-a-run-for-his-money/",
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/07/Blue-Beetle-DC-Comics.png?resize=2000,1124",
-    "source": "ComicBook.com",
-    "publishedAt": "2026-07-18T20:00:00Z",
-    "category": "Other Tech",
-    "summary": "Image Courtesy of DC Comics\n\nIron Man from Marvel Comics is synonymous with armored superheroes. Indeed, with his immense brilliance and vast wealth, the Armored Avenger has created countless suits that let him stand amongst superhumans and gods. However, he\u2019\u2026"
-  },
-  {
-    "id": "g7Cs63irpeU",
-    "title": "This Jake Gyllenhaal Sci-Fi Blockbuster Was Partially Inspired By A True Story",
-    "description": "The technology in this sci-fi blockbuster starring Jake Gyllenhaal might be fiction, but one of the characters was based on a real person.",
-    "url": "https://www.slashfilm.com/2216308/jake-gyllenhaal-sci-fi-movie-inspired-true-story-source-code/",
-    "image": "https://www.slashfilm.com/img/gallery/this-jake-gyllenhall-sci-fi-blockbuster-was-partially-inspired-by-a-true-story/l-intro-1784163955.jpg",
-    "source": "/FILM",
-    "publishedAt": "2026-07-18T20:00:00Z",
-    "category": "Other Tech",
-    "summary": "The technology in this sci-fi blockbuster starring Jake Gyllenhaal might be fiction, but one of the characters was based on a real person."
   },
   {
     "id": "beguNXHHlVc",
@@ -372,181 +548,5 @@
     "publishedAt": "2026-07-18T19:45:05Z",
     "category": "Gadgets & Hardware",
     "summary": "The upgrade brings an 8.4 hybrid OLED panel and a chip upgrade to either the A19 Pro or the A20, though ProMotion is out and a price increase looks likely.Continue reading at TweakTown"
-  },
-  {
-    "id": "EdhESHtMiDs",
-    "title": "AI Progress Just Became Predictable. Here\u2019s the Machine Behind It",
-    "description": "AI progress has returned to predictable, substantial leaps. The key isn\u2019t just making models bigger. It\u2019s mastering data quality, building synthetic data factories, and creating fast verification loops in domains like math and programming. Where you can relia\u2026",
-    "url": "https://www.nextbigfuture.com/2026/07/ai-progress-just-became-predictable-heres-the-machine-behind-it.html",
-    "image": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/07/viral_thumbnail_ai_progress_predictable-1024x583.png",
-    "source": "Next Big Future",
-    "publishedAt": "2026-07-18T19:45:02Z",
-    "category": "Artificial Intelligence",
-    "summary": "AI progress has returned to predictable, substantial leaps. The key isn\u2019t just making models bigger. It\u2019s mastering data quality, building synthetic data factories, and creating fast verification loops in domains like math and programming. Where you can relia\u2026"
-  },
-  {
-    "id": "JMryuXi5lIc",
-    "title": "Meta Glasses Are Getting a Nasty Reputation",
-    "description": "Smart glasses keep getting smarter, but their reputation appears to be getting worse. At Engadget , Karissa Bell writes that online criticism of the devices critics have dubbed \"pervert glasses\" seems to have intensified, particularly after Meta released a ne\u2026",
-    "url": "https://www.newser.com/story/392760/meta-glasses-are-getting-a-nasty-reputation.html",
-    "image": "https://cdn.newser.com/image/1698509-12-20260718150547.jpeg",
-    "source": "Newser",
-    "publishedAt": "2026-07-18T19:40:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Smart glasses keep getting smarter, but their reputation appears to be getting worse. At Engadget , Karissa Bell writes that online criticism of the devices critics have dubbed \"pervert glasses\" seems to have intensified, particularly after Meta released a ne\u2026"
-  },
-  {
-    "id": "cSmKwTQEdqk",
-    "title": "Indian Workers Are Resisting Efforts to Train Their AI Robot Replacements",
-    "description": "The resistance offers lessons for workers elsewhere to disrupt the relentless onslaught of surveillance capitalism.",
-    "url": "https://www.opendemocracy.net/india-factory-workers-train-ai-head-camera-resistance-robot-replacements/",
-    "image": "https://truthout.org/app/uploads/2026/07/GettyImages-2280423999-scaled.jpg",
-    "source": "Open Democracy",
-    "publishedAt": "2026-07-18T19:38:13Z",
-    "category": "Artificial Intelligence",
-    "summary": "The resistance offers lessons for workers elsewhere to disrupt the relentless onslaught of surveillance capitalism."
-  },
-  {
-    "id": "vCgGgOfotxs",
-    "title": "Didier Deschamps breaks World Cup management record with 26 games, and here\u2019s why crypto markets should care about FIFA\u2019s growing digital footprint",
-    "description": "Didier Deschamps breaks the World Cup management record with 26 games as FIFA's blockchain and digital collectibles strategy scales during the 2026\nThe post Didier Deschamps breaks World Cup management record with 26 games, and here\u2019s why crypto markets shoul\u2026",
-    "url": "https://cryptobriefing.com/deschamps-world-cup-record-crypto-sports/",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18153543/didier-deschamps-2-800x420.jpeg",
-    "source": "Crypto Briefing",
-    "publishedAt": "2026-07-18T19:35:46Z",
-    "category": "Artificial Intelligence",
-    "summary": "Didier Deschamps breaks the World Cup management record with 26 games as FIFA's blockchain and digital collectibles strategy scales during the 2026\nThe post Didier Deschamps breaks World Cup management record with 26 games, and here\u2019s why crypto markets shoul\u2026"
-  },
-  {
-    "id": "f-U_oPKd-uo",
-    "title": "TSMC Is Pouring $100 Billion More Into Its Arizona Plant to Keep Up With Strong US Customer Demand",
-    "description": "Taiwan Semiconductor Manufacturing Co. Ltd. will pour an extra $100 billion into its Arizona facilities to cater to the burgeoning customer demand. On Thursd...",
-    "url": "https://finance.yahoo.com/technology/articles/tsmc-pouring-100-billion-more-193035757.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/CD79AF0E9FE97223006D83A1B86EAF52AB7FF50E7AD634ED24B8E6F6CD8542B4/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F154f5b571b4e4ad11f7c34deaacc0ba8",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-07-18T19:30:35Z",
-    "category": "Artificial Intelligence",
-    "summary": "Taiwan Semiconductor Manufacturing Co. Ltd. will pour an extra $100 billion into its Arizona facilities to cater to the burgeoning customer demand. On Thursd..."
-  },
-  {
-    "id": "OqTFtui3R4M",
-    "title": "\u2018The Dark Knight\u2019 remains a masterpiece 18 years later and a reminder of Christopher Nolan\u2019s greatness",
-    "description": "Heath Ledger's Joker, Christian Bale's Batman, and Christopher Nolan's gritty vision made \"The Dark Knight\" a nearly flawless masterpiece 18 years ago.",
-    "url": "https://www.foxnews.com/outkick-analysis/dark-knight-masterpiece-18-years-later-reminder-christopher-nolan-greatness",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/christopher-nolan-speaking.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-07-18T19:29:01Z",
-    "category": "Artificial Intelligence",
-    "summary": "Heath Ledger's Joker, Christian Bale's Batman, and Christopher Nolan's gritty vision made \"The Dark Knight\" a nearly flawless masterpiece 18 years ago."
-  },
-  {
-    "id": "Mknlzzlq3zE",
-    "title": "Amit Shah reviews border security grid in Bengal, unveils Rs 77-crore BSF projects",
-    "description": "Union Home Minister Amit Shah reviewed advanced border security technologies in Siliguri. He inspected surveillance systems and a radio-based fence breach detection system. Shah also laid foundation stones for BSF development projects worth over Rs 77 crore. \u2026",
-    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/amit-shah-reviews-border-security-grid-in-bengal-unveils-rs-77-crore-bsf-projects/articleshow/132486405.cms",
-    "image": "https://img.etimg.com/thumb/msid-132486422,width-1200,height-630,imgsize-135156,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-07-18T19:20:14Z",
-    "category": "Artificial Intelligence",
-    "summary": "Union Home Minister Amit Shah reviewed advanced border security technologies in Siliguri. He inspected surveillance systems and a radio-based fence breach detection system. Shah also laid foundation stones for BSF development projects worth over Rs 77 crore. \u2026"
-  },
-  {
-    "id": "CtT1OdeN02Q",
-    "title": "Dong Nai consults experts on science, technology, innovation and digital transformation",
-    "description": "The Steering Committee for the Development of Science, Technology, Innovation and Digital Transformation of Dong Nai City held a conference on July 17 to consult its Advisory Council of Experts on the city's strategy for the development of science, technology\u2026",
-    "url": "https://baodongnai.com.vn/english/business/202607/dong-nai-consults-experts-on-science-technology-innovation-and-digital-transformation-20e1292/",
-    "image": "https://baodongnai.com.vn/file/e7837c02876411cd0187645a2551379f/072026/1_20260718145936.webp",
-    "source": "Baodongnai.com.vn",
-    "publishedAt": "2026-07-18T19:06:48Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Steering Committee for the Development of Science, Technology, Innovation and Digital Transformation of Dong Nai City held a conference on July 17 to consult its Advisory Council of Experts on the city's strategy for the development of science, technology\u2026"
-  },
-  {
-    "id": "g7jZ3xXpyf8",
-    "title": "Fisker Went Out Of Business Before Giving The Ocean Hands-Free Driving, So Now An Aftermarket Company Is Doing It",
-    "description": "It's not just for Fisker owners, either, as Comma AI boasts that the system is currently compatible with more than 325 cars from specific model years.",
-    "url": "https://www.jalopnik.com/2216977/fisker-ocean-hands-free-driving-aftermarket-company/",
-    "image": "https://www.jalopnik.com/img/gallery/fisker-went-out-of-business-before-giving-the-ocean-hands-free-driving-so-now-an-aftermarket-company-is-doing-it/l-intro-1784230814.jpg",
-    "source": "Jalopnik",
-    "publishedAt": "2026-07-18T19:05:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "It's not just for Fisker owners, either, as Comma AI boasts that the system is currently compatible with more than 325 cars from specific model years."
-  },
-  {
-    "id": "T9IwKVNIXf0",
-    "title": "America In Focus: US inflation cooled in June, but AI build-out poses latest threat",
-    "description": "U.S. inflation cooled last month as the cost of gas, clothes, and used cars fell, providing some relief to consumers, while underlying price pressures also cooled more than expected. Prices dropped 0.4% in June from May, the largest monthly drop in four years\u2026",
-    "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608",
-    "image": "https://dims.apnews.com/dims4/default/adc2735/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F88%2F62315d9510c1f7891433b964deab%2F55a0696f7a6347ebb4823174466b052b",
-    "source": "Associated Press",
-    "publishedAt": "2026-07-18T19:02:58Z",
-    "category": "Artificial Intelligence",
-    "summary": "U.S. inflation cooled last month as the cost of gas, clothes, and used cars fell, providing some relief to consumers, while underlying price pressures also cooled more than expected. Prices dropped 0.4% in June from May, the largest monthly drop in four years\u2026"
-  },
-  {
-    "id": "XTYwN81fhcc",
-    "title": "The anti-aging industry promises to extend life. Here's the reality",
-    "description": "The fear of aging is driving a wave of biohacking businesses promising to help restore youth and fight disease. Four Corners investigates the race to reverse the aging process.",
-    "url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024",
-    "image": "https://live-production.wcms.abc-cdn.net.au/37ef0fc2c44e159a4fe15d071f466b04?impolicy=wcms_watermark_news&cropH=959&cropW=1705&xPos=28&yPos=0&width=862&height=485&imformat=generic",
-    "source": "ABC News (AU)",
-    "publishedAt": "2026-07-18T19:00:30Z",
-    "category": "Artificial Intelligence",
-    "summary": "The fear of aging is driving a wave of biohacking businesses promising to help restore youth and fight disease. Four Corners investigates the race to reverse the aging process."
-  },
-  {
-    "id": "YfukMEzFEaY",
-    "title": "New York school district to deploy humanoid robot in classrooms this fall",
-    "description": "A humanoid robot named Sally will assist students in a Western New York school district this fall as educators test AI integration in teaching.",
-    "url": "https://www.foxnews.com/media/new-york-school-district-deploy-humanoid-robot-classrooms-fall",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/california-faculty-call-for-standardized-test-scores-to-be-reinstated.jpeg",
-    "source": "Fox News",
-    "publishedAt": "2026-07-18T19:00:24Z",
-    "category": "Artificial Intelligence",
-    "summary": "A humanoid robot named Sally will assist students in a Western New York school district this fall as educators test AI integration in teaching."
-  },
-  {
-    "id": "0jTWX8myWeo",
-    "title": "Slack started as a video game that nobody wanted to play",
-    "description": "One failed game somehow created the app that now interrupts millions of workdays.",
-    "url": "https://www.makeuseof.com/slack-started-as-a-video-game-that-nobody-wanted-to-play/",
-    "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/07/slack-banner-displayed-on-new-york-stock-exchange.jpg?w=1600&h=900&fit=crop",
-    "source": "MakeUseOf",
-    "publishedAt": "2026-07-18T19:00:12Z",
-    "category": "Artificial Intelligence",
-    "summary": "One failed game somehow created the app that now interrupts millions of workdays."
-  },
-  {
-    "id": "56ayiw-wuh0",
-    "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
-    "description": "A new oil pipeline could connect eastern and western Canada as the oil-rich country seeks to become more self-reliant and reduce its energy dependence on the United States. However, not everyone is in support of the project, which is at odds with Canada\u2019s cli\u2026",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
-    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_krazsgt5qe.jpg",
-    "source": "OilPrice.com",
-    "publishedAt": "2026-07-18T19:00:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "A new oil pipeline could connect eastern and western Canada as the oil-rich country seeks to become more self-reliant and reduce its energy dependence on the United States. However, not everyone is in support of the project, which is at odds with Canada\u2019s cli\u2026"
-  },
-  {
-    "id": "LIe2lQ8l4hw",
-    "title": "New Bitcoin Recovery Plan Aims to Counter Q-Day Threat",
-    "description": "The digital asset community is making efforts ahead of a possible Q-Day when quantum computers will break cryptography.",
-    "url": "https://zycrypto.com/new-bitcoin-recovery-plan-aims-to-counter-q-day-threat/",
-    "image": "https://zycrypto.com/wp-content/uploads/2026/02/Prominent-Bull-Michael-Saylor-Predicts-Bitcoin-Safe-From-Quantum-Threat-For-Over-A-Decade.jpg",
-    "source": "ZyCrypto",
-    "publishedAt": "2026-07-18T18:53:17Z",
-    "category": "Artificial Intelligence",
-    "summary": "The digital asset community is making efforts ahead of a possible Q-Day when quantum computers will break cryptography."
-  },
-  {
-    "id": "F9lz8DlXVgM",
-    "title": "5 Common Problems With Ego Chainsaws",
-    "description": "Common Ego chainsaw problems include heavy weight, chain tensioning issues, short battery life, oil leaks, and excessive noise.",
-    "url": "https://www.slashgear.com/2214162/common-problems-with-ego-chainsaws/",
-    "image": "https://www.slashgear.com/img/gallery/5-common-problems-with-ego-chainsaws/l-intro-1783935681.jpg",
-    "source": "SlashGear",
-    "publishedAt": "2026-07-18T18:52:45Z",
-    "category": "Artificial Intelligence",
-    "summary": "Common Ego chainsaw problems include heavy weight, chain tensioning issues, short battery life, oil leaks, and excessive noise."
   }
 ]
