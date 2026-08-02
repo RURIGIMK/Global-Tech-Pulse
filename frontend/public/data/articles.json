@@ -1,5 +1,324 @@
 [
   {
+    "id": "2smj1pwbQDY",
+    "title": "AI may not take your job, but it could change how you get one, experts say",
+    "description": "Employers say AI skills are becoming essential, and the technology is changing how workers get hired and evaluated.",
+    "url": "https://www.newsnationnow.com/business/tech/ai/ai-reshaping-workforce-hiring-practices/",
+    "image": "https://s.yimg.com/lo/mysterio/api/f00925d574d9c0a58fa3c6c9890a2300f474032bede2ca12e10c9f1c1cba2f4a/lightyear_networkapi/resizefill_w900_h505;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fb8bb42556cf61687fa400a3352e4f476",
+    "source": "Newsnationnow.com",
+    "publishedAt": "2026-08-01T21:58:40Z",
+    "category": "Artificial Intelligence",
+    "summary": "Employers say AI skills are becoming essential, and the technology is changing how workers get hired and evaluated."
+  },
+  {
+    "id": "DiAuwqsJPQo",
+    "title": "Amid fears of Iranian cyberattacks, Michigan joins Minnesota in reporting hackers targeted water systems. The FBI is now investigating",
+    "description": "Earlier this week, authorities said cyberattacks targeted over 30 water systems in Minnesota.",
+    "url": "https://fortune.com/2026/08/01/iranian-cyberattacks-michigan-minnesota-hackers-water-systems-fbi/",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26211784682407-e1785620359574.jpg?resize=1200,600",
+    "source": "Fortune",
+    "publishedAt": "2026-08-01T21:47:05Z",
+    "category": "Artificial Intelligence",
+    "summary": "Earlier this week, authorities said cyberattacks targeted over 30 water systems in Minnesota."
+  },
+  {
+    "id": "DBmMJVc80FQ",
+    "title": "New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties",
+    "description": "The lawsuit could reshape the regulatory landscape for prediction markets, impacting their operations and investor confidence nationwide.\nThe post New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties appeared first on Cr\u2026",
+    "url": "https://cryptobriefing.com/new-york-sues-kalshi-gambling-violations/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01173432/a-phone-displays-crypto-prices-on-the-kalshi-app-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-08-01T21:34:35Z",
+    "category": "Artificial Intelligence",
+    "summary": "The lawsuit could reshape the regulatory landscape for prediction markets, impacting their operations and investor confidence nationwide.\nThe post New York sues Kalshi over illegal gambling violations, seeks up to $36 billion in penalties appeared first on Cr\u2026"
+  },
+  {
+    "id": "ixT22Uyerz8",
+    "title": "Star Trek's New 12-Part Captain Kirk Series Is Here, And It Unlocks The Franchise's Future",
+    "description": "Star Trek's latest Kirk series delves into the aftermath of one of the biggest events in the franchise's history, opening the door to similar stories.",
+    "url": "https://screenrant.com/star-trek-last-star-ship-new-captain-kirk-series-franchise-future/",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/captain-kirk-despondent.jpg?w=1600&h=900&fit=crop",
+    "source": "Screen Rant",
+    "publishedAt": "2026-08-01T21:30:11Z",
+    "category": "Artificial Intelligence",
+    "summary": "Star Trek's latest Kirk series delves into the aftermath of one of the biggest events in the franchise's history, opening the door to similar stories."
+  },
+  {
+    "id": "E4v_ZqdrlDs",
+    "title": "Ukraine will mass-produce Stone Cloak EW tech after the UK allows Kyiv to build a tablet-sized device",
+    "description": "Ukraine receives Stone Cloak technology rights from Britain, allowing domestic production of tablet-sized electronic warfare devices designed against enemy drones.",
+    "url": "https://www.techradar.com/pro/ukraine-will-mass-produce-stone-cloak-ew-tech-after-the-uk-allows-kyiv-to-build-a-tablet-sized-device",
+    "image": "https://cdn.mos.cms.futurecdn.net/ym7nKmDL8W4jdiJhMvdiwL-1920-80.png",
+    "source": "TechRadar",
+    "publishedAt": "2026-08-01T21:10:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Ukraine receives Stone Cloak technology rights from Britain, allowing domestic production of tablet-sized electronic warfare devices designed against enemy drones."
+  },
+  {
+    "id": "t5OLaYlXsaY",
+    "title": "Shittu 'robbed' - are AI boxing judges the answer?",
+    "description": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?",
+    "url": "https://www.bbc.com/sport/boxing/articles/c4g42xk1l7vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e9a34fdbb5dad20378c2358a7a465f6fc33a7abee642698debad2126ba399990/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbff5b9a801d9f8d67616d5753fed078a",
+    "source": "BBC News",
+    "publishedAt": "2026-08-01T21:07:51Z",
+    "category": "Artificial Intelligence",
+    "summary": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?"
+  },
+  {
+    "id": "tWhtBWhr9Uc",
+    "title": "Shittu 'robbed' - are AI boxing judges the answer?",
+    "description": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0e8/live/3c971ec0-8de5-11f1-92c6-e748252fe919.jpg",
+    "source": "BBC News",
+    "publishedAt": "2026-08-01T21:05:12Z",
+    "category": "Artificial Intelligence",
+    "summary": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?"
+  },
+  {
+    "id": "xt9kBin6sRM",
+    "title": "Granny Grommets connect women far beyond the waves",
+    "description": "When 70-year-old Annie Milne started a Granny Grommets group in her small northern New South Wales town she was \"inundated\" by older women eager to make friends and step out of their comfort zone.",
+    "url": "https://www.abc.net.au/news/2026-08-02/granny-grommets-find-fitness-and-friendship-in-the-waves/106965728",
+    "image": "https://live-production.wcms.abc-cdn.net.au/06c1ce3532e2ca58a63b9da4e8cf64f1?impolicy=wcms_watermark_news&cropH=2339&cropW=4159&xPos=0&yPos=479&width=862&height=485&imformat=generic",
+    "source": "ABC News (AU)",
+    "publishedAt": "2026-08-01T21:02:18Z",
+    "category": "Other Tech",
+    "summary": "When 70-year-old Annie Milne started a Granny Grommets group in her small northern New South Wales town she was \"inundated\" by older women eager to make friends and step out of their comfort zone."
+  },
+  {
+    "id": "O-yjjnqCgvw",
+    "title": "Trump social network offers $100,000 access to early posts",
+    "description": "Trump Media has launched a premium Truth Social service allowing subscribers to view President Trump\u2019s posts before the public, drawing criticism from Democratic senators who are calling for an SEC investigation.",
+    "url": "https://www.israelnationalnews.com/news/431088",
+    "image": "https://2.a7.org/files/pictures/000/1222443.jpg",
+    "source": "Israelnationalnews.com",
+    "publishedAt": "2026-08-01T21:00:52Z",
+    "category": "Other Tech",
+    "summary": "Trump Media has launched a premium Truth Social service allowing subscribers to view President Trump\u2019s posts before the public, drawing criticism from Democratic senators who are calling for an SEC investigation."
+  },
+  {
+    "id": "RiO86CWToQ8",
+    "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+    "description": "Middle East turmoil, centered on the U.S. war with Iran, is playing havoc with world energy markets. An ongoing dispute over access to the Strait of Hormuz, through which a fifth of world oil and natural gas supply is shipped, is causing prices to surge. This\u2026",
+    "url": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_e78l6yzdcm.jpg",
+    "source": "OilPrice.com",
+    "publishedAt": "2026-08-01T21:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Middle East turmoil, centered on the U.S. war with Iran, is playing havoc with world energy markets. An ongoing dispute over access to the Strait of Hormuz, through which a fifth of world oil and natural gas supply is shipped, is causing prices to surge. This\u2026"
+  },
+  {
+    "id": "5TgvVPs93M8",
+    "title": "AI\u2019s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+    "description": "Flexible grid connections, workload shifting, batteries and smarter siting could make data centers valuable grid assets rather than merely another source of...",
+    "url": "https://finance.yahoo.com/energy/articles/ai-electricity-demand-not-real-210000461.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/0E063F8946546A921AFB1717115E65B467C4418AF78E916303E1B7E697D5F3D2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F3bd7b75f04d9aaf26f93c7b41bc043a4",
+    "source": "Yahoo Entertainment",
+    "publishedAt": "2026-08-01T21:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Flexible grid connections, workload shifting, batteries and smarter siting could make data centers valuable grid assets rather than merely another source of..."
+  },
+  {
+    "id": "uJnCIdXJZ0U",
+    "title": "AI\u2019s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+    "description": "The electricity demand created by artificial intelligence is usually presented as a simple supply problem. AI requires increasingly large data centers, those facilities consume enormous amounts of electricity, and utilities must somehow build enough power pla\u2026",
+    "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+    "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-01_qb2c8hb0ow.jpg",
+    "source": "OilPrice.com",
+    "publishedAt": "2026-08-01T21:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "The electricity demand created by artificial intelligence is usually presented as a simple supply problem. AI requires increasingly large data centers, those facilities consume enormous amounts of electricity, and utilities must somehow build enough power pla\u2026"
+  },
+  {
+    "id": "X28XkFXvBvM",
+    "title": "FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems",
+    "description": "Michigan has joined Minnesota in reporting cyberattacks on water systems but an official said all were operating \u201csafely.\u201d",
+    "url": "https://abcnews.com/US/wireStory/fbi-investigates-michigan-joins-minnesota-reporting-cyberattacks-water-135291463",
+    "image": "https://i.abcnewsfe.com/a/60cd9b86-d544-4065-9469-945818945a92/wirestory_77d52a1d7356e608500a1ddb0ec373a6_16x9.jpg?w=1600",
+    "source": "Abcnews.com",
+    "publishedAt": "2026-08-01T20:45:52Z",
+    "category": "Artificial Intelligence",
+    "summary": "Michigan has joined Minnesota in reporting cyberattacks on water systems but an official said all were operating \u201csafely.\u201d"
+  },
+  {
+    "id": "4SUDD2mSdWI",
+    "title": "Oil leak spreads from a sanctioned tanker grounded off Oman, images show",
+    "description": "Satellite images reviewed by The Associated Press reveal there's crude oil leaking from a sanctioned tanker grounded off Oman's coast",
+    "url": "https://abcnews.com/Business/wireStory/oil-leak-spreads-sanctioned-tanker-grounded-off-oman-135291674",
+    "image": "https://i.abcnewsfe.com/a/b798b1d6-bbf4-403e-a21a-a9f336647874/wirestory_7dff0e9aa32a4dad4207fe5ced3697fa_16x9.jpg?w=1600",
+    "source": "Abcnews.com",
+    "publishedAt": "2026-08-01T20:45:13Z",
+    "category": "Other Tech",
+    "summary": "Satellite images reviewed by The Associated Press reveal there's crude oil leaking from a sanctioned tanker grounded off Oman's coast"
+  },
+  {
+    "id": "ZeURct1io6A",
+    "title": "Did Spider-Man: Brand New Day Just Tease Norman Osborn\u2019s Oscorp?",
+    "description": "Oscorp has been missing from the MCU, but a small moment in Spider-Man: Brand New Day might just plant a seed for debuting Norman Osborn's business.",
+    "url": "https://screenrant.com/spiderman-brand-new-day-oscorp-tease/",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/tom-holland-s-spider-man-looking-around-in-spider-man-brand-new-day.jpg?w=1600&h=900&fit=crop",
+    "source": "Screen Rant",
+    "publishedAt": "2026-08-01T20:45:11Z",
+    "category": "Artificial Intelligence",
+    "summary": "Oscorp has been missing from the MCU, but a small moment in Spider-Man: Brand New Day might just plant a seed for debuting Norman Osborn's business."
+  },
+  {
+    "id": "R-YHaSANiYo",
+    "title": "As the Tide Loves the Diver, As the Diver Loves the Tide by Ravn J. Silver",
+    "description": "Your first swim starts like this: your mother, checking the seal of your rebreather and the cables attached to the port at the base of your skull before lowering you [\u2026]",
+    "url": "https://clarkesworldmagazine.com/silver_08_26/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:40:47Z",
+    "category": "Other Tech",
+    "summary": "Your first swim starts like this: your mother, checking the seal of your rebreather and the cables attached to the port at the base of your skull before lowering you [\u2026]"
+  },
+  {
+    "id": "uRWVpo3l93s",
+    "title": "Passenger Pigeons, Dodos, Neanderthals by Jordan Alexander",
+    "description": "I was a month into the Endangered Species Initiative when my case manager decided I was acclimated enough to Martian society to start working. When she told me what the [\u2026]",
+    "url": "https://clarkesworldmagazine.com/alexander_08_26/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:40:03Z",
+    "category": "Other Tech",
+    "summary": "I was a month into the Endangered Species Initiative when my case manager decided I was acclimated enough to Martian society to start working. When she told me what the [\u2026]"
+  },
+  {
+    "id": "WfJQDhmxXAw",
+    "title": "Piece de Resistance by D.A. Xiaolin Spires",
+    "description": "\u201cAll clear, go!\u201d yelled Klara from beyond the plastic confines of the ball, and I came tumbling. Water sloshed against my feet, and adrenaline rushed from my stomach up my [\u2026]",
+    "url": "https://clarkesworldmagazine.com/spires_08_26/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:39:51Z",
+    "category": "Artificial Intelligence",
+    "summary": "\u201cAll clear, go!\u201d yelled Klara from beyond the plastic confines of the ball, and I came tumbling. Water sloshed against my feet, and adrenaline rushed from my stomach up my [\u2026]"
+  },
+  {
+    "id": "iJbM1p-RZRA",
+    "title": "Feed Them on Your Dreams by E.N. Auslender",
+    "description": "Vacule Grievouss, as anyone would suspect, wasn\u2019t bequeathed much in the way of opportunities by his parents. He was the child of two stack zappers operating out of the newly [\u2026]",
+    "url": "https://clarkesworldmagazine.com/auslender_08_26/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:39:39Z",
+    "category": "Other Tech",
+    "summary": "Vacule Grievouss, as anyone would suspect, wasn\u2019t bequeathed much in the way of opportunities by his parents. He was the child of two stack zappers operating out of the newly [\u2026]"
+  },
+  {
+    "id": "WFxAFZVObn8",
+    "title": "Destination: Saturn by Andrew Liptak",
+    "description": "Early in Larry Niven and Jerry Pournelle\u2019s 1985 novel Footfall, NASA\u2019s Jet Propulsion Laboratory is celebrating a new achievement: Voyager\u2019s flyby of Saturn. The scientists hold a press conference and [\u2026]",
+    "url": "https://clarkesworldmagazine.com/liptak_08_26/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:38:41Z",
+    "category": "Other Tech",
+    "summary": "Early in Larry Niven and Jerry Pournelle\u2019s 1985 novel Footfall, NASA\u2019s Jet Propulsion Laboratory is celebrating a new achievement: Voyager\u2019s flyby of Saturn. The scientists hold a press conference and [\u2026]"
+  },
+  {
+    "id": "U9Mcut8kX_A",
+    "title": "The Minds and Bodies of Robots: A Conversation with James Patrick Kelly by Arley Sorg",
+    "description": "James Patrick Kelly was born in Mineola, NY, and grew up in a suburb called Pound Ridge. His father commuted to Manhattan for a Fortune 500 company, and his mother [\u2026]",
+    "url": "https://clarkesworldmagazine.com/kelly_interview_2026/",
+    "image": "https://clarkesworldmagazine.com/covers/cw_239_800.jpg?3",
+    "source": "Clarkesworldmagazine.com",
+    "publishedAt": "2026-08-01T20:38:32Z",
+    "category": "Artificial Intelligence",
+    "summary": "James Patrick Kelly was born in Mineola, NY, and grew up in a suburb called Pound Ridge. His father commuted to Manhattan for a Fortune 500 company, and his mother [\u2026]"
+  },
+  {
+    "id": "Heyq5bFNFsM",
+    "title": "Silent Hill: Townfall's devs say they're purposefully playing against your nostalgic tech feelings, but I'm not sure it'll work on me",
+    "description": "The Silent Hill series has one of those worlds that I just struggle to conceptually place in a contemporary setting. Sure, that'll partially be down to when the original four games were released, but seeing a faux iPhone in The Short Message just felt wrong t\u2026",
+    "url": "https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me",
+    "image": "https://assetsio.gnwcdn.com/silent-hill-townfall-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "publishedAt": "2026-08-01T20:35:12Z",
+    "category": "Artificial Intelligence",
+    "summary": "The Silent Hill series has one of those worlds that I just struggle to conceptually place in a contemporary setting. Sure, that'll partially be down to when the original four games were released, but seeing a faux iPhone in The Short Message just felt wrong t\u2026"
+  },
+  {
+    "id": "-bioOy9yUWk",
+    "title": "Michigan and Minnesota report cyberattacks on water systems",
+    "description": "Michigan has joined Minnesota in reporting cyberattacks on water systems but an official said all were operating \u201csafely.\u201d",
+    "url": "https://www.wsbtv.com/news/business/fbi-investigates/S25I4IS2YM3UPPAYWPC3JNSOAM/",
+    "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBD64K54DXY65LMDG4YNQ4XOWHQ.jpg?auth=328d35bddf1d40aae2cfeeb391f76a6c07559e55b89bb7e9ff3f4753d0c170bb&width=1200&height=630&smart=true",
+    "source": "WSB Atlanta",
+    "publishedAt": "2026-08-01T20:34:49Z",
+    "category": "Artificial Intelligence",
+    "summary": "Michigan has joined Minnesota in reporting cyberattacks on water systems but an official said all were operating \u201csafely.\u201d"
+  },
+  {
+    "id": "fhk1Wic3JnA",
+    "title": "Silicon Motion Crushed Earnings and Surprised Memory Chip Bears",
+    "description": "Silicon Motion Technology (NASDAQ: SIMO) left little doubt about memory chip demand when it reported second-quarter results. It was reasonable for bullish investors to expect outperformance after Micron more than quadrupled its year-over-year revenue, but the\u2026",
+    "url": "https://biztoc.com/x/a1b5ab5e1640ef10",
+    "image": "https://biztoc.com/cdn/a1b5ab5e1640ef10_s.webp",
+    "source": "Biztoc.com",
+    "publishedAt": "2026-08-01T20:31:45Z",
+    "category": "Gadgets & Hardware",
+    "summary": "Silicon Motion Technology (NASDAQ: SIMO) left little doubt about memory chip demand when it reported second-quarter results. It was reasonable for bullish investors to expect outperformance after Micron more than quadrupled its year-over-year revenue, but the\u2026"
+  },
+  {
+    "id": "eXBctMNjtMY",
+    "title": "AI set to reshape insurance economics, push industry towards scale, specialisation: Report | Business",
+    "description": "Artificial intelligence is set to reshape the economics of the global insurance industry, with carriers, brokers and technology providers that move early potentially gaining a significant competitive edge as AI changes underwriting, distribution, productivity\u2026",
+    "url": "https://www.devdiscourse.com/article/business/3958180-ai-set-to-reshape-insurance-economics-push-industry-towards-scale-specialisation-report",
+    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/01_08_2026_10_05_33_1625662.jpg&width=920&format=jpeg",
+    "source": "Devdiscourse",
+    "publishedAt": "2026-08-01T20:28:07Z",
+    "category": "Artificial Intelligence",
+    "summary": "Artificial intelligence is set to reshape the economics of the global insurance industry, with carriers, brokers and technology providers that move early potentially gaining a significant competitive edge as AI changes underwriting, distribution, productivity\u2026"
+  },
+  {
+    "id": "uiN9SDw6irM",
+    "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+    "description": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6242x3511+0+532/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F42%2F714a9d7f4d65bc7a70f4ecc54d14%2Fap26213122498207.jpg",
+    "source": "NPR",
+    "publishedAt": "2026-08-01T20:27:32Z",
+    "category": "Artificial Intelligence",
+    "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems."
+  },
+  {
+    "id": "YBU7aKXb4MA",
+    "title": "Canadian aquaculture gets a high-tech makeover: How innovation could strengthen future food supplies",
+    "description": "Canadian aquaculture is entering a period where biology, engineering and digital technology are becoming inseparable. The sector's future may involve AI-managed fish farms, genomically selected stock, precision feeding systems, renewable-energy-powered recirc\u2026",
+    "url": "https://www.digitaljournal.com/article/canadian-aquaculture-gets-a-high-tech-makeover-how-innovation-could-strengthen-future-food-supplies/",
+    "image": "https://www.digitaljournal.com/wp-content/uploads/2024/10/6b113c377deee69edac982141f5069797ef6051f.jpg",
+    "source": "Digital Journal",
+    "publishedAt": "2026-08-01T20:22:48Z",
+    "category": "Artificial Intelligence",
+    "summary": "Canadian aquaculture is entering a period where biology, engineering and digital technology are becoming inseparable. The sector's future may involve AI-managed fish farms, genomically selected stock, precision feeding systems, renewable-energy-powered recirc\u2026"
+  },
+  {
+    "id": "AduOtdMcKnM",
+    "title": "Canada\u2019s minerals are becoming the foundation of its technology economy",
+    "description": "Canada\u2019s mineral-technology fusion is therefore at an inflection point. The resources exist, the policy architecture is developing, and international demand is rising. The challenge is execution: turning mines into materials, materials into components, compon\u2026",
+    "url": "https://www.digitaljournal.com/article/canadas-minerals-are-becoming-the-foundation-of-its-technology-economy/",
+    "image": "https://www.digitaljournal.com/wp-content/uploads/2026/02/7d541875d4703a7298bbeefd8f9c625b6eae04e8.jpg",
+    "source": "Digital Journal",
+    "publishedAt": "2026-08-01T20:16:17Z",
+    "category": "Science & Emerging Tech",
+    "summary": "Canada\u2019s mineral-technology fusion is therefore at an inflection point. The resources exist, the policy architecture is developing, and international demand is rising. The challenge is execution: turning mines into materials, materials into components, compon\u2026"
+  },
+  {
+    "id": "clkGM6SuXQg",
+    "title": "Why Western Europe needs a Russian threat",
+    "description": "As the US steps back from Europe, the Russian threat offers Brussels a unifying cause \u2013 and Ukraine the army needed to sustain confrontation Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/643747-western-europe-needs-russian-threat/",
+    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a6e105120302739ea08d353.jpg",
+    "source": "RT",
+    "publishedAt": "2026-08-01T20:15:13Z",
+    "category": "Artificial Intelligence",
+    "summary": "As the US steps back from Europe, the Russian threat offers Brussels a unifying cause \u2013 and Ukraine the army needed to sustain confrontation Read Full Article at RT.com"
+  },
+  {
     "id": "8BsuX9O_tss",
     "title": "Apple CEO sends strong warning on AI and price of Apple products",
     "description": "Tim Cook spent part of July 30 thanking Apple shareholders at the end of what he confirmed would be his last earnings call as CEO. John Ternus takes over Sep...",
@@ -20,39 +339,6 @@
     "publishedAt": "2026-08-01T20:00:52Z",
     "category": "Artificial Intelligence",
     "summary": "\"The bill\u2019s argument is rooted in a common consumer complaint that the labor once performed by the cashier now falls on the customer, without any compensation.\"\nThe post NY Dems Propose 10% Discount for Self-Checkout Purchases at Food Retailers first appeared\u2026"
-  },
-  {
-    "id": "oH_cY9dq8dk",
-    "title": "Suze Orman Warns of Financial Risks When Kids Move Back Home. She Calls One Financial Choice the Opposite of Being a Good Parent",
-    "description": "With housing costs still putting pressure on young adults, many parents are opening their doors to children who need a place to stay. For some families, it\u2019s...",
-    "url": "https://finance.yahoo.com/markets/articles/suze-orman-warns-financial-risks-200015617.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/043D7687DD7D3AFFAA30301DB9BFD8FE4F0FEBA76411BE42FFC3A11CABB1617E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F9a26ccfb537982331a507b7f972c55a8",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-08-01T20:00:15Z",
-    "category": "Other Tech",
-    "summary": "With housing costs still putting pressure on young adults, many parents are opening their doors to children who need a place to stay. For some families, it\u2019s..."
-  },
-  {
-    "id": "3xYp_rWRC6c",
-    "title": "Creality SPARKX i7 Nano Combo 3D Printer for $299 + free shipping",
-    "description": "With promo code \"NEWFINDS20\", this Creality SPARKX i7 Nano Combo 3D Printer drops to $299. It's $60 cheaper than Amazon's price. This model prints at speeds up to 500 mm/s and supports a wide range of filaments including PLA, TPU, PETG, and ABS, and comes bun\u2026",
-    "url": "https://www.dealnews.com/Creality-SPARKX-i7-Nano-Combo-3-D-Printer-for-299-free-shipping/21956122.html",
-    "image": "https://d.dlnws.com/64599/1785614074-product-trimmed.jpg?h=750&w=1024",
-    "source": "Dealnews.com",
-    "publishedAt": "2026-08-01T19:54:42Z",
-    "category": "Other Tech",
-    "summary": "With promo code \"NEWFINDS20\", this Creality SPARKX i7 Nano Combo 3D Printer drops to $299. It's $60 cheaper than Amazon's price. This model prints at speeds up to 500 mm/s and supports a wide range of filaments including PLA, TPU, PETG, and ABS, and comes bun\u2026"
-  },
-  {
-    "id": "CV0ZitBBViU",
-    "title": "Satellite images reveal oil leaking from a sanctioned tanker near Oman",
-    "description": "Satellite images reviewed by The Associated Press reveal there's crude oil leaking from a sanctioned tanker grounded off Oman's coast. The oil sheen covers about 20 square kilometers and affects Dhofar\u2019s Qibliyah Island. Environmental expert Wim Zwijnenburg s\u2026",
-    "url": "https://apnews.com/article/oil-tanker-spill-environment-russia-oman-marine-7dff0e9aa32a4dad4207fe5ced3697fa",
-    "image": "https://dims.apnews.com/dims4/default/7a30bb9/2147483647/strip/true/crop/3000x1999+0+501/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3c%2Ffb%2F72242ea6328132ac33d78a507fa3%2Ffa83666ef0094f4c99f7b828c42c6236",
-    "source": "Associated Press",
-    "publishedAt": "2026-08-01T19:48:12Z",
-    "category": "Other Tech",
-    "summary": "Satellite images reviewed by The Associated Press reveal there's crude oil leaking from a sanctioned tanker grounded off Oman's coast. The oil sheen covers about 20 square kilometers and affects Dhofar\u2019s Qibliyah Island. Environmental expert Wim Zwijnenburg s\u2026"
   },
   {
     "id": "X1AFUfddc5o",
@@ -97,17 +383,6 @@
     "publishedAt": "2026-08-01T19:30:00Z",
     "category": "Artificial Intelligence",
     "summary": "Spoof movies are making a pretty fun comeback, and honestly, it's about time. Last year gave audiences The Naked Gun and Spinal Tap II: The End Continues, Scary Movie pulled in more than $230 million worldwide this summer, and Spaceballs: The New One is alrea\u2026"
-  },
-  {
-    "id": "fSiSeT9XBN0",
-    "title": "Baby boomers hate 10 things about today's grocery stores",
-    "description": "From self-checkout frustrations to digital coupons and understaffing, baby boomers have strong opinions about how modern grocery stores have changed.",
-    "url": "https://www.foxnews.com/food-drink/baby-boomers-hate-10-things-todays-grocery-stores",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/c2ffeed1-boomers_grocery.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-08-01T19:29:42Z",
-    "category": "Other Tech",
-    "summary": "From self-checkout frustrations to digital coupons and understaffing, baby boomers have strong opinions about how modern grocery stores have changed."
   },
   {
     "id": "SlhjE-jQ8vo",
@@ -165,50 +440,6 @@
     "summary": "Smart Glasses Run Hot. A 1mm Fan Might Finally Fix That.Smart glasses have a problem they don\u2019t talk about enough, and it has nothing to do with design or battery life or social awkwardness. It\u2019s..."
   },
   {
-    "id": "AfF_ZddT3r4",
-    "title": "Tomorrow\u2019s healthcare professionals are better together | Parkview Health",
-    "description": "Those on the path toward being a medical provider will tell you that OB/GYN is a competitive specialty. \u201cThere are only three OB/GYN programs in the...",
-    "url": "https://www.parkview.com/blog/tomorrows-healthcare-professionals-are-better-together",
-    "image": "https://emi.parkview.com//media/BlogImages/Dashboard_Fixafire-GME_07_26.jpg",
-    "source": "Parkview.com",
-    "publishedAt": "2026-08-01T19:13:36Z",
-    "category": "Other Tech",
-    "summary": "Those on the path toward being a medical provider will tell you that OB/GYN is a competitive specialty. \u201cThere are only three OB/GYN programs in the..."
-  },
-  {
-    "id": "nOmftaBp3Pw",
-    "title": "My husband died and my bills went UP: The cruel financial traps and 'hidden' tax facing millions of American widows",
-    "description": "Widows face loss both emotionally and financially when their spouse dies with what some call the 'Widow Tax.' These experts reveal how to avoid falling into that trap.",
-    "url": "https://www.dailymail.com/yourmoney/article-16000951/husband-died-bills-financial-traps-tax-millions-american-widows.html",
-    "image": "https://i.dailymail.com/1s/2026/07/27/17/110277543-0-image-m-40_1785170659423.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-08-01T19:11:40Z",
-    "category": "Other Tech",
-    "summary": "Widows face loss both emotionally and financially when their spouse dies with what some call the 'Widow Tax.' These experts reveal how to avoid falling into that trap."
-  },
-  {
-    "id": "iRFGjOHIRQI",
-    "title": "Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows",
-    "description": "\"The public has been asked to accept a significant expansion of surveillance based on the promise that it would dramatically improve public safety.\"\nThe post Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows appeared first on\u2026",
-    "url": "https://futurism.com/future-society/flock-surveillance-atlanta-fbi-data-crime-case-solve",
-    "image": "https://futurism.com/wp-content/uploads/2026/07/flock-surveillance-atlanta-fbi-data-crime-case-solve.jpg?quality=85&w=1200",
-    "source": "Futurism",
-    "publishedAt": "2026-08-01T19:02:00Z",
-    "category": "Other Tech",
-    "summary": "\"The public has been asked to accept a significant expansion of surveillance based on the promise that it would dramatically improve public safety.\"\nThe post Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows appeared first on\u2026"
-  },
-  {
-    "id": "RzziFaBPveE",
-    "title": "Vanguard VONG vs VBK: Is a Small Cap ETF the Better Buy Over a Large Cap Fund in 2026?",
-    "description": "Vanguard Russell 1000 Growth ETF (NASDAQ:VONG) offers heavy concentration in mega-cap technology leaders, while Vanguard Morningstar Small-Cap Growth ETF (NYSEMKT:VBK) provides a diversified mix of smaller growth companies at a slightly lower expense.\nInvesto\u2026",
-    "url": "https://biztoc.com/x/7344ff7863877e38",
-    "image": "https://biztoc.com/cdn/7344ff7863877e38_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-08-01T19:01:34Z",
-    "category": "Other Tech",
-    "summary": "Vanguard Russell 1000 Growth ETF (NASDAQ:VONG) offers heavy concentration in mega-cap technology leaders, while Vanguard Morningstar Small-Cap Growth ETF (NYSEMKT:VBK) provides a diversified mix of smaller growth companies at a slightly lower expense.\nInvesto\u2026"
-  },
-  {
     "id": "s0hKH1uAJHQ",
     "title": "'How can you foresee the future?': The quantum gamble in the age of AI",
     "description": "More than half a century after the first computers were built, Australia is aiming to be a global innovator in quantum computing. But can it compete with the rise of AI?",
@@ -229,28 +460,6 @@
     "publishedAt": "2026-08-01T19:00:00Z",
     "category": "Artificial Intelligence",
     "summary": "In line with greater funding for renewable energy and cleantech in recent years, several companies have sought to use innovative technologies and techniques to enhance clean energy production. Tech and energy startups from around the world have raised funds t\u2026"
-  },
-  {
-    "id": "WY4z1r3Ec7k",
-    "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Park Ha Biological Technology Co., Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - PHH, BYAH",
-    "description": "NEW YORK, Aug. 01, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of securities of Park Ha Biological Technology Co., Ltd. (NASDAQ: PHH, BYAH) between December 27, 2024\u2026",
-    "url": "https://www.globenewswire.com/news-release/2026/08/01/3337155/673/en/ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Park-Ha-Biological-Technology-Co-Ltd-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-PHH-BYAH.html",
-    "image": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
-    "source": "GlobeNewswire",
-    "publishedAt": "2026-08-01T18:58:00Z",
-    "category": "Other Tech",
-    "summary": "NEW YORK, Aug. 01, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of securities of Park Ha Biological Technology Co., Ltd. (NASDAQ: PHH, BYAH) between December 27, 2024\u2026"
-  },
-  {
-    "id": "jZ1_h33bWzU",
-    "title": "CISA Alert: Water Sector PLC Targeting",
-    "description": "CISA alert: Threat actors targeting PLCs in Water and Wastewater Systems. This report includes current Censys-observed internet exposure for each named vendor.",
-    "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-    "image": "https://censys.com/wp-content/uploads/ChatGPT-Image-Jul-30-2026-05_55_24-PM.png",
-    "source": "Censys.com",
-    "publishedAt": "2026-08-01T18:50:17Z",
-    "category": "Other Tech",
-    "summary": "CISA alert: Threat actors targeting PLCs in Water and Wastewater Systems. This report includes current Censys-observed internet exposure for each named vendor."
   },
   {
     "id": "Gf8V2IAMWWE",
@@ -275,17 +484,6 @@
     "summary": "TL;DRA federal judge denied xAI\u2019s bid to block Minnesota\u2019s nudify app ban, letting the first US law of its kind take effect\nA federal judge has refused to stop Minnesota\u2019s first-in-the-nation ban on nudification apps from taking effec"
   },
   {
-    "id": "-Hb-EJbbr_8",
-    "title": "Dublin Port, Twitter, Australia Social Media, More: Saturday Afternoon ResearchBuzz, August 1, 2026",
-    "description": "NEW RESOURCES RTE: \u2018The human side\u2019 \u2013 project gathers tales from Dublin Port. \u201cJoseph Jones, who began working in the docks of Dublin in 1939, reminiscing and recounting tales from another era, [\u2026]",
-    "url": "https://researchbuzz.me/2026/08/01/dublin-port-twitter-australia-social-media-more-saturday-afternoon-researchbuzz-august-1-2026/",
-    "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-    "source": "Researchbuzz.me",
-    "publishedAt": "2026-08-01T18:35:27Z",
-    "category": "Other Tech",
-    "summary": "NEW RESOURCES RTE: \u2018The human side\u2019 \u2013 project gathers tales from Dublin Port. \u201cJoseph Jones, who began working in the docks of Dublin in 1939, reminiscing and recounting tales from another era, [\u2026]"
-  },
-  {
     "id": "245j1J6h5sQ",
     "title": "Show HN: OpenLongevity \u2013 Longevity \u00d7 AI \u2013 open, verifiable, for everyone",
     "description": "Longevity technology should not be reserved for the wealthy. Open Longevity(\u5f00\u6e90\u5ef6\u5bff) takes Bryan Johnson\u2019s longevity plan as a starting blueprint. - edison7009/OpenLongevity",
@@ -295,17 +493,6 @@
     "publishedAt": "2026-08-01T18:32:03Z",
     "category": "Artificial Intelligence",
     "summary": "Longevity technology should not be reserved for the wealthy. Open Longevity(\u5f00\u6e90\u5ef6\u5bff) takes Bryan Johnson\u2019s longevity plan as a starting blueprint. - edison7009/OpenLongevity"
-  },
-  {
-    "id": "xg4uSmHyL7s",
-    "title": "5 Insightful Analyst Questions From Old Republic International\u2019s Q2 Earnings Call",
-    "description": "Old Republic International's second quarter saw growth in both specialty and title insurance, though results missed Wall Street's expectations for revenue and adjusted profit. Management attributed these outcomes to ongoing investments in technology and data \u2026",
-    "url": "https://biztoc.com/x/3fe2afcb315f57dd",
-    "image": "https://biztoc.com/cdn/3fe2afcb315f57dd_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-08-01T18:31:26Z",
-    "category": "Other Tech",
-    "summary": "Old Republic International's second quarter saw growth in both specialty and title insurance, though results missed Wall Street's expectations for revenue and adjusted profit. Management attributed these outcomes to ongoing investments in technology and data \u2026"
   },
   {
     "id": "4VDR5Mic-RE",
@@ -361,192 +548,5 @@
     "publishedAt": "2026-08-01T18:12:37Z",
     "category": "Artificial Intelligence",
     "summary": "Today\u2019s Gen Z utilizes technology as a means to circulate offensive language and visuals, echoing the crude expressions of older generations. While past generations also employed harsh words, they lacked the means to broadcast them widely. This article highli\u2026"
-  },
-  {
-    "id": "U-zzdyDHq10",
-    "title": "Goldman Sachs says the most capital-hungry investment cycle in history has arrived",
-    "description": "The unprecedented capital-intensive cycle could reshape global economic structures, driving significant growth in infrastructure and finance sectors.\nThe post Goldman Sachs says the most capital-hungry investment cycle in history has arrived appeared first on\u2026",
-    "url": "https://cryptobriefing.com/goldman-sachs-capital-hungry-investment-cycle/",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01140536/55-broad-st-nbsp-the-former-headquarters-for-goldman-sachs-g-800x420.jpeg",
-    "source": "Crypto Briefing",
-    "publishedAt": "2026-08-01T18:05:43Z",
-    "category": "Artificial Intelligence",
-    "summary": "The unprecedented capital-intensive cycle could reshape global economic structures, driving significant growth in infrastructure and finance sectors.\nThe post Goldman Sachs says the most capital-hungry investment cycle in history has arrived appeared first on\u2026"
-  },
-  {
-    "id": "XUNywDTJ9OI",
-    "title": "I\u2019m not convinced the 20th anniversary iPhone will be what we think, here\u2019s why",
-    "description": "Next year, the iPhone will be turning 20 \u2013 and Apple is heavily rumored to be working on a radical new design to celebrate. Many have expected this to come in the form of iPhone 19 Pro (more likely to be called iPhone 20 to align with the anniversary), but I \u2026",
-    "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
-    "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "source": "9to5Mac",
-    "publishedAt": "2026-08-01T18:01:00Z",
-    "category": "Gadgets & Hardware",
-    "summary": "Next year, the iPhone will be turning 20 \u2013 and Apple is heavily rumored to be working on a radical new design to celebrate. Many have expected this to come in the form of iPhone 19 Pro (more likely to be called iPhone 20 to align with the anniversary), but I \u2026"
-  },
-  {
-    "id": "u1l6KoeOT68",
-    "title": "Trump Administration Unveils $874 Million CHIPS Act AI Push, With GlobalFoundries Securing Top Award",
-    "description": "The Commerce Department has signed letters of intent to provide $874 million in CHIPS and Science Act incentives to seven companies advancing semiconductor t...",
-    "url": "https://finance.yahoo.com/technology/ai/articles/trump-administration-unveils-874-million-180020242.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/70E614BA3BF3D76642C227338383C3AE64C47A59A923E297AAF73729596AECCC/subgraphmysterio/resizefill_w1200_h864;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fe28ac73a42ba7febed85d6b788721b79",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-08-01T18:00:20Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Commerce Department has signed letters of intent to provide $874 million in CHIPS and Science Act incentives to seven companies advancing semiconductor t..."
-  },
-  {
-    "id": "eN1R0bSBQdk",
-    "title": "Newbie's guide to footie: If the World Cup hooked you, here's what comes next",
-    "description": "The World Cup's end offers a transition for casual fans to embrace regular football seasons.  The article details major European leagues like the Premier League and La Liga.  It also covers the UEFA Champions League and emerging leagues like the Saudi Pro Lea\u2026",
-    "url": "https://economictimes.indiatimes.com/news/sports/football/newbies-guide-to-footie-if-the-world-cup-hooked-you-heres-what-comes-next/articleshow/132794582.cms",
-    "image": "https://img.etimg.com/thumb/msid-132794864,width-1200,height-630,imgsize-162348,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-01T17:59:45Z",
-    "category": "Artificial Intelligence",
-    "summary": "The World Cup's end offers a transition for casual fans to embrace regular football seasons.  The article details major European leagues like the Premier League and La Liga.  It also covers the UEFA Champions League and emerging leagues like the Saudi Pro Lea\u2026"
-  },
-  {
-    "id": "Xtl119Ii6HE",
-    "title": "Okta Bets $200M That AI Agents Need Their Own Identity Threat Detection",
-    "description": "Okta has signed a definitive agreement to acquire Permiso Security, a cloud-native identity security platform that detects and mitigates threats across human, non-human, and AI agent identities in multi-cloud environments. The deal, valued at roughly $200 mil\u2026",
-    "url": "https://forkast.news/okta-bets-200m-that-ai-agents-need-their-own-identity-threat-detection/",
-    "image": "https://forkast.news/wp-content/uploads/2026/08/okta-permiso-hero-1024x687.jpg",
-    "source": "Forkast.news",
-    "publishedAt": "2026-08-01T17:57:52Z",
-    "category": "Artificial Intelligence",
-    "summary": "Okta has signed a definitive agreement to acquire Permiso Security, a cloud-native identity security platform that detects and mitigates threats across human, non-human, and AI agent identities in multi-cloud environments. The deal, valued at roughly $200 mil\u2026"
-  },
-  {
-    "id": "sP0bVzYl5xU",
-    "title": "TaqFlow Emerges to Overhaul Central Asian Cross-Border Payments",
-    "description": "Fintech Pioneer Fuses Blockchain and Dedicated Content Delivery Network to Replace Broken 48-Hour Legacy Banking Rails with Instant, Ultra-Low-Fee Transactions",
-    "url": "https://www.globenewswire.com/news-release/2026/08/01/3337152/0/en/TaqFlow-Emerges-to-Overhaul-Central-Asian-Cross-Border-Payments.html",
-    "image": "https://ml.globenewswire.com/Resource/Download/07078188-7b25-4413-993f-3128e5f97cf6",
-    "source": "GlobeNewswire",
-    "publishedAt": "2026-08-01T17:47:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Fintech Pioneer Fuses Blockchain and Dedicated Content Delivery Network to Replace Broken 48-Hour Legacy Banking Rails with Instant, Ultra-Low-Fee Transactions"
-  },
-  {
-    "id": "_DkjVvmZBIg",
-    "title": "AI is making sales teams faster, not better",
-    "description": "TL;DRAI has supercharged outbound volume and cut cost-per-touch across enterprise sales, but win rates remain flat. Karl Pinto, former Regional Enterprise Sales Director at PagerDuty, argues most teams pointed AI at the throughput layer ins",
-    "url": "https://thenextweb.com/news/ai-making-sales-teams-faster-not-better-karl-pinto",
-    "image": "https://media.thenextweb.com/2026/08/ai-making-sales-teams-faster-not-better-karl-pinto.avif",
-    "source": "The Next Web",
-    "publishedAt": "2026-08-01T17:41:52Z",
-    "category": "Artificial Intelligence",
-    "summary": "TL;DRAI has supercharged outbound volume and cut cost-per-touch across enterprise sales, but win rates remain flat. Karl Pinto, former Regional Enterprise Sales Director at PagerDuty, argues most teams pointed AI at the throughput layer ins"
-  },
-  {
-    "id": "4HC_UUvW2Rk",
-    "title": "Does AI Make Teams Better at Working Together?",
-    "description": "AI helps teams most when trust and critical engagement are present, and when AI is designed to support shared regulation.",
-    "url": "https://www.psychologytoday.com/us/blog/in-one-lifespan/202608/does-ai-make-teams-better-at-working-together",
-    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/startupstockphotos_-_pixabay.jpg?itok=2andPOfO",
-    "source": "Psychology Today",
-    "publishedAt": "2026-08-01T17:34:56Z",
-    "category": "Artificial Intelligence",
-    "summary": "AI helps teams most when trust and critical engagement are present, and when AI is designed to support shared regulation."
-  },
-  {
-    "id": "erSd9-AFT9Q",
-    "title": "Ports are strategic national assets, not just ship berthing points \u2014 Oyetola",
-    "description": "The Minister of Marine and Blue Economy, Adegboyega Oyetola, has said Nigeria's ports should no longer be viewed merely as locations where ships berth, but as strategic national assets capable of driving industrialisation, attracting investment and accelerati\u2026",
-    "url": "https://www.vanguardngr.com/2026/08/ports-are-strategic-national-assets-not-just-ship-berthing-points-oyetola/",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/11/image-239.png",
-    "source": "Vanguard",
-    "publishedAt": "2026-08-01T17:34:36Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Minister of Marine and Blue Economy, Adegboyega Oyetola, has said Nigeria's ports should no longer be viewed merely as locations where ships berth, but as strategic national assets capable of driving industrialisation, attracting investment and accelerati\u2026"
-  },
-  {
-    "id": "aP5A7abetWk",
-    "title": "Why Your Wi-Fi Keeps Disconnecting (And How to Fix It)",
-    "description": "This article may contain affiliate links. If you purchase through these links, GottaBeMobile may earn a commission at no additional cost to you. A Wi-Fi connection that constantly drops can be one of the most frustrating technology problems. Whether you\u2019re wo\u2026",
-    "url": "https://www.gottabemobile.com/why-wifi-keeps-disconnecting/",
-    "image": "https://i0.wp.com/www.gottabemobile.com/wp-content/uploads/2026/07/Wifi-Router-e1785518602724.jpg?resize=1000%2C600&ssl=1",
-    "source": "Gottabemobile.com",
-    "publishedAt": "2026-08-01T17:30:44Z",
-    "category": "Artificial Intelligence",
-    "summary": "This article may contain affiliate links. If you purchase through these links, GottaBeMobile may earn a commission at no additional cost to you. A Wi-Fi connection that constantly drops can be one of the most frustrating technology problems. Whether you\u2019re wo\u2026"
-  },
-  {
-    "id": "z3cjhRkYnDA",
-    "title": "Can AI replace teachers? Why human educators still matter",
-    "description": "AI robots like Sally are making their way into classrooms, raising fundamental questions about the role of teaching. While AI can handle repetitive tasks and tailor learning experiences to individual students, it lacks the vital human touch that teachers prov\u2026",
-    "url": "https://economictimes.indiatimes.com/opinion/et-commentary/can-ai-replace-teachers-why-human-educators-still-matter/articleshow/132792232.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-134254,resizemode-75,msid-132792232/opinion/et-commentary/can-ai-replace-teachers-why-human-educators-still-matter.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-01T17:30:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "AI robots like Sally are making their way into classrooms, raising fundamental questions about the role of teaching. While AI can handle repetitive tasks and tailor learning experiences to individual students, it lacks the vital human touch that teachers prov\u2026"
-  },
-  {
-    "id": "40sU3fZvmB8",
-    "title": "Wonderkid hedge fund manager's $45 billion fund unravels days before his wedding",
-    "description": "Leopold Aschenbrenner's honey-gold hair and distinctive monochrome turtle necks bolstered his image as the reclusive 'Nostradamus of AI' - but this came crashing down this week.",
-    "url": "https://www.dailymail.com/news/article-16021631/leopold-aschenbrenner-situational-awareness-ai-hedge-fund-wedding.html",
-    "image": "https://i.dailymail.com/1s/2026/08/01/15/110383129-0-image-m-17_1785595052842.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-08-01T17:20:46Z",
-    "category": "Artificial Intelligence",
-    "summary": "Leopold Aschenbrenner's honey-gold hair and distinctive monochrome turtle necks bolstered his image as the reclusive 'Nostradamus of AI' - but this came crashing down this week."
-  },
-  {
-    "id": "ZQXIVeWCYFM",
-    "title": "Spider-Man: Brand New Day Officially Sets Up Peter Parker\u2019s Avengers Role In 2 Major Ways",
-    "description": "Spider-Man: Brand New Day perfectly sets up how Peter Parker can fit into Marvel Studios' upcoming Avengers movies, and there is a huge MCU tease.",
-    "url": "https://screenrant.com/spider-man-brand-new-day-avengers-movie-setup/",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/tom-holland-s-spider-man-after-stopping-a-tank-in-spider-man-brand-new-day.jpg?w=1600&h=900&fit=crop",
-    "source": "Screen Rant",
-    "publishedAt": "2026-08-01T17:15:11Z",
-    "category": "Artificial Intelligence",
-    "summary": "Spider-Man: Brand New Day perfectly sets up how Peter Parker can fit into Marvel Studios' upcoming Avengers movies, and there is a huge MCU tease."
-  },
-  {
-    "id": "nFbwRgblXSo",
-    "title": "Heart failure taught me that hospitals are built on people - Glenn Dwight",
-    "description": "OPINION: Machines can monitor a heartbeat, but it\u2019s people who help to heal one.",
-    "url": "https://www.nzherald.co.nz/the-country/news/heart-failure-taught-me-that-hospitals-are-built-on-people-glenn-dwight/NI64EAM3NNGWPMQ7LXJQ3GMCZY/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/QC6JIOSN2NE4BENCFVVH5U6XRA.jpg?auth=4010ee5c89868355ff8c38b14c53dcebf6fdc35d0a6f0844c32b604b3254b883&width=1200&height=675&quality=70&focal=1176%2C759&smart=false",
-    "source": "New Zealand Herald",
-    "publishedAt": "2026-08-01T17:15:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "OPINION: Machines can monitor a heartbeat, but it\u2019s people who help to heal one."
-  },
-  {
-    "id": "AharX6DpBhk",
-    "title": "Iranian hackers likely behind Minnesota water system attacks, but it\u2019s \u2018surprising\u2019 country hasn\u2019t taken credit, expert says",
-    "description": "\u201cThe working assumption is that it is Iranian threat actors,\u201d Annie Fixler, director of the cyber and technology innovation center at the Foundation for Defense of Democracies, told JNS.",
-    "url": "https://nypost.com/2026/08/01/world-news/iranian-hackers-likely-behind-minnesota-water-system-attacks-but-its-surprising-country-hasnt-taken-credit-expert-says/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136182025.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-08-01T17:14:16Z",
-    "category": "Artificial Intelligence",
-    "summary": "\u201cThe working assumption is that it is Iranian threat actors,\u201d Annie Fixler, director of the cyber and technology innovation center at the Foundation for Defense of Democracies, told JNS."
-  },
-  {
-    "id": "vHRaQWN8bVo",
-    "title": "MAN decries high electricity costs in South-East",
-    "description": "Manufacturers in the South-East are operating below 30% capacity due to high electricity costs. MAN appeals for urgent intervention to save the region\u2019s in\n\nRead More: https://punchng.com/man-decries-high-electricity-costs-in-south-east/",
-    "url": "https://punchng.com/man-decries-high-electricity-costs-in-south-east/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/1000993885_1785606600-1200x630.webp",
-    "source": "The Punch",
-    "publishedAt": "2026-08-01T17:11:23Z",
-    "category": "Artificial Intelligence",
-    "summary": "Manufacturers in the South-East are operating below 30% capacity due to high electricity costs. MAN appeals for urgent intervention to save the region\u2019s in\n\nRead More: https://punchng.com/man-decries-high-electricity-costs-in-south-east/"
-  },
-  {
-    "id": "WDy3JNmQSSo",
-    "title": "Humanity's Most Dangerous Delusion About AI Is Us",
-    "description": "For decades, we've told ourselves stories about creations we couldn't control. One of those cautionary tales just became our reality. The lesson isn't about AI - it's about us.",
-    "url": "https://www.psychologytoday.com/us/blog/tech-happy-life/202607/humanitys-most-dangerous-delusion-about-ai-is-us",
-    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-07/rms_titanic_3.jpg?itok=RqnOb87V",
-    "source": "Psychology Today",
-    "publishedAt": "2026-08-01T17:03:35Z",
-    "category": "Artificial Intelligence",
-    "summary": "For decades, we've told ourselves stories about creations we couldn't control. One of those cautionary tales just became our reality. The lesson isn't about AI - it's about us."
   }
 ]
