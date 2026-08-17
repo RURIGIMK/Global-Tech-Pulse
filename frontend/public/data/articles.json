@@ -1,14 +1,278 @@
 [
   {
-    "id": "KaMlbNSMxpY",
-    "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-    "description": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.",
-    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-    "image": "https://s.yimg.com/lo/mysterio/api/9d68e9947f4a3cbed6f3e6015fc6f1994027200ec0c152a4758a01ac8cfa5bcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc1313c2a26256330efb84b532ebb0c94.jpg",
-    "source": "Business Insider",
-    "publishedAt": "2026-08-16T16:30:38Z",
+    "id": "ZWX2ghZiPWU",
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+    "description": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+    "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/01/11/threema-logo_anthracite.png",
+    "source": "BleepingComputer",
+    "publishedAt": "2026-08-16T17:29:52Z",
+    "category": "Other Tech",
+    "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]"
+  },
+  {
+    "id": "RZEELr19Tbk",
+    "title": "The Tower of Babel, Tyranny, and AI",
+    "description": "Could a story that dates back thousands of years help us understand the very contemporary threat of AI-augmented tyranny?",
+    "url": "https://www.psychologytoday.com/us/blog/fully-human/202608/the-tower-of-babel-tyranny-and-ai",
+    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/tower_of_babel.png.jpg?itok=qbr3lhLo",
+    "source": "Psychology Today",
+    "publishedAt": "2026-08-16T17:25:09Z",
     "category": "Artificial Intelligence",
-    "summary": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold."
+    "summary": "Could a story that dates back thousands of years help us understand the very contemporary threat of AI-augmented tyranny?"
+  },
+  {
+    "id": "BdBoZeEkZP4",
+    "title": "Weber Is Shutting Off the June Oven\u2019s AI Camera, and a $90 Air Fryer Already Does The Same Thing",
+    "description": "Weber Is Shutting Off the June Oven\u2019s AI Camera, and a $90 Air Fryer Already Does The Same ThingSomewhere in a warehouse in Illinois, someone at Weber is about to flip a switch that turns a $999 oven back into a very expensive...",
+    "url": "https://www.yankodesign.com/2026/08/16/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/",
+    "image": "https://www.yankodesign.com/images/design_news/2026/08/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/june_oven_vs_air_fryer_1.jpeg",
+    "source": "Yanko Design",
+    "publishedAt": "2026-08-16T17:20:28Z",
+    "category": "Artificial Intelligence",
+    "summary": "Weber Is Shutting Off the June Oven\u2019s AI Camera, and a $90 Air Fryer Already Does The Same ThingSomewhere in a warehouse in Illinois, someone at Weber is about to flip a switch that turns a $999 oven back into a very expensive..."
+  },
+  {
+    "id": "M_FMBxQBaM4",
+    "title": "Mexican Proverb of the Day: \u201cThe shrimp that falls asleep gets carried away by the current\u201d \u2014 Meaning, life lesson and why this saying still matters",
+    "description": "A traditional Mexican proverb serves as a critical reminder against complacency in our ever-evolving world. It underscores the importance of seizing opportunities to avoid future regrets and being outpaced by change. By recognizing moments that demand action,\u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/mexican-proverb-of-the-day-the-shrimp-that-falls-asleep-gets-carried-away-by-the-current-meaning-life-lesson-and-why-this-saying-still-matters/articleshow/133279584.cms",
+    "image": "https://img.etimg.com/thumb/msid-133279654,width-1200,height-630,imgsize-1647974,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-16T17:17:53Z",
+    "category": "Artificial Intelligence",
+    "summary": "A traditional Mexican proverb serves as a critical reminder against complacency in our ever-evolving world. It underscores the importance of seizing opportunities to avoid future regrets and being outpaced by change. By recognizing moments that demand action,\u2026"
+  },
+  {
+    "id": "gIH4rh-Kckg",
+    "title": "New study finds HGST, WD hard drives fail less often than Seagate and Toshiba",
+    "description": "The peer-reviewed IEEE study was written by Christoph Siemroth of the University of Essex and Yeomyung Park of Sungkyunkwan University. It reviewed data on 443,156 drives used in Backblaze data centers from 2013 through the second quarter of 2025. The sample \u2026",
+    "url": "https://www.techspot.com/news/113499-new-study-finds-hgst-wd-hard-drives-fail.html",
+    "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-15-image-13.jpg",
+    "source": "TechSpot",
+    "publishedAt": "2026-08-16T17:17:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "The peer-reviewed IEEE study was written by Christoph Siemroth of the University of Essex and Yeomyung Park of Sungkyunkwan University. It reviewed data on 443,156 drives used in Backblaze data centers from 2013 through the second quarter of 2025. The sample \u2026"
+  },
+  {
+    "id": "ucah7x_iJ9A",
+    "title": "The Story Of Your Life: Everything looks wonderful, just keep scrolling",
+    "description": "All was sweet innocent fun for a while. Then the algorithm came along and ruined everything",
+    "url": "https://www.business-standard.com/book/the-story-of-your-life-everything-looks-wonderful-just-keep-scrolling-126081600742_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786898718-6896.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-16T17:16:14Z",
+    "category": "Other Tech",
+    "summary": "All was sweet innocent fun for a while. Then the algorithm came along and ruined everything"
+  },
+  {
+    "id": "tkmklodnUYM",
+    "title": "Mustang Panda Upgrades CoolClient With a Kernel Rootkit",
+    "description": "Mustang Panda upgraded CoolClient with a signed kernel driver that hides processes, files and network activity, making the backdoor harder to detect. HoneyMyte, also known as Mustang Panda, has pushed its CoolClient backdoor another step deeper into Windows. \u2026",
+    "url": "https://securityaffairs.com/197274/apt/mustang-panda-upgrades-coolclient-with-a-kernel-rootkit.html",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/08/image-44.png",
+    "source": "Securityaffairs.com",
+    "publishedAt": "2026-08-16T17:15:46Z",
+    "category": "Other Tech",
+    "summary": "Mustang Panda upgraded CoolClient with a signed kernel driver that hides processes, files and network activity, making the backdoor harder to detect. HoneyMyte, also known as Mustang Panda, has pushed its CoolClient backdoor another step deeper into Windows. \u2026"
+  },
+  {
+    "id": "UYkU6-GZilY",
+    "title": "The cost of exchange rate policy: What is the price of controlling rupee?",
+    "description": "The path to Indian economic success begins with a full reckoning of the costs of exchange-rate management",
+    "url": "https://www.business-standard.com/opinion/columns/the-cost-of-exchange-rate-policy-what-is-the-price-of-controlling-rupee-126081600750_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786899281-9499.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-16T17:15:46Z",
+    "category": "Other Tech",
+    "summary": "The path to Indian economic success begins with a full reckoning of the costs of exchange-rate management"
+  },
+  {
+    "id": "WHcFbSscGUA",
+    "title": "Economics of oilseed production: Why India's import dependence persists",
+    "description": "The genesis of the persistent rise in imports of edible oils, regardless of steady increase in indigenous production, lies in the demand growing faster than the supplies",
+    "url": "https://www.business-standard.com/opinion/columns/economics-of-oilseed-production-why-india-s-import-dependence-persists-126081600759_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/27/thumb/fitandfill/1200X628/1779870696-0405.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-16T17:14:35Z",
+    "category": "Other Tech",
+    "summary": "The genesis of the persistent rise in imports of edible oils, regardless of steady increase in indigenous production, lies in the demand growing faster than the supplies"
+  },
+  {
+    "id": "Wd6hRmkXxFw",
+    "title": "GS, the ultimate tech frontier to tap into",
+    "description": "Genuine stupidity is presented as a revolutionary technology surpassing artificial intelligence.  This concept requires no advanced infrastructure, relying solely on human ingenuity.  Corporations and governments will embrace this trend, announcing strategic \u2026",
+    "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/gs-the-ultimate-tech-frontier-to-tap-into/articleshow/133279173.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-88622,resizemode-75,msid-133279173/opinion/just-in-jest/gs-the-ultimate-tech-frontier-to-tap-into.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-16T17:14:26Z",
+    "category": "Artificial Intelligence",
+    "summary": "Genuine stupidity is presented as a revolutionary technology surpassing artificial intelligence.  This concept requires no advanced infrastructure, relying solely on human ingenuity.  Corporations and governments will embrace this trend, announcing strategic \u2026"
+  },
+  {
+    "id": "poSPYRcdMDQ",
+    "title": "Scientists from King\u2019s College London turned an agricultural waste product into a bone-healing scaffold; keratin from sheep\u2019s wool produced more natural-looking regenerated bone than collagen in animals",
+    "description": "Sheep\u2019s wool may soon have a surprising medical purpose. Scientists at King\u2019s College London turned wool-derived keratin into a bone regeneration scaffold. In rat skull injuries, the material helped new bone grow with a more organized structure than conventio\u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/us/scientists-from-kings-college-london-turned-an-agricultural-waste-product-into-a-bone-healing-scaffold-keratin-from-sheeps-wool-produced-more-natural-looking-regenerated-bone-than-collagen-in-animals/articleshow/133276034.cms",
+    "image": "https://img.etimg.com/thumb/msid-133276034,width-1200,height-630,imgsize-164670,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-16T17:10:16Z",
+    "category": "Other Tech",
+    "summary": "Sheep\u2019s wool may soon have a surprising medical purpose. Scientists at King\u2019s College London turned wool-derived keratin into a bone regeneration scaffold. In rat skull injuries, the material helped new bone grow with a more organized structure than conventio\u2026"
+  },
+  {
+    "id": "E-fRp9m8di4",
+    "title": "AVENGERS INFINITY DEFENSE and STARK FLIGHT LAB Opening in 2028 as Disney Reveals New Avengers Campus Details",
+    "description": "Avengers Campus at Disney California Adventure is expanding in a major way, two new attractions now have a 2028 opening window, and Disney Imagineering is building more Marvel experiences in Hong Kong and Shanghai.The latest updates were revealed at D23, wher\u2026",
+    "url": "https://geektyrant.com/news/avengers-infinity-defense-and-stark-flight-lab-opening-in-2028-as-disney-reveals-new-avengers-campus-details",
+    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a81ce5cfe29a456a88c9bd8/1786900075029/Screenshot+2026-08-16+at+8.01.33%E2%80%AFAM.jpg?format=1500w",
+    "source": "GeekTyrant",
+    "publishedAt": "2026-08-16T17:07:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Avengers Campus at Disney California Adventure is expanding in a major way, two new attractions now have a 2028 opening window, and Disney Imagineering is building more Marvel experiences in Hong Kong and Shanghai.The latest updates were revealed at D23, wher\u2026"
+  },
+  {
+    "id": "mzWn0fThRTM",
+    "title": "7 Must-Have Back-to-School Tech Gadgets Every Teacher Needs",
+    "description": "Back-to-school shopping has a strange habit of focusing on students while ignoring the person who has to keep 25 or 30 of them moving in roughly the same direction all day. Teachers don\u2019t necessarily need more technology. They need fewer little problems. The \u2026",
+    "url": "https://the-gadgeteer.com/2026/08/16/back-to-school-tech-gadgets-2026/",
+    "image": "https://the-gadgeteer.com/wp-content/uploads/2026/08/7-Must-Have-Back-to-School-Tech-Gadgets-Every-Teacher-Needs.jpg",
+    "source": "The Gadgeteer",
+    "publishedAt": "2026-08-16T17:05:01Z",
+    "category": "Other Tech",
+    "summary": "Back-to-school shopping has a strange habit of focusing on students while ignoring the person who has to keep 25 or 30 of them moving in roughly the same direction all day. Teachers don\u2019t necessarily need more technology. They need fewer little problems. The \u2026"
+  },
+  {
+    "id": "_2lQLGBVtFE",
+    "title": "Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains",
+    "description": "\"Violence-based AI slops reinforce a fascination with violence for violence's sake.\"\nThe post Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains appeared first on Futurism.",
+    "url": "https://futurism.com/artificial-intelligence/experts-gnet-ai-fruit-slop-corrupting-violence-extremism",
+    "image": "https://futurism.com/wp-content/uploads/2026/08/experts-gnet-ai-fruit-slop-corrupting-violence-extremism.jpg?quality=85&w=1200",
+    "source": "Futurism",
+    "publishedAt": "2026-08-16T17:02:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "\"Violence-based AI slops reinforce a fascination with violence for violence's sake.\"\nThe post Experts Warn That AI Slop Is Corrupting Kids\u2019 Brains appeared first on Futurism."
+  },
+  {
+    "id": "ZGlYucoi-K8",
+    "title": "Palpatine's Clone Wars Plan Would Have Failed Without Star Wars' Most Underrated Villain",
+    "description": "One underrated Star Wars villain paved the way for Palpatine to destroy the Jedi and the Republic, centuries before the Sith Lord was even born.",
+    "url": "https://screenrant.com/palpatine-clone-wars-plan-fail-without-marchio-ro-star-wars-high-republic/",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/ian-mcdiarmid-as-chancellor-palpatine-in-star-wars-episode-ii-attack-of-the-clones.jpg?w=1600&h=900&fit=crop",
+    "source": "Screen Rant",
+    "publishedAt": "2026-08-16T17:00:11Z",
+    "category": "Artificial Intelligence",
+    "summary": "One underrated Star Wars villain paved the way for Palpatine to destroy the Jedi and the Republic, centuries before the Sith Lord was even born."
+  },
+  {
+    "id": "WRb_TOoedlE",
+    "title": "Retail Earnings, Fed Minutes and Other Key Things to Watch this Week",
+    "description": "Markets face a retail-dominated week where Home Depot (HD), Target (TGT), TJX Companies (TJX), and Walmart (WMT) report earnings providing critical consumer...",
+    "url": "https://www.barchart.com/story/news/3876626/retail-earnings-fed-minutes-and-other-key-things-to-watch-this-week",
+    "image": "https://s.yimg.com/lo/mysterio/api/3CB695A57A77AC318489379FEAF32EEBA7DBCF0DCA9155F70FBEF3C40D7B0F8F/subgraphmysterio/resizefill_w1200_h797;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fa3f8b7b175c2147da9ed22b631b9dee3.jpg",
+    "source": "Barchart.com",
+    "publishedAt": "2026-08-16T17:00:02Z",
+    "category": "Artificial Intelligence",
+    "summary": "Markets face a retail-dominated week where Home Depot (HD), Target (TGT), TJX Companies (TJX), and Walmart (WMT) report earnings providing critical consumer..."
+  },
+  {
+    "id": "Vi847wfh770",
+    "title": "GD1 raises $56.7m for new venture capital fund as golden visa holders pile in",
+    "description": "Global From Day 1 is targeting a $150m second venture capital fund.",
+    "url": "https://www.nzherald.co.nz/business/gd1-raises-567m-for-new-venture-capital-fund-as-golden-visa-holders-pile-in/premium/NCHJDRHDFREMXOJSTK6I3K2YJY/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/Z3B7JM32V7ZTO7IUJS7LYEUQ7A.jpg?auth=a22004a33657ec70c4798b3f98bc9d40154808563a53d4ed734ba3aed3c19d26&width=1200&height=675&quality=70&smart=true",
+    "source": "New Zealand Herald",
+    "publishedAt": "2026-08-16T17:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Global From Day 1 is targeting a $150m second venture capital fund."
+  },
+  {
+    "id": "2dQOVBCMGjs",
+    "title": "ShellShock Protection Introduces New High-Performance Ballistic Glasses for the Ultimate Athlete",
+    "description": "All New SunShift Ballistic Glasses in Flat Dark EarthAustin, TX\u00a0\u2014\u00a0August 14, 2026\u00a0\u2014\u00a0ShellShock Protection\u00a0is excited to announce the expansion of\u00a0its\u00a0SunShift\u00a0Ballistic Glasses lineup with a new Flat Dark Earth (FDE) colorway, offering shooters and outdoor en\u2026",
+    "url": "https://soldiersystems.net/2026/08/16/shellshock-protection-introduces-new-high-performance-ballistic-glasses-for-the-ultimate-athlete/",
+    "image": "https://soldiersystems.net/wp-content/uploads/2026/08/image-33.jpeg",
+    "source": "Soldiersystems.net",
+    "publishedAt": "2026-08-16T17:00:00Z",
+    "category": "Other Tech",
+    "summary": "All New SunShift Ballistic Glasses in Flat Dark EarthAustin, TX\u00a0\u2014\u00a0August 14, 2026\u00a0\u2014\u00a0ShellShock Protection\u00a0is excited to announce the expansion of\u00a0its\u00a0SunShift\u00a0Ballistic Glasses lineup with a new Flat Dark Earth (FDE) colorway, offering shooters and outdoor en\u2026"
+  },
+  {
+    "id": "VKR8-LFUKp4",
+    "title": "The world\u2019s largest electric plane takes flight",
+    "description": "The 25,000-pound aircraft flew for 27 minutes.\nThe post The world\u2019s largest electric plane takes flight appeared first on Popular Science.",
+    "url": "https://www.popsci.com/technology/worlds-largest-electric-plane/",
+    "image": "https://www.popsci.com/wp-content/uploads/2026/08/electric-aircraft-lead.png?quality=85&w=1200",
+    "source": "Popular Science",
+    "publishedAt": "2026-08-16T17:00:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "The 25,000-pound aircraft flew for 27 minutes.\nThe post The world\u2019s largest electric plane takes flight appeared first on Popular Science."
+  },
+  {
+    "id": "MbrQeRpeXGI",
+    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 | TechCrunch",
+    "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "source": "TechCrunch",
+    "publishedAt": "2026-08-16T16:55:34Z",
+    "category": "Artificial Intelligence",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
+    "id": "i7boqraCmv0",
+    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/CFCE0F3FBB414E44F058E6C605AF9B842C29F48BC9DFB94B1504DB3709AAD688/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fd5bafc729b4b54efb9ad682ad2050916.jpg",
+    "source": "Yahoo Entertainment",
+    "publishedAt": "2026-08-16T16:53:51Z",
+    "category": "Artificial Intelligence",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
+    "id": "7EEThEajQmE",
+    "title": "Nike\u2019s Techy-Luxe Slippers Are Basically Off-Duty Air Maxes",
+    "description": "Nike's Air Max Cirro Slide brings the famous cushioning to a slip-on style. It's basically an Air Max sneaker you can lounge in.",
+    "url": "https://www.highsnobiety.com/p/nike-air-max-cirro-slides/",
+    "image": "https://www.highsnobiety.com/static-assets/dato/1786891988-nike-air-max-cirro-slides-0.jpg",
+    "source": "Highsnobiety",
+    "publishedAt": "2026-08-16T16:47:35Z",
+    "category": "Artificial Intelligence",
+    "summary": "Nike's Air Max Cirro Slide brings the famous cushioning to a slip-on style. It's basically an Air Max sneaker you can lounge in."
+  },
+  {
+    "id": "PqwODxXSLUA",
+    "title": "In 1899, Harvard graduate James Dole came to Hawaii to grow coffee, but his failed plan B turned him into the \u201cPineapple King\u201d and built a pineapple empire that became famous worldwide",
+    "description": "James Dole arrived in Hawaii in 1899 hoping to grow coffee but his coffee venture failed, pushing him towards pineapples instead. Dole established the Hawaiian Pineapple Company in 1901, which grew significantly. He later purchased the island of Lanai, transf\u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/in-1899-harvard-graduate-james-dole-came-to-hawaii-to-grow-coffee-but-his-failed-plan-b-turned-him-into-the-pineapple-king-and-built-a-pineapple-empire-that-became-famous-worldwide/articleshow/133278684.cms",
+    "image": "https://img.etimg.com/thumb/msid-133278684,width-1200,height-630,imgsize-161812,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-16T16:38:46Z",
+    "category": "Artificial Intelligence",
+    "summary": "James Dole arrived in Hawaii in 1899 hoping to grow coffee but his coffee venture failed, pushing him towards pineapples instead. Dole established the Hawaiian Pineapple Company in 1901, which grew significantly. He later purchased the island of Lanai, transf\u2026"
+  },
+  {
+    "id": "U12hCTniPAo",
+    "title": "Investing $500 a Month Into These 3 ETFs Could Retire You a Millionaire",
+    "description": "Three decades of compounding can turn a modest monthly habit into a seven-figure retirement, but the funds you choose and how you split the money between the...",
+    "url": "https://247wallst.com/investing/2026/08/16/investing-500-a-month-into-these-3-etfs-could-retire-you-a-millionaire/",
+    "image": "https://s.yimg.com/lo/mysterio/api/4273CA49024DF46B5FDC7F9BF5AF9EEA07846B21B41CBBC9B1F0932159ADCEC3/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbafcbf837a920d251ca4d0cbdf818c62.jpg",
+    "source": "24/7 Wall St.",
+    "publishedAt": "2026-08-16T16:37:20Z",
+    "category": "Artificial Intelligence",
+    "summary": "Three decades of compounding can turn a modest monthly habit into a seven-figure retirement, but the funds you choose and how you split the money between the..."
+  },
+  {
+    "id": "byQWS4Rj-gw",
+    "title": "Workday\u2019s $51 billion takeover talks could reset the software trade",
+    "description": "For much of 2026, software investors have been grappling with a terrifying question: What if artificial intelligence makes many of the apps that firms have s...",
+    "url": "https://www.thestreet.com/investing/workdays-51-billion-takeover-talks-could-reset-the-software-trade",
+    "image": "https://s.yimg.com/lo/mysterio/api/C3A342988978DFB051E0A40C7C5C905A8036DBA5AEFF7E8F345F835D674ABAC4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F6a2ab2308197c682ca1dcf359250ad28.jpg",
+    "source": "TheStreet",
+    "publishedAt": "2026-08-16T16:33:00Z",
+    "category": "Other Tech",
+    "summary": "For much of 2026, software investors have been grappling with a terrifying question: What if artificial intelligence makes many of the apps that firms have s..."
   },
   {
     "id": "BOZKREXNUiY",
@@ -16,6 +280,17 @@
     "description": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.",
     "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8#article",
     "image": "https://i.insider.com/6a81e5a4e3df4d0cbe6868de?width=1200&format=jpeg",
+    "source": "Business Insider",
+    "publishedAt": "2026-08-16T16:30:38Z",
+    "category": "Artificial Intelligence",
+    "summary": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold."
+  },
+  {
+    "id": "KaMlbNSMxpY",
+    "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+    "description": "Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.",
+    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+    "image": "https://s.yimg.com/lo/mysterio/api/9d68e9947f4a3cbed6f3e6015fc6f1994027200ec0c152a4758a01ac8cfa5bcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc1313c2a26256330efb84b532ebb0c94.jpg",
     "source": "Business Insider",
     "publishedAt": "2026-08-16T16:30:38Z",
     "category": "Artificial Intelligence",
@@ -110,6 +385,17 @@
     "summary": "In his 13th Independence Day speech, PM Modi unveiled the Sapta Dhara strategy, focusing on jobs, manufacturing, technology, connectivity and self-reliance"
   },
   {
+    "id": "aEZ5nE9IWlI",
+    "title": "Connecticut Man Caught Trying to Influence Court Case with AI Trickery",
+    "description": "A plaintiff in a Connecticut court case tried to sway any AI system reviewing his filings by hiding machine-readable instructions in white text, a technique known as prompt injection, only to be caught because of unusual spacing in the documents.\u00a0\nThe post Co\u2026",
+    "url": "https://www.breitbart.com/tech/2026/08/16/connecticut-man-caught-trying-to-influence-court-case-with-ai-trickery/",
+    "image": "https://media.breitbart.com/media/2026/08/AI-impacting-court-procedues-640x335.jpg",
+    "source": "Breitbart News",
+    "publishedAt": "2026-08-16T16:11:53Z",
+    "category": "Artificial Intelligence",
+    "summary": "A plaintiff in a Connecticut court case tried to sway any AI system reviewing his filings by hiding machine-readable instructions in white text, a technique known as prompt injection, only to be caught because of unusual spacing in the documents.\u00a0\nThe post Co\u2026"
+  },
+  {
     "id": "v-XoIEdsRL0",
     "title": "Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality",
     "description": "Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.",
@@ -165,17 +451,6 @@
     "summary": "Plus: The trap of chasing \"fresh\" and why AI can't replace human cinema. \n \n [Read the whole post on screenanarchy.com...]"
   },
   {
-    "id": "t5Gd_FrW-Ig",
-    "title": "\u2018American Pie\u2019 star Shannon Elizabeth swears off dating, says OnlyFans is \u2018the only relationship I need\u2019",
-    "description": "Shannon Elizabeth told Bill Maher on \"Club Random\" that OnlyFans is \"the only relationship I need\" after swearing off dating following her divorce.",
-    "url": "https://www.foxnews.com/entertainment/american-pie-star-shannon-elizabeth-swears-off-dating-says-onlyfans-only-relationship-need",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/Shannon-Elizabeth-Interview.jpeg",
-    "source": "Fox News",
-    "publishedAt": "2026-08-16T16:00:21Z",
-    "category": "Other Tech",
-    "summary": "Shannon Elizabeth told Bill Maher on \"Club Random\" that OnlyFans is \"the only relationship I need\" after swearing off dating following her divorce."
-  },
-  {
     "id": "pPi68kzkGFE",
     "title": "Italy\u2019s scorching summer puts Parmesan producers to the test",
     "description": "The EU and regional authorities are helping cheese producers as dairy herds suffer in heat waves that are becoming the norm.",
@@ -220,28 +495,6 @@
     "summary": "There are mainly two reasons for professionals leaving government institutions. The private sector pays two to five times more salary. In the government, regulations regarding retirement and other benefits remind you of the colonial times."
   },
   {
-    "id": "f8_XSfGexRI",
-    "title": "Workday Has Its Best Day in a Decade on Report of a Potential $43 Billion Buyout",
-    "description": "Workday, Inc. (NASDAQ:WDAY) recently experienced its best trading day since 2016, even though the company has yet to confirm anything has happened. Shares of...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/workday-best-day-decade-report-155053377.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/676738B827C257035C7C933E006B102338C1EE65F7AC429590423A807EC53219/subgraphmysterio/resizefill_w1200_h627;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F085b4ce2b06dd99f4bacd8a1724e21c4.jpg",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-08-16T15:50:53Z",
-    "category": "Other Tech",
-    "summary": "Workday, Inc. (NASDAQ:WDAY) recently experienced its best trading day since 2016, even though the company has yet to confirm anything has happened. Shares of..."
-  },
-  {
-    "id": "BMwlFFYKLrM",
-    "title": "I'm Debt-Free and Have Spent Years Saving and Investing. My Girlfriend Is Bringing $350K in Student Loans Into Our Marriage",
-    "description": "Most people hope to start married life on solid financial footing. But one man is wondering whether years of careful saving and investing are enough to offse...",
-    "url": "https://finance.yahoo.com/small-business/articles/im-debt-free-spent-years-154651082.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/6B3822816978FA4B0109D4C2836E6D317D22F3A7A63C4AFC5CFAAF62E13855E7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F6bd0fbdfed657594b5a75e0c3be223e4.jpg",
-    "source": "Yahoo Entertainment",
-    "publishedAt": "2026-08-16T15:46:51Z",
-    "category": "Other Tech",
-    "summary": "Most people hope to start married life on solid financial footing. But one man is wondering whether years of careful saving and investing are enough to offse..."
-  },
-  {
     "id": "jVge9_vykrc",
     "title": "Energy solutions will be crucial for data centres: Krishna Jonnalagadda",
     "description": "Krishna Jonnalagadda believes power is the main constraint in building artificial intelligence data centres",
@@ -262,28 +515,6 @@
     "publishedAt": "2026-08-16T15:42:47Z",
     "category": "Artificial Intelligence",
     "summary": "5G network pathways need sensible regulation"
-  },
-  {
-    "id": "O5uhnZSuTSU",
-    "title": "29k-Mile 2009 Jaguar Super V8 Portfolio",
-    "description": "This 2009 Jaguar Super V8 Portfolio is one of 140 examples produced for the US market and is finished in Celestial Black over Navy leather. Powered by a supercharged 4.2-liter V8 linked to a six-speed automatic transmission, it features 20\" Selena wheels, a s\u2026",
-    "url": "https://bringatrailer.com/listing/2009-jaguar-super-v8-9/",
-    "image": "https://bringatrailer.com/wp-content/uploads/2026/08/PXL_20260809_173212916.MP-scaled-copy-2026-08-13-gg5-37010.jpg",
-    "source": "Bringatrailer.com",
-    "publishedAt": "2026-08-16T15:40:24Z",
-    "category": "Other Tech",
-    "summary": "This 2009 Jaguar Super V8 Portfolio is one of 140 examples produced for the US market and is finished in Celestial Black over Navy leather. Powered by a supercharged 4.2-liter V8 linked to a six-speed automatic transmission, it features 20\" Selena wheels, a s\u2026"
-  },
-  {
-    "id": "WWVFTDrWnUk",
-    "title": "Opel\u2019s China move alarms Russelsheim",
-    "description": "RUSSELSHEIM, Germany: As Germany\u2019s Opel slashes its engineering ranks and partners with China\u2019s Leapmotor, anxiety is running high in Ruesselsheim, the city...",
-    "url": "https://kuwaittimes.com/article/48220/business/opels-china-move-alarms-russelsheim/",
-    "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/16/430667.jpg",
-    "source": "Kuwaittimes.com",
-    "publishedAt": "2026-08-16T15:40:14Z",
-    "category": "Other Tech",
-    "summary": "RUSSELSHEIM, Germany: As Germany\u2019s Opel slashes its engineering ranks and partners with China\u2019s Leapmotor, anxiety is running high in Ruesselsheim, the city..."
   },
   {
     "id": "uS8tX6NLc3k",
@@ -317,236 +548,5 @@
     "publishedAt": "2026-08-16T15:37:00Z",
     "category": "Artificial Intelligence",
     "summary": "If you've ever questioned whether you should trust a self-driving car, the trailer for Evel is here to crank that fear up to eleven. Quiver Distribution has released the first trailer for the upcoming indie horror thriller, which puts a sinister AI behind the\u2026"
-  },
-  {
-    "id": "gLvwTTt-mU4",
-    "title": "Disneyland Announces Star Wars/Fortnite Collaboration, 'Avatar' Attraction, and a Newer Tomorrowland",
-    "description": "Saturday Disneyland announced a special Star Wars-themed collaboration with third-person shooter game Fortnite \u2014 including a slick new trailer for its Star Wars: Smuggler's Gambit quest. \nVisitors to Disneyland's Smuggler's Run attraction at Disney's theme pa\u2026",
-    "url": "https://games.slashdot.org/story/26/08/16/0757205/disneyland-announces-star-warsfortnite-collaboration-avatar-attraction-and-a-newer-tomorrowland",
-    "image": "https://a.fsdn.com/sd/topics/starwars_64.png",
-    "source": "Slashdot.org",
-    "publishedAt": "2026-08-16T15:34:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Saturday Disneyland announced a special Star Wars-themed collaboration with third-person shooter game Fortnite \u2014 including a slick new trailer for its Star Wars: Smuggler's Gambit quest. \nVisitors to Disneyland's Smuggler's Run attraction at Disney's theme pa\u2026"
-  },
-  {
-    "id": "pqtvuWsH7QM",
-    "title": "Gen AI is rewriting how the world buys, spends as technology shapes choices",
-    "description": "As the first cohort surrounded by AI and media from birth, Gen Alpha's tech fluency is intuitive and its consumption behaviour is different",
-    "url": "https://www.business-standard.com/opinion/columns/gen-ai-is-rewriting-how-the-world-buys-spends-as-technology-shapes-choices-126081600663_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/16/thumb/fitandfill/1200X628/1786894297-6341.jpg",
-    "source": "Business Standard",
-    "publishedAt": "2026-08-16T15:32:59Z",
-    "category": "Artificial Intelligence",
-    "summary": "As the first cohort surrounded by AI and media from birth, Gen Alpha's tech fluency is intuitive and its consumption behaviour is different"
-  },
-  {
-    "id": "4o7R0EIn6qM",
-    "title": "Nuclear energy\u2019s import dilemma",
-    "description": "N-plan. India\u2019s nuclear power target of 100 GW by 2047 will require huge uranium imports. Going ahead uranium imports will become as crucial as crude oil",
-    "url": "https://www.thehindubusinessline.com/opinion/nuclear-energys-import-dilemma/article71353433.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/x0tjkh/article71353460.ece/alternates/LANDSCAPE_1200/TH15-Sudhakar-KGHQG8O6QS.3.jpg.jpg",
-    "source": "BusinessLine",
-    "publishedAt": "2026-08-16T15:32:03Z",
-    "category": "Science & Emerging Tech",
-    "summary": "N-plan. India\u2019s nuclear power target of 100 GW by 2047 will require huge uranium imports. Going ahead uranium imports will become as crucial as crude oil"
-  },
-  {
-    "id": "xuDCpAeNKY4",
-    "title": "Bose QuietComfort Headphones (2nd Gen) Review: Still More Quiet and Comfortable Than Most",
-    "description": "There are a few small upgrades in this generation of Bose's QuietComfort Headphones (2nd Gen), but they're still solid compared to competitors.",
-    "url": "https://gizmodo.com/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most-2000798413",
-    "image": "https://gizmodo.com/app/uploads/2026/08/Bose-QuietComfort-Headphones-2nd-Gen-review-11-1200x675.jpg",
-    "source": "Gizmodo.com",
-    "publishedAt": "2026-08-16T15:30:22Z",
-    "category": "Artificial Intelligence",
-    "summary": "There are a few small upgrades in this generation of Bose's QuietComfort Headphones (2nd Gen), but they're still solid compared to competitors."
-  },
-  {
-    "id": "tilUsvR4dqo",
-    "title": "German researchers used ordinary WiFi signals instead of cameras to identify people; the result turned everyday wireless networks into a powerful new way to recognize individuals with nearly 100% accuracy",
-    "description": "WiFi signals can now do more than connect devices. Researchers showed that ordinary wireless networks can detect and identify people without cameras, special sensors, or a phone. In a study of 197 people, the system achieved nearly 100% identification accurac\u2026",
-    "url": "https://economictimes.indiatimes.com/news/international/us/german-researchers-used-ordinary-wifi-signals-instead-of-cameras-to-identify-people-the-result-turned-everyday-wireless-networks-into-a-powerful-new-way-to-recognize-individuals-with-nearly-100-accuracy/articleshow/133275637.cms",
-    "image": "https://img.etimg.com/thumb/msid-133275637,width-1200,height-630,imgsize-109734,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-16T15:30:13Z",
-    "category": "Gadgets & Hardware",
-    "summary": "WiFi signals can now do more than connect devices. Researchers showed that ordinary wireless networks can detect and identify people without cameras, special sensors, or a phone. In a study of 197 people, the system achieved nearly 100% identification accurac\u2026"
-  },
-  {
-    "id": "yJmIb6ejb7s",
-    "title": "Which are the 36 brands that appear most frequently in artificial intelligence responses, according to Semrush?",
-    "description": "Semrush warns that the growth of artificial intelligence assistants is changing the way people discover brands and make purchasing decisions",
-    "url": "https://www.merca20.com/these-are-the-36-brands-that-appear-in-practically-all-artificial-intelligence-responses-according-to-semrush/",
-    "image": "https://files.merca20.com/uploads/2026/06/MARKETING_.jpg",
-    "source": "Merca20.com",
-    "publishedAt": "2026-08-16T15:28:23Z",
-    "category": "Gadgets & Hardware",
-    "summary": "Semrush warns that the growth of artificial intelligence assistants is changing the way people discover brands and make purchasing decisions"
-  },
-  {
-    "id": "JzeY8exWlM0",
-    "title": "Morgan Stanley Favours Quality, AI Adopters and Financials as Earnings Growth Broadens",
-    "description": "Morgan Stanley sees U.S. corporate earnings momentum spreading well beyond the largest technology companies, creating opportunities in quality stocks, artificial intelligence adopters, large-cap financials and consumer discretionary goods. Strategists led by \u2026",
-    "url": "https://biztoc.com/x/0986d4e2a4f8473a",
-    "image": "https://biztoc.com/cdn/0986d4e2a4f8473a_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-08-16T15:22:52Z",
-    "category": "Artificial Intelligence",
-    "summary": "Morgan Stanley sees U.S. corporate earnings momentum spreading well beyond the largest technology companies, creating opportunities in quality stocks, artificial intelligence adopters, large-cap financials and consumer discretionary goods. Strategists led by \u2026"
-  },
-  {
-    "id": "LvJ6abCs4lU",
-    "title": "DNC chair denies reports about staff 'paranoia,' chaos, but even MS NOW host is skeptical",
-    "description": "Democratic National Committee Chair Ken Martin denied reports of staff paranoia and chaos as outside \"noise\" to a skeptical MS NOW host on Saturday.",
-    "url": "https://www.foxnews.com/media/dnc-chair-denies-reports-about-staff-paranoia-chaos-even-ms-now-host-skeptical",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ken-martin-dnc-nov.-2-2025.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-08-16T15:22:23Z",
-    "category": "Artificial Intelligence",
-    "summary": "Democratic National Committee Chair Ken Martin denied reports of staff paranoia and chaos as outside \"noise\" to a skeptical MS NOW host on Saturday."
-  },
-  {
-    "id": "mnGFXKJkn14",
-    "title": "Indian co on UP defence corridor successfully conducts maiden test-flight of indigenously-developed jet-powered loitering munition",
-    "description": "News News: NEW DELHI: A defence-technology company, headquartered in the Uttar Pradesh Defence Industrial Corridor in Lucknow, on Sunday announced the successful.",
-    "url": "https://timesofindia.indiatimes.com/defence/news/indian-co-on-up-defence-corridor-successfully-conducts-maiden-test-flight-of-indigenously-developed-jet-powered-loitering-munition/articleshow/133277851.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133277869,width-1280,height-720,imgsize-29204,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-16T15:17:05Z",
-    "category": "Artificial Intelligence",
-    "summary": "News News: NEW DELHI: A defence-technology company, headquartered in the Uttar Pradesh Defence Industrial Corridor in Lucknow, on Sunday announced the successful."
-  },
-  {
-    "id": "LH-TeT7TGy0",
-    "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI",
-    "description": "Saber Interactive CEO Matthew Karch has apologised to Stella Sacco, the writer at the centre of the Rideshare Stimulator AI controversy, after publicly saying he'd have been \"happy to replace her with AI\". Read more",
-    "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
-    "image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "source": "Eurogamer.net",
-    "publishedAt": "2026-08-16T15:04:33Z",
-    "category": "Artificial Intelligence",
-    "summary": "Saber Interactive CEO Matthew Karch has apologised to Stella Sacco, the writer at the centre of the Rideshare Stimulator AI controversy, after publicly saying he'd have been \"happy to replace her with AI\". Read more"
-  },
-  {
-    "id": "fakkbNf8Oi0",
-    "title": "New nuclear rules well-structured and genius step forward: Experts",
-    "description": "The rules require nuclear plant operators to maintain an insurance policy, financial security or a combination of both to cover civil liability for nuclear damage",
-    "url": "https://www.business-standard.com/economy/news/new-nuclear-rules-well-structured-and-genius-step-forward-experts-126081600638_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/10/thumb/fitandfill/1200X628/1778434997-3546.jpg",
-    "source": "Business Standard",
-    "publishedAt": "2026-08-16T15:04:28Z",
-    "category": "Artificial Intelligence",
-    "summary": "The rules require nuclear plant operators to maintain an insurance policy, financial security or a combination of both to cover civil liability for nuclear damage"
-  },
-  {
-    "id": "DQ8s6QBtkBQ",
-    "title": "Week in Review: Most popular stories on GeekWire for the week of Aug. 9, 2026",
-    "description": "See the technology stories that people were reading on GeekWire for the week of Aug. 9, 2026. Read More",
-    "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-08-09/",
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png",
-    "source": "GeekWire",
-    "publishedAt": "2026-08-16T15:00:12Z",
-    "category": "Startups & Business",
-    "summary": "See the technology stories that people were reading on GeekWire for the week of Aug. 9, 2026. Read More"
-  },
-  {
-    "id": "utdqjh__8Ok",
-    "title": "Apple Watch Series 12 Leak Reveals a Surprise Change for Upgraders",
-    "description": "The Apple Watch Series 12 builds on the strengths of its predecessor, offering a series of meaningful upgrades that enhance performance, display technology, and software capabilities. While it doesn\u2019t introduce a radical redesign, the focus is on refining usa\u2026",
-    "url": "https://www.geeky-gadgets.com/apple-watch-series-12-rumors-4/",
-    "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/apple-watch-12.jpg",
-    "source": "Geeky Gadgets",
-    "publishedAt": "2026-08-16T15:00:10Z",
-    "category": "Gadgets & Hardware",
-    "summary": "The Apple Watch Series 12 builds on the strengths of its predecessor, offering a series of meaningful upgrades that enhance performance, display technology, and software capabilities. While it doesn\u2019t introduce a radical redesign, the focus is on refining usa\u2026"
-  },
-  {
-    "id": "QyTiQpjLXXI",
-    "title": "Ewan McGregor says his Star Wars films were \u2018dragged through the mud\u2019",
-    "description": "The \u2018Star Wars\u2019 prequels in which McGregor starred were critically maligned upon release, but have since grown in acclaim",
-    "url": "https://www.the-independent.com/arts-entertainment/films/news/ewan-mcgregor-star-wars-criticism-b3033844.html",
-    "image": "https://static.the-independent.com/2022/06/01/12/obi-wan-ewan-1653598043.jpeg?width=1200&height=800&crop=1200:800",
-    "source": "The-independent.com",
-    "publishedAt": "2026-08-16T14:56:22Z",
-    "category": "Artificial Intelligence",
-    "summary": "The \u2018Star Wars\u2019 prequels in which McGregor starred were critically maligned upon release, but have since grown in acclaim"
-  },
-  {
-    "id": "fFZruqxOOO4",
-    "title": "Quote of the day by Alexandria Ocasio-Cortez, 'Change takes courage' teaches life lessons on strength, purpose, perseverance, confidence, taking bold steps toward personal growth, new opportunities, better future",
-    "description": "Quote of the day by Alexandria Ocasio-Cortez is a reminder that growth and uncertainty are often connected. Every meaningful transition asks people to leave something familiar behind and make room for something new. The process may involve fear, mistakes, dis\u2026",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-alexandria-ocasio-cortez-change-takes-courage-teaches-life-lessons-on-strength-purpose-perseverance-confidence-taking-bold-steps-toward-personal-growth-new-opportunities-better-future/articleshow/133277549.cms",
-    "image": "https://img.etimg.com/thumb/msid-133277607,width-1200,height-630,imgsize-71270,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-16T14:55:44Z",
-    "category": "Artificial Intelligence",
-    "summary": "Quote of the day by Alexandria Ocasio-Cortez is a reminder that growth and uncertainty are often connected. Every meaningful transition asks people to leave something familiar behind and make room for something new. The process may involve fear, mistakes, dis\u2026"
-  },
-  {
-    "id": "NcNkaXFYvB0",
-    "title": "How a Billionaire Is Using His Fortune to Reshape the Democratic Party",
-    "description": "\u201cMandel wants power and control,\u201d said one Connecticut lawmaker, describing the billionaire\u2019s growing political influence.",
-    "url": "https://www.levernews.com/how-a-hedge-fund-billionaire-became-the-democrats-new-kingmaker/",
-    "image": "https://truthout.org/app/uploads/2026/08/GettyImages-2288711372.jpg",
-    "source": "Levernews.com",
-    "publishedAt": "2026-08-16T14:51:24Z",
-    "category": "Artificial Intelligence",
-    "summary": "\u201cMandel wants power and control,\u201d said one Connecticut lawmaker, describing the billionaire\u2019s growing political influence."
-  },
-  {
-    "id": "6zKuyShDclA",
-    "title": "Nvidia's $5 billion Intel bet is now worth nearly $25 billion, and its SpaceX stake isn't far behind",
-    "description": "Nvidia bought $5 billion in Intel stock last year as part of the companies' AI infrastructure partnership, creating one of the company's most valuable equity positions. The stake was valued at $24.989 billion in the latest filing.Read Entire Article",
-    "url": "https://www.techspot.com/news/113498-nvidia-5-billion-intel-bet-now-worth-nearly.html",
-    "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-15-image-11.jpg",
-    "source": "TechSpot",
-    "publishedAt": "2026-08-16T14:47:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Nvidia bought $5 billion in Intel stock last year as part of the companies' AI infrastructure partnership, creating one of the company's most valuable equity positions. The stake was valued at $24.989 billion in the latest filing.Read Entire Article"
-  },
-  {
-    "id": "nYgTZLt2OjY",
-    "title": "T\u00fcrkiye's homegrown platform ready to move institutions into AI era",
-    "description": "Havelsan, a leading Turkish defense and technology company developing software-based solutions, has added a new product to its portfolio of AI-focused...",
-    "url": "https://www.dailysabah.com/business/tech/turkiyes-homegrown-platform-ready-to-move-institutions-into-ai-era",
-    "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/16/thumbs/1200x675/456065.jpg",
-    "source": "Daily Sabah",
-    "publishedAt": "2026-08-16T14:46:14Z",
-    "category": "Artificial Intelligence",
-    "summary": "Havelsan, a leading Turkish defense and technology company developing software-based solutions, has added a new product to its portfolio of AI-focused..."
-  },
-  {
-    "id": "VSgPZPBhXT0",
-    "title": "Grok Ranting, Robots.txt Ignoring, AI-Generated Fake News, More: ResearchBuzz AI Update, August 16, 2026",
-    "description": "AI PROBLEMS Futurism: Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia. \u201cElon Musk\u2019s \u201cmaximum truth-seeking\u201d AI Grok is dropping some nuclear takes about its creator. \u2018ELON MUSK WATCHES CHILD [\u2026]",
-    "url": "https://researchbuzz.me/2026/08/16/grok-ranting-robots-txt-ignoring-ai-generated-fake-news-more-researchbuzz-ai-update-august-16-2026/",
-    "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-    "source": "Researchbuzz.me",
-    "publishedAt": "2026-08-16T14:45:41Z",
-    "category": "Artificial Intelligence",
-    "summary": "AI PROBLEMS Futurism: Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia. \u201cElon Musk\u2019s \u201cmaximum truth-seeking\u201d AI Grok is dropping some nuclear takes about its creator. \u2018ELON MUSK WATCHES CHILD [\u2026]"
-  },
-  {
-    "id": "63nB-1dupt0",
-    "title": "Morgan Stanley Favours Quality, AI Adopters and Financials as Earnings Growth Broadens",
-    "description": "Morgan Stanley sees U. S. corporate earnings momentum spreading well beyond the largest technology companies, creating opportunities in quality stocks, artif...",
-    "url": "https://investorshub.advfn.com/market-news/article/34289/morgan-stanley-favours-quality-ai-adopters-and-financials-as-earnings-growth-broadens",
-    "image": "https://s.yimg.com/lo/mysterio/api/E43BD29FDAA57831C8DE7E216B31FA7CCD4C887EBBC89E72F2AA4C36DD32CDC7/subgraphmysterio/resizefill_w1200_h659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F27b3f12145979e815002ddafb57e17da.png",
-    "source": "Advfn.com",
-    "publishedAt": "2026-08-16T14:44:54Z",
-    "category": "Artificial Intelligence",
-    "summary": "Morgan Stanley sees U. S. corporate earnings momentum spreading well beyond the largest technology companies, creating opportunities in quality stocks, artif..."
-  },
-  {
-    "id": "hKb169wvpKw",
-    "title": "Infosys bets on building AI talent internally as demand outpaces supply",
-    "description": "AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people\u2019s productivity, says Infosys Chief Human Resources Officer",
-    "url": "https://www.thehindubusinessline.com/info-tech/infosys-bets-on-building-ai-talent-internally-as-demand-outpaces-supply/article71353117.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/7h4kf3/article71272282.ece/alternates/LANDSCAPE_1200/Infosys-Q1FY27-GBVG98UAU.4.jpg.jpg",
-    "source": "BusinessLine",
-    "publishedAt": "2026-08-16T14:41:58Z",
-    "category": "Artificial Intelligence",
-    "summary": "AI is definitely augmenting the workforce; human-plus-AI work paradigm increases people\u2019s productivity, says Infosys Chief Human Resources Officer"
   }
 ]
