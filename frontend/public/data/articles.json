@@ -1,5 +1,236 @@
 [
   {
+    "id": "VLNy3ITpcks",
+    "title": "Benchmarking Agentic Document Extraction Against Traditional OCR Pipelines",
+    "description": "Compare agentic document extraction with traditional OCR pipelines by measuring extraction accuracy, processing latency, token costs, error rates, and human review requirements across enterprise documents.",
+    "url": "https://www.c-sharpcorner.com/article/benchmarking-agentic-document-extraction-against-traditional-ocr-pipelines/",
+    "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+    "source": "C-sharpcorner.com",
+    "publishedAt": "2026-08-18T05:33:59Z",
+    "category": "Artificial Intelligence",
+    "summary": "Compare agentic document extraction with traditional OCR pipelines by measuring extraction accuracy, processing latency, token costs, error rates, and human review requirements across enterprise documents."
+  },
+  {
+    "id": "ORDUnWSk5yc",
+    "title": "Colgate India falls 3% despite Jefferies' bullish outlook; margins in focus",
+    "description": "Jefferies noted that the company's premium portfolio is growing 6 times faster than the overall portfolio, with revenue share now at 2.5 times versus CY21.",
+    "url": "https://www.business-standard.com/markets/news/colgate-india-falls-3-despite-jefferies-bullish-outlook-margins-in-focus-126081800345_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-07/23/thumb/fitandfill/1200X628/1532337598-4706.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-18T05:30:21Z",
+    "category": "Other Tech",
+    "summary": "Jefferies noted that the company's premium portfolio is growing 6 times faster than the overall portfolio, with revenue share now at 2.5 times versus CY21."
+  },
+  {
+    "id": "Qvhr5paacNg",
+    "title": "How a \u2018rough\u2019 and \u2018crude\u2019 Chinese cartoon ox went from box office zero to hero",
+    "description": "Widely panned on its release, Niu Lai has become the summer\u2019s most surprising smash hit despite competition from The Odyssey and Spider-Man: Brand New Day.",
+    "url": "https://www.scmp.com/news/china/article/3364211/how-rough-and-crude-chinese-cartoon-ox-went-box-office-zero-hero",
+    "image": "https://dam.mediacorp.sg/image/upload/s--quqXcCGp--/c_crop,h_261,w_465,x_1,y_40/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/18/niu_lai_china_film.jpg?itok=Cmtd0DX9",
+    "source": "Post Magazine",
+    "publishedAt": "2026-08-18T05:30:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "Widely panned on its release, Niu Lai has become the summer\u2019s most surprising smash hit despite competition from The Odyssey and Spider-Man: Brand New Day."
+  },
+  {
+    "id": "ybh_oiED7S8",
+    "title": "Singapore put solar panels on the sea expecting waves to be the biggest challenge, but barnacles had other plans",
+    "description": "Singapore is using floating solar farms to address land scarcity while expanding renewable energy generation. However, marine organisms can attach to these structures, increasing their weight and affecting buoyancy. This biofouling can accelerate equipment co\u2026",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/singapore-put-solar-panels-on-the-sea-expecting-waves-to-be-the-biggest-challenge-but-barnacles-had-other-plans/articleshow/133312135.cms",
+    "image": "https://img.etimg.com/thumb/msid-133312481,width-1200,height-630,imgsize-1184772,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T05:27:37Z",
+    "category": "Science & Emerging Tech",
+    "summary": "Singapore is using floating solar farms to address land scarcity while expanding renewable energy generation. However, marine organisms can attach to these structures, increasing their weight and affecting buoyancy. This biofouling can accelerate equipment co\u2026"
+  },
+  {
+    "id": "Q-kuV6QkwoQ",
+    "title": "Microsoft stock under pressure: AI capex math faces investor scrutiny",
+    "description": "Microsoft shares came under pressure as investors scrutinised the company\u2019s heavy AI infrastructure spending and questioned whether future AI revenue can justify the scale of capital expenditure. The selloff also reflected a broader shift within technology st\u2026",
+    "url": "https://m.economictimes.com/markets/us-stocks/news/microsoft-stock-under-pressure-ai-capex-math-faces-investor-scrutiny/microsoft-stock-takes-a-hit/slideshow/133312682.cms",
+    "image": "https://img.etimg.com/thumb/msid-133312682,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "source": "Economictimes.com",
+    "publishedAt": "2026-08-18T05:25:23Z",
+    "category": "Artificial Intelligence",
+    "summary": "Microsoft shares came under pressure as investors scrutinised the company\u2019s heavy AI infrastructure spending and questioned whether future AI revenue can justify the scale of capital expenditure. The selloff also reflected a broader shift within technology st\u2026"
+  },
+  {
+    "id": "WibEGlBCK6Y",
+    "title": "Sonata Software appoints Hariprasad Rebala as Chief AI Officer",
+    "description": "Sonata Software today announced the appointment of Hariprasad Rebala (Hari) as Chief AI Officer.",
+    "url": "https://www.business-standard.com/markets/capital-market-news/sonata-software-appoints-hariprasad-rebala-as-chief-ai-officer-126081800311_1.html",
+    "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-18T05:22:49Z",
+    "category": "Artificial Intelligence",
+    "summary": "Sonata Software today announced the appointment of Hariprasad Rebala (Hari) as Chief AI Officer."
+  },
+  {
+    "id": "pQiGy7vcoew",
+    "title": "B'desh does not want ties with India to deteriorate over Teesta: Minister",
+    "description": "Bangladesh does not want its friendly ties with India to deteriorate over the long-pending Teesta water-sharing agreement, a senior minister has said, urging New Delhi to take into account Dhaka's interests while pursuing its own.\n\"The neighbouring country is\u2026",
+    "url": "https://www.business-standard.com/external-affairs-defence-security/news/b-desh-does-not-want-ties-with-india-to-deteriorate-over-teesta-minister-126081800277_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/30/thumb/fitandfill/1200X628/1748595369-5539.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-18T05:22:21Z",
+    "category": "Artificial Intelligence",
+    "summary": "Bangladesh does not want its friendly ties with India to deteriorate over the long-pending Teesta water-sharing agreement, a senior minister has said, urging New Delhi to take into account Dhaka's interests while pursuing its own.\n\"The neighbouring country is\u2026"
+  },
+  {
+    "id": "DbBMrrd712I",
+    "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+    "description": "WorldClaw, founded earlier this year, offers customers access to a suite of AI models and accepts World Liberty's crypto \u200btokens as payment. The Trump family, through its ownership stake, earns revenue from the use of World Liberty's \u200btokens.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies/articleshow/133312302.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1144707,resizemode-75,msid-133312302/tech/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T05:17:42Z",
+    "category": "Artificial Intelligence",
+    "summary": "WorldClaw, founded earlier this year, offers customers access to a suite of AI models and accepts World Liberty's crypto \u200btokens as payment. The Trump family, through its ownership stake, earns revenue from the use of World Liberty's \u200btokens."
+  },
+  {
+    "id": "fZ8N9sTFIA0",
+    "title": "Why we shouldn't be surprised when Saudi Arabia finds its real friends",
+    "description": "When the headlines expressed shock that Saudi Arabia chose Ankara and Islamabad over Jerusalem, the honest response should have been: what did you expect? Opinion.",
+    "url": "https://www.israelnationalnews.com/news/431862",
+    "image": "https://2.a7.org/files/pictures/000/1124551.jpg",
+    "source": "Israelnationalnews.com",
+    "publishedAt": "2026-08-18T05:09:54Z",
+    "category": "Artificial Intelligence",
+    "summary": "When the headlines expressed shock that Saudi Arabia chose Ankara and Islamabad over Jerusalem, the honest response should have been: what did you expect? Opinion."
+  },
+  {
+    "id": "CFuC0L0vgAE",
+    "title": "Google plans to move all Pixel production out of China by 2027: Report",
+    "description": "If the plan goes ahead, Google will become the second major smartphone brand after Samsung to move all its smartphone production out of China",
+    "url": "https://www.business-standard.com/world-news/google-pixel-smartphones-production-china-2027-vietnam-india-supply-chain-126081800271_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/30/thumb/fitandfill/1200X628/1777555746-6292.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-18T05:09:34Z",
+    "category": "Gadgets & Hardware",
+    "summary": "If the plan goes ahead, Google will become the second major smartphone brand after Samsung to move all its smartphone production out of China"
+  },
+  {
+    "id": "zlS1bcU35DU",
+    "title": "Meghalaya CM Conrad Sangma inaugurates first eco-sustainable habitat 'Pine Home' and open-air museum",
+    "description": "Meghalaya's Chief Minister inaugurated the state's first eco-sustainable habitat, the Pine Home project. This initiative blends global architecture with local skills, fostering community engagement and green tourism. The Twahlongwar Open-Air Museum was also i\u2026",
+    "url": "https://economictimes.indiatimes.com/news/india/meghalaya-cm-inaugurates-first-eco-sustainable-habitat-pine-home-and-open-air-museum/articleshow/133312124.cms",
+    "image": "https://img.etimg.com/thumb/msid-133312217,width-1200,height-630,imgsize-59320,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T05:08:53Z",
+    "category": "Artificial Intelligence",
+    "summary": "Meghalaya's Chief Minister inaugurated the state's first eco-sustainable habitat, the Pine Home project. This initiative blends global architecture with local skills, fostering community engagement and green tourism. The Twahlongwar Open-Air Museum was also i\u2026"
+  },
+  {
+    "id": "MJeSqJ1IRzw",
+    "title": "Global Market: Chinese, Hong Kong stocks slip as AI shares retreat; energy stocks gain",
+    "description": "Chinese and Hong Kong stocks declined as investors booked profits in AI and technology shares, while energy stocks gained amid rising Middle East tensions and higher oil prices. Weakening economic indicators and concerns over domestic demand also weighed on s\u2026",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-hong-kong-stocks-slip-as-ai-shares-retreat-energy-stocks-gain/articleshow/133312183.cms",
+    "image": "https://img.etimg.com/thumb/msid-133312215,width-1200,height-630,imgsize-2033188,overlay-etmarkets/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T05:08:35Z",
+    "category": "Artificial Intelligence",
+    "summary": "Chinese and Hong Kong stocks declined as investors booked profits in AI and technology shares, while energy stocks gained amid rising Middle East tensions and higher oil prices. Weakening economic indicators and concerns over domestic demand also weighed on s\u2026"
+  },
+  {
+    "id": "M7Q6rpOKTjM",
+    "title": "From seats to outcomes: Where enterprise AI value will accrue",
+    "description": "Digital Life News: The structural repricing of enterprise technology assets in 2026 has exposed a fundamental valuation mismatch between legacy public-market equity mode.",
+    "url": "https://timesofindia.indiatimes.com/toi-blogs/digital-life/from-seats-to-outcomes-where-enterprise-ai-value-will-accrue/articleshow/133311490.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133312046,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T05:01:24Z",
+    "category": "Artificial Intelligence",
+    "summary": "Digital Life News: The structural repricing of enterprise technology assets in 2026 has exposed a fundamental valuation mismatch between legacy public-market equity mode."
+  },
+  {
+    "id": "vwwBiqGZi_E",
+    "title": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold 8: Which Should You Buy?",
+    "description": "Foldable smartphones have evolved from niche gadgets into mainstream devices that showcase the forefront of technological innovation. The Pixel 11 Pro Fold and Galaxy Z Fold 8, both priced at $1,900, represent the apex of this evolution. These devices cater t\u2026",
+    "url": "https://www.geeky-gadgets.com/pixel-11-pro-fold-vs-galaxy-z-fold-8/",
+    "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/foldable-phones-compared.jpg",
+    "source": "Geeky Gadgets",
+    "publishedAt": "2026-08-18T05:00:42Z",
+    "category": "Artificial Intelligence",
+    "summary": "Foldable smartphones have evolved from niche gadgets into mainstream devices that showcase the forefront of technological innovation. The Pixel 11 Pro Fold and Galaxy Z Fold 8, both priced at $1,900, represent the apex of this evolution. These devices cater t\u2026"
+  },
+  {
+    "id": "T0FSSpffXKc",
+    "title": "Connecticut Boosts Innovation Center With $20M for New Urban Campus",
+    "description": "Connecticut is investing $20 million to establish a 100,000-square-foot campus for the Hartford Innovation Center at State House Square in downtown Hartford. Governor Ned Lamont said the new urban workforce campus will feature collaborative labs, classrooms, \u2026",
+    "url": "https://www.insurancejournal.com/news/east/2026/08/18/881938.htm",
+    "image": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+    "source": "Insurance Journal",
+    "publishedAt": "2026-08-18T05:00:01Z",
+    "category": "Artificial Intelligence",
+    "summary": "Connecticut is investing $20 million to establish a 100,000-square-foot campus for the Hartford Innovation Center at State House Square in downtown Hartford. Governor Ned Lamont said the new urban workforce campus will feature collaborative labs, classrooms, \u2026"
+  },
+  {
+    "id": "ndLyzS9AK9w",
+    "title": "Applications for Stripe YSTE open",
+    "description": "Applications for the 2027 Stripe Young Scientist & Technology Exhibition (Stripe YSTE) opened this morning.",
+    "url": "https://www.rte.ie/news/business/2026/0818/1588239-applications-for-stripe-yste-open/",
+    "image": "https://www.rte.ie/images/0024daad-1600.jpg",
+    "source": "RTE",
+    "publishedAt": "2026-08-18T05:00:00Z",
+    "category": "Other Tech",
+    "summary": "Applications for the 2027 Stripe Young Scientist & Technology Exhibition (Stripe YSTE) opened this morning."
+  },
+  {
+    "id": "-NMR2s2utjo",
+    "title": "Global adoption and readiness for artificial intelligence and digital health technologies in infection prevention and control: a World Health Organization global survey",
+    "description": "This global IPC survey identified a substantial gap between awareness and routine implementation of AI-enabled and digital technologies. Adoption remains limited despite favourable perceptions, highlighting workforce capacity, funding, and system integration \u2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134474/",
+    "image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+    "source": "National Institutes of Health",
+    "publishedAt": "2026-08-18T04:59:17Z",
+    "category": "Artificial Intelligence",
+    "summary": "This global IPC survey identified a substantial gap between awareness and routine implementation of AI-enabled and digital technologies. Adoption remains limited despite favourable perceptions, highlighting workforce capacity, funding, and system integration \u2026"
+  },
+  {
+    "id": "yY4vuDW6bds",
+    "title": "The Live Experience: Why Football Fans Crave the Real-Time Thrill",
+    "description": "Asks anyone who is a fan of West Ham United why he or she chooses to visit the London Stadium on each occasion while there is a possibility to see all of their games on TV and the answer will be the s...",
+    "url": "https://footballtoday.com/2026/08/17/the-live-experience-why-football-fans-crave-the-real-time-thrill/",
+    "image": "https://s.yimg.com/lo/mysterio/api/df4c717c7cc9f2ad94a791a91c3722e43459c05b95a7bd6f0f5720841cfba7bf/lightyear_networkapi/resizefill_w760_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2Fac4c86e1cb16b996b101ef84b433fcc0.png",
+    "source": "Footballtoday.com",
+    "publishedAt": "2026-08-18T04:55:00Z",
+    "category": "Other Tech",
+    "summary": "Asks anyone who is a fan of West Ham United why he or she chooses to visit the London Stadium on each occasion while there is a possibility to see all of their games on TV and the answer will be the s..."
+  },
+  {
+    "id": "PiFGBucnCAM",
+    "title": "Sigma Advanced Systems shares rally 5% on Rs 155 crore anti-drone orders; stock up 105% in 3 months",
+    "description": "Sigma Advanced Systems shares gained nearly 5% after the defence technology company announced orders worth around Rs 155 crore for its Indrajaal Ranger anti-drone system. The stock has surged 105% in three months, while its order book stands at approximately \u2026",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sigma-advanced-systems-shares-rally-5-on-rs-155-crore-anti-drone-orders-stock-up-105-in-3-months/articleshow/133311814.cms",
+    "image": "https://img.etimg.com/thumb/msid-133311847,width-1200,height-630,imgsize-2043726,overlay-etmarkets/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-18T04:50:10Z",
+    "category": "Artificial Intelligence",
+    "summary": "Sigma Advanced Systems shares gained nearly 5% after the defence technology company announced orders worth around Rs 155 crore for its Indrajaal Ranger anti-drone system. The stock has surged 105% in three months, while its order book stands at approximately \u2026"
+  },
+  {
+    "id": "MVZeKbE2KAw",
+    "title": "Nelco drops after $20 million investment in pre-revenue satellite firm",
+    "description": "Nelco dropped 9.21% to Rs 982 after the company announced a $20 million strategic investment in Lunar Holdco, Inc., doing business as Elveo Mobile.",
+    "url": "https://www.business-standard.com/markets/capital-market-news/nelco-drops-after-20-million-investment-in-pre-revenue-satellite-firm-126081800227_1.html",
+    "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-18T04:46:19Z",
+    "category": "Other Tech",
+    "summary": "Nelco dropped 9.21% to Rs 982 after the company announced a $20 million strategic investment in Lunar Holdco, Inc., doing business as Elveo Mobile."
+  },
+  {
+    "id": "Sa6FVAe-pXE",
+    "title": "Augmont Enterprises to launch \u20b9825-crore IPO on Aug 21; price band set at \u20b9750-788",
+    "description": "The IPO will comprise a fresh issue of shares worth \u20b9620 crore and an offer for sale (OFS) of shares worth \u20b9205 crore by promoters, according to the company's public announcement on Tuesday",
+    "url": "https://www.thehindubusinessline.com/markets/augmont-enterprises-to-launch-825-crore-ipo-on-aug-21-price-band-set-at-750-788/article71358889.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/p4qgq5/article71356098.ece/alternates/LANDSCAPE_1200/IMG_bloc_business_analys_2_1_F18V64KI.jpg",
+    "source": "BusinessLine",
+    "publishedAt": "2026-08-18T04:42:42Z",
+    "category": "Artificial Intelligence",
+    "summary": "The IPO will comprise a fresh issue of shares worth \u20b9620 crore and an offer for sale (OFS) of shares worth \u20b9205 crore by promoters, according to the company's public announcement on Tuesday"
+  },
+  {
     "id": "snuyruevfnY",
     "title": "\u7701\u30b9\u30da\u30fc\u30b9\u3067\u3082\u6620\u753b\u9928\u306e\u3088\u3046\u306a\u6ca1\u5165\u611f\u3092\u5b9f\u73fe\u30004K\u8d85\u77ed\u7126\u70b9\u30d7\u30ed\u30b8\u30a7\u30af\u30bf\u30fc\u300cAWOL Aetherion\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u65e5\u672c\u521d\u30af\u30e9\u30a6\u30c9\u30d5\u30a1\u30f3\u30c7\u30a3\u30f3\u30b0\u30018\u670818\u65e5\uff08\u706b\uff09\u30b9\u30bf\u30fc\u30c8",
     "description": "[Elevation Technology Partners LLC.]\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/168708/24/168708-24-cd012326c9d7961058d3a068da07f6a9-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
@@ -132,17 +363,6 @@
     "summary": "Top-loading collection trucks could offset a potential vehicle mileage increase from the Big Apple's \"trash revolution.\""
   },
   {
-    "id": "bB1pp53pRlo",
-    "title": "U.S. News Reveals 2026-2027 Best High Schools Rankings",
-    "description": "New data highlights top-performing public, charter and STEM schools across all 50 states and major metro areas. WASHINGTON, Aug. 18, 2026 /PRNewswire/ -- U.S. News & World Report, the global authority in education rankings, announced the 2026-2027 Best High S\u2026",
-    "url": "https://www.prnewswire.com/news-releases/us-news-reveals-2026-2027-best-high-schools-rankings-302853368.html",
-    "image": "https://mmx.prnewswire.com/media/MS526459/US-News-Logo.jpg?id=OA2891274&p=facebook",
-    "source": "PRNewswire",
-    "publishedAt": "2026-08-18T04:01:00Z",
-    "category": "Other Tech",
-    "summary": "New data highlights top-performing public, charter and STEM schools across all 50 states and major metro areas. WASHINGTON, Aug. 18, 2026 /PRNewswire/ -- U.S. News & World Report, the global authority in education rankings, announced the 2026-2027 Best High S\u2026"
-  },
-  {
     "id": "nYAu6mguc8Q",
     "title": "Ad Tech Briefing: TV measurement\u2019s competitive reset gathers pace (with more job cuts)",
     "description": "The initial impact of Nielsen's recent DoubleVerify purchase can be measured in (yet more) layoffs as ComScore and VideoAmp cut back.",
@@ -176,17 +396,6 @@
     "summary": "Key learnings from beauty's first-half results include China is back, hair care booms and K-beauty is expanding rapidly in the Americas."
   },
   {
-    "id": "4QOc66PMCPQ",
-    "title": "The Latest Beauty Executive Moves at Ulta Beauty, Kosas and\u00a0More",
-    "description": "Ulta has tapped a food and beverage industry alum to advance its tech capabilities; Kosas has a new global brand vice president and more.",
-    "url": "http://wwd.com/beauty-industry-news/beauty-features/ulta-beauty-estee-lauder-executive-changes-1239123299/",
-    "image": "https://wwd.com/wp-content/uploads/2026/08/Executive-moves.jpg?w=1000&h=563&crop=1",
-    "source": "WWD",
-    "publishedAt": "2026-08-18T04:01:00Z",
-    "category": "Other Tech",
-    "summary": "Ulta has tapped a food and beverage industry alum to advance its tech capabilities; Kosas has a new global brand vice president and more."
-  },
-  {
     "id": "lq1cyZxoE98",
     "title": "Cybersecurity jobs available right now: August 18, 2026",
     "description": "CISO ADI Global Distribution | USA | Hybrid \u2013 View job details As a CISO, you will develop and lead ADI\u2019s global security strategy to protect information assets, digital platforms, critical operations, and AI-enabled environments. Advise executives and the Bo\u2026",
@@ -207,17 +416,6 @@
     "publishedAt": "2026-08-18T04:00:00Z",
     "category": "Artificial Intelligence",
     "summary": "Photo Credit:ChatGPT\n \n ChatGPT for American ThinkerBy Janet LevyThere is only so much capacity in space for objects; a\u00a0cleanup is critical and overdue."
-  },
-  {
-    "id": "GjBi14-v8Xc",
-    "title": "The corrosion of confidence: Assessing the risks to the dollar\u2019s global role",
-    "description": "By Jason RiversIf the U.S. continues to rely on its aging financial infrastructure, it may lose its dominance in the global financial system.",
-    "url": "https://www.americanthinker.com/blog/2026/08/the-corrosion-of-confidence-assessing-the-risks-to-the-dollar-s-global-role/",
-    "image": "https://images.americanthinker.com/4x/4xqwsyqnreqwbo7jrmsm_1200.jpg",
-    "source": "Americanthinker.com",
-    "publishedAt": "2026-08-18T04:00:00Z",
-    "category": "Other Tech",
-    "summary": "By Jason RiversIf the U.S. continues to rely on its aging financial infrastructure, it may lose its dominance in the global financial system."
   },
   {
     "id": "lZ9Wue6PsEQ",
@@ -262,17 +460,6 @@
     "publishedAt": "2026-08-18T03:41:37Z",
     "category": "Artificial Intelligence",
     "summary": "South Korean shares surged 2.73%, extending gains for a sixth session as chipmakers rallied on optimism over AI demand. Samsung Electronics and SK Hynix led advances, while foreign investors bought Rs 65,000 crore-equivalent shares. The won strengthened, thou\u2026"
-  },
-  {
-    "id": "LAB4NyzRC8c",
-    "title": "upGrad Crosses \u20b92,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr",
-    "description": "UpGrad, one of Asia's largest integrated skilling and lifelong learning majors, reported a decisive step-up in profitability for FY26. Ind-AS EBITDA rose more than eight-fold to INR 123 crore, from IN",
-    "url": "https://www.business-standard.com/content/specials/upgrad-crosses-2-000-cr-gross-revenue-in-fy26-grows-ebitda-8x-to-123-cr-126081700788_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/17/thumb/featurecrop/1200X628/1786961573-1197.jpg",
-    "source": "Business Standard",
-    "publishedAt": "2026-08-18T03:41:32Z",
-    "category": "Other Tech",
-    "summary": "UpGrad, one of Asia's largest integrated skilling and lifelong learning majors, reported a decisive step-up in profitability for FY26. Ind-AS EBITDA rose more than eight-fold to INR 123 crore, from IN"
   },
   {
     "id": "gClbZ1A-ccI",
@@ -361,192 +548,5 @@
     "publishedAt": "2026-08-18T03:28:00Z",
     "category": "Artificial Intelligence",
     "summary": "Steve Feldstein charts global technological-military rivalry whose implications are not fully understood"
-  },
-  {
-    "id": "mRDz9zUfsN0",
-    "title": "Flock Cameras In This California Town Are Only Getting License Plates Right 29% Of The Time",
-    "description": "While Flock claims that its license plate-reading cameras have an accuracy rate in the high 90s, this town's experience shows a far different set of numbers.",
-    "url": "https://www.jalopnik.com/2237694/roseville-california-flock-license-plate-cameras-only-29-percent-accurate/",
-    "image": "https://www.jalopnik.com/img/gallery/flock-cameras-in-this-california-town-are-only-getting-license-plates-right-29-of-the-time/l-intro-1786823456.jpg",
-    "source": "Jalopnik",
-    "publishedAt": "2026-08-18T03:25:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "While Flock claims that its license plate-reading cameras have an accuracy rate in the high 90s, this town's experience shows a far different set of numbers."
-  },
-  {
-    "id": "sQ6e_yjvZe8",
-    "title": "Sunshine Pictures launches IPO today\u00a0at \u20b9342-360",
-    "description": "As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue",
-    "url": "https://www.thehindubusinessline.com/markets/sunshine-pictures-launches-ipo-todayat-342-360/article71358829.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/ipcqka/article71356131.ece/alternates/LANDSCAPE_1200/IMG_bl09_IPO_2_1_S392GQOA.jpg",
-    "source": "BusinessLine",
-    "publishedAt": "2026-08-18T03:19:54Z",
-    "category": "Artificial Intelligence",
-    "summary": "As much as 50% of the net issue is reserved for qualified institutional buyers (QIBs), while 15% is reserved for non-institutional investors (NIIs). Retail investors have been offered 35% of the net issue"
-  },
-  {
-    "id": "b6c54zgPVIo",
-    "title": "Sunshine Pictures IPO opens for subscription today: Check GMP, price band and other key details",
-    "description": "The Sunshine Pictures IPO opens for subscription on August 18, 2026, with the Rs 282.14 crore issue set to remain open until August 20. The IPO is commanding a grey-market premium of around 20%, indicating strong investor interest ahead of its proposed listin\u2026",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-opens-for-subscription-today-check-gmp-price-band-and-other-key-details/articleshow/133310394.cms",
-    "image": "https://img.etimg.com/thumb/msid-133310410,width-1200,height-630,imgsize-335253,overlay-etmarkets/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T03:17:09Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Sunshine Pictures IPO opens for subscription on August 18, 2026, with the Rs 282.14 crore issue set to remain open until August 20. The IPO is commanding a grey-market premium of around 20%, indicating strong investor interest ahead of its proposed listin\u2026"
-  },
-  {
-    "id": "uXxtem-0q8s",
-    "title": "5 Of The Best Anker Gadgets For Google Pixel 10",
-    "description": "If you're looking to get the most out of your Google Pixel 10 and don't know where to start, consider these popular accessories from Anker.",
-    "url": "https://www.bgr.com/2235369/best-anker-gadgets-google-pixel-10/",
-    "image": "https://www.bgr.com/img/gallery/5-of-the-best-anker-gadgets-for-google-pixel-10/l-intro-1786544410.jpg",
-    "source": "BGR",
-    "publishedAt": "2026-08-18T03:17:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "If you're looking to get the most out of your Google Pixel 10 and don't know where to start, consider these popular accessories from Anker."
-  },
-  {
-    "id": "CgULxwQBFkw",
-    "title": "Several US billionaire investors reshuffle their Chinese technology stocks amid AI boom",
-    "description": "Some of Wall Street\u2019s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in \u2026",
-    "url": "https://biztoc.com/x/87aa792e5154d897",
-    "image": "https://biztoc.com/cdn/87aa792e5154d897_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-08-18T03:16:21Z",
-    "category": "Artificial Intelligence",
-    "summary": "Some of Wall Street\u2019s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in \u2026"
-  },
-  {
-    "id": "xxywkNjqHxs",
-    "title": "MicroLED still lacks key LTPO TFT tech",
-    "description": "MicroLED remains a promising next-generation display technology, but industry analysts say its commercial breakthrough still hinges on thin-film transistor (TFT) technology and the participation of South Korean panel makers Samsung Display (SDC) and LG Displa\u2026",
-    "url": "https://www.digitimes.com/news/a20260818PD207/microled-tft-technology-display-sdc.html",
-    "image": "https://img.digitimes.com/newsshow/20260818pd207_files/2_2b.jpg",
-    "source": "Digitimes",
-    "publishedAt": "2026-08-18T03:10:53Z",
-    "category": "Artificial Intelligence",
-    "summary": "MicroLED remains a promising next-generation display technology, but industry analysts say its commercial breakthrough still hinges on thin-film transistor (TFT) technology and the participation of South Korean panel makers Samsung Display (SDC) and LG Displa\u2026"
-  },
-  {
-    "id": "iqgUXarXPYU",
-    "title": "upGrad Crosses \u20b92,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr",
-    "description": "upGrad Crosses \u20b92,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/upgrad-crosses-2-000-cr-gross-revenue-in-fy26-grows-ebitda-8x-to-123-cr/article71358824.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/e3t1yu/article71358823.ece/alternates/LANDSCAPE_1200/upGrad-Financials-FY26.jpg",
-    "source": "BusinessLine",
-    "publishedAt": "2026-08-18T03:00:20Z",
-    "category": "Artificial Intelligence",
-    "summary": "upGrad Crosses \u20b92,000 Cr Gross Revenue in FY26; Grows EBITDA 8X to 123 Cr"
-  },
-  {
-    "id": "bCmNhWTL_xI",
-    "title": "High tech, but low trust: Agentic tech meets old-school scepticism at AI checkout",
-    "description": "<i>AI\u2019s ecommerce ambitions are hitting a reality check as trust and changing buying habits are holding back chatbot-led commerce, writes Swathi Moorthy</i>",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/high-tech-but-low-trust-agentic-tech-meets-old-school-scepticism-at-ai-checkout/articleshow/133309919.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-131178,resizemode-75,msid-133309919/tech/artificial-intelligence/high-tech-but-low-trust-agentic-tech-meets-old-school-scepticism-at-ai-checkout.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T02:57:11Z",
-    "category": "Artificial Intelligence",
-    "summary": "<i>AI\u2019s ecommerce ambitions are hitting a reality check as trust and changing buying habits are holding back chatbot-led commerce, writes Swathi Moorthy</i>"
-  },
-  {
-    "id": "Xm5cFmXOVx4",
-    "title": "Gotham Variable and the Art of Evolution",
-    "description": "As Gotham turns 25, Monotype is giving the iconic typeface room to evolve. With Gotham Variable, Sara Soskolne explores how legacy identities can embrace flexibility and new technologies \u2014 including AI \u2014 without losing the underlying logic that makes them rec\u2026",
-    "url": "https://www.printmag.com/type-tuesday/gotham-variable-and-the-art-of-evolution/",
-    "image": "https://www.printmag.com/wp-content/uploads/2026/08/Newsroom-hero-image-1820x910@2x-1024x512.png",
-    "source": "Printmag.com",
-    "publishedAt": "2026-08-18T02:49:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "As Gotham turns 25, Monotype is giving the iconic typeface room to evolve. With Gotham Variable, Sara Soskolne explores how legacy identities can embrace flexibility and new technologies \u2014 including AI \u2014 without losing the underlying logic that makes them rec\u2026"
-  },
-  {
-    "id": "Y9mXbJV4k2w",
-    "title": "[NSW, ACT] Electrolux 60cm Pyrolytic Stainless Steel Double Oven with Steambake (EVEP626DSE) $1595 Delivered @ Bing Lee",
-    "description": "On clearance, appears to ship to selected areas in NSW and ACT only. It's $3361 at AO, potential price match. Model: EVEP626DSE Combines a 80L main oven and 46L auxiliary oven. Pyrolytic \u2026",
-    "url": "https://www.ozbargain.com.au/node/971760",
-    "image": "https://files.ozbargain.com.au/n/60/971760l.jpg?h=84adc706",
-    "source": "Ozbargain.com.au",
-    "publishedAt": "2026-08-18T02:42:29Z",
-    "category": "Artificial Intelligence",
-    "summary": "On clearance, appears to ship to selected areas in NSW and ACT only. It's $3361 at AO, potential price match. Model: EVEP626DSE Combines a 80L main oven and 46L auxiliary oven. Pyrolytic \u2026"
-  },
-  {
-    "id": "pbueC1XDt-g",
-    "title": "Kbank, not Jeonbuk Bank, is leading South Korea\u2019s Ripple Payments push",
-    "description": "Kbank's Ripple partnership could accelerate blockchain adoption in South Korea's banking sector, challenging traditional payment systems.\nThe post Kbank, not Jeonbuk Bank, is leading South Korea\u2019s Ripple Payments push appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/south-korea-ripple-payments-kbank/",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/17224020/kbank-headquarters-in-seoul-courtesy-of-kbank-800x420.jpeg",
-    "source": "Crypto Briefing",
-    "publishedAt": "2026-08-18T02:40:26Z",
-    "category": "Artificial Intelligence",
-    "summary": "Kbank's Ripple partnership could accelerate blockchain adoption in South Korea's banking sector, challenging traditional payment systems.\nThe post Kbank, not Jeonbuk Bank, is leading South Korea\u2019s Ripple Payments push appeared first on Crypto Briefing."
-  },
-  {
-    "id": "7KG6mpk3Blw",
-    "title": "Cadence AI cuts chip timelines",
-    "description": "San Jose-headquartered Cadence Design Systems provides electronic design automation (EDA) software, hardware and intellectual property (IP) used to design semiconductors, integrated circuits and systems-on-chips (SoCs).",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cadence-ai-cuts-chip-timelines/articleshow/133309694.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19621065,resizemode-75,msid-133309694/tech/artificial-intelligence/cadence-ai-cuts-chip-timelines.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T02:29:51Z",
-    "category": "Artificial Intelligence",
-    "summary": "San Jose-headquartered Cadence Design Systems provides electronic design automation (EDA) software, hardware and intellectual property (IP) used to design semiconductors, integrated circuits and systems-on-chips (SoCs)."
-  },
-  {
-    "id": "HDx23moVks4",
-    "title": "SGBAU Summer results 2026: Check B.E., B.Tech, M.B.A., L.L.B. and M.Sc. results here",
-    "description": "Sant Gadge Baba Amravati University is releasing Summer 2026 results in phases across law, management, engineering, technology and science programmes. Recent updates include L.L.B., M.B.A., B.E., B.Tech and M.Sc. results, while July releases covered B.C.A., B\u2026",
-    "url": "https://timesofindia.indiatimes.com/education/news/sgbau-summer-results-2026-check-b-e-b-tech-m-b-a-l-l-b-and-m-sc-results-here/articleshow/133309681.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133309692,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T02:28:05Z",
-    "category": "Artificial Intelligence",
-    "summary": "Sant Gadge Baba Amravati University is releasing Summer 2026 results in phases across law, management, engineering, technology and science programmes. Recent updates include L.L.B., M.B.A., B.E., B.Tech and M.Sc. results, while July releases covered B.C.A., B\u2026"
-  },
-  {
-    "id": "wCIN-HdI2YE",
-    "title": "Why AMD still owns US$565M of SpaceX shares after Musk chose Nvidia",
-    "description": "Elon Musk has made SpaceX's AI hardware strategy unusually clear: future infrastructure will rely exclusively on Nvidia chips and technology. Yet AMD, Nvidia's largest rival in AI accelerators, still owns roughly 3.3 million SpaceX shares worth more than US$5\u2026",
-    "url": "https://www.digitimes.com/news/a20260818PD208/amd-spacex-ai-chip-hardware.html",
-    "image": "https://img.digitimes.com/newsshow/20260818pd208_files/1_b.jpg",
-    "source": "Digitimes",
-    "publishedAt": "2026-08-18T02:07:07Z",
-    "category": "Artificial Intelligence",
-    "summary": "Elon Musk has made SpaceX's AI hardware strategy unusually clear: future infrastructure will rely exclusively on Nvidia chips and technology. Yet AMD, Nvidia's largest rival in AI accelerators, still owns roughly 3.3 million SpaceX shares worth more than US$5\u2026"
-  },
-  {
-    "id": "bPcoI_sf-u4",
-    "title": "Milky Mist Dairy Food shares to make market debut today; GMP signals 14% listing premium",
-    "description": "The Rs 1,553 crore IPO was priced at Rs 140 per share, comprising a fresh issue of 10.20 crore shares worth Rs 1,428 crore and an Offer for Sale (OFS) of 89 lakh shares valued at Rs 125 crore.",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-to-make-market-debut-today-gmp-signals-14-listing-premium/articleshow/133309402.cms",
-    "image": "https://img.etimg.com/thumb/msid-133309471,width-1200,height-630,imgsize-2336804,overlay-etmarkets/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T02:05:18Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Rs 1,553 crore IPO was priced at Rs 140 per share, comprising a fresh issue of 10.20 crore shares worth Rs 1,428 crore and an Offer for Sale (OFS) of 89 lakh shares valued at Rs 125 crore."
-  },
-  {
-    "id": "KOROFjYMp5Q",
-    "title": "Meta stares down trillion-dollar threat as landmark social media trial begins",
-    "description": "By Meta\u2019s own calculations, if it loses the trial it could face penalties of as much as $1.4 trillion, an amount close to its market capitalization and unheard of in the annals of legal history.",
-    "url": "https://www.moneycontrol.com/news/business/meta-stares-down-trillion-dollar-threat-as-landmark-social-media-trial-begins-14008177.html",
-    "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260817221748_Meta.jpg",
-    "source": "Moneycontrol",
-    "publishedAt": "2026-08-18T02:03:59Z",
-    "category": "Software & Programming",
-    "summary": "By Meta\u2019s own calculations, if it loses the trial it could face penalties of as much as $1.4 trillion, an amount close to its market capitalization and unheard of in the annals of legal history."
-  },
-  {
-    "id": "XaOy7V7B4Ps",
-    "title": "Taiwan advances national quantum computing plan as key procurement contract nears",
-    "description": "Taiwan's National Science and Technology Council (NSTC) is preparing the second-phase quantum research program, known as the \"Quantum Leap Project,\" for 2027 to 2031, while a Request for Proposal for the National Center for High-Performance Computing's (NCHC)\u2026",
-    "url": "https://www.digitimes.com/news/a20260817PD226/taiwan-quantum-computing-nstc-quantum-ibm.html",
-    "image": "https://img.digitimes.com/newsshow/20260817pd226_files/2_b.jpg",
-    "source": "Digitimes",
-    "publishedAt": "2026-08-18T02:03:52Z",
-    "category": "Artificial Intelligence",
-    "summary": "Taiwan's National Science and Technology Council (NSTC) is preparing the second-phase quantum research program, known as the \"Quantum Leap Project,\" for 2027 to 2031, while a Request for Proposal for the National Center for High-Performance Computing's (NCHC)\u2026"
   }
 ]
