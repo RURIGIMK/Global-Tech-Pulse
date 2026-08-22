@@ -1,5 +1,324 @@
 [
   {
+    "id": "gbOjN7Sgp-Y",
+    "title": "William Rawn Associates' New Museum of Science Venue Nears Completion in Boston",
+    "description": "The construction of the William and Charlotte Bloomberg Public Science Common, the new venue at Boston's Museum of Science, one of the United States' oldest science institutions, is nearing completion. The 929 m\u00b2 (10,000-square-foot) building, designed by Wil\u2026",
+    "url": "https://www.archdaily.com/1183728/william-rawn-associates-new-museum-of-science-venue-nears-completion-in-boston",
+    "image": "https://images.adsttc.com/media/images/6a87/62e4/ab59/ca01/8994/68f2/large_jpg/museum-of-science-boston_4.jpg?1787257607",
+    "source": "ArchDaily",
+    "publishedAt": "2026-08-21T05:30:00Z",
+    "category": "Other Tech",
+    "summary": "The construction of the William and Charlotte Bloomberg Public Science Common, the new venue at Boston's Museum of Science, one of the United States' oldest science institutions, is nearing completion. The 929 m\u00b2 (10,000-square-foot) building, designed by Wil\u2026"
+  },
+  {
+    "id": "tsBJgMChxAM",
+    "title": "Delhi wants to stay open longer: What MPD-2047's 24-hour city vision means",
+    "description": "Delhi's new master plan proposes a \"24-hour city\", with selected areas staying active longer to boost nightlife, tourism, jobs and the local economy",
+    "url": "https://www.business-standard.com/india-news/master-plan-for-delhi-2047-city-economy-transport-nightlife-urban-planning-126082100278_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/10/thumb/fitandfill/1200X628/1781061103-9893.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-21T05:29:51Z",
+    "category": "Other Tech",
+    "summary": "Delhi's new master plan proposes a \"24-hour city\", with selected areas staying active longer to boost nightlife, tourism, jobs and the local economy"
+  },
+  {
+    "id": "oJMHeV0TSA0",
+    "title": "Microsoft Foundry Claude Agents: Testing Web Search, Web Fetch, and Tool Use",
+    "description": "Learn how to build and test Claude agents in Microsoft Foundry using web search, web fetch, MCP connectors, tool search, and structured outputs.",
+    "url": "https://www.c-sharpcorner.com/article/microsoft-foundry-claude-agents-testing-web-search-web-fetch-and-tool-use/",
+    "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+    "source": "C-sharpcorner.com",
+    "publishedAt": "2026-08-21T05:28:35Z",
+    "category": "Artificial Intelligence",
+    "summary": "Learn how to build and test Claude agents in Microsoft Foundry using web search, web fetch, MCP connectors, tool search, and structured outputs."
+  },
+  {
+    "id": "tEA-M4_luPE",
+    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+    "description": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' na\u2026",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws/articleshow/133393842.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-112868,resizemode-75,msid-133393842/tech/artificial-intelligence/schools-are-starting-to-teach-ai-literacy-for-many-that-means-helping-kids-see-chatbots-flaws.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-21T05:27:25Z",
+    "category": "Artificial Intelligence",
+    "summary": "The result drew gasps of disbelief and laughter. Projected on a large screen was a map riddled with bizarre errors. Mali was spelled \"Mail.\" Egypt was identified as \"Sopth.\" In place of Libya was something simply called \"Africa.\" Dozens of other countries' na\u2026"
+  },
+  {
+    "id": "f8brny8U_xs",
+    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+    "description": "AI chatbots have become the bane of teachers everywhere",
+    "url": "https://abcnews.com/Business/wireStory/schools-starting-teach-ai-literacy-means-helping-kids-135828389",
+    "image": "https://i.abcnewsfe.com/a/e1a4aae5-c4ad-4ccf-8689-247871ec78bf/wirestory_4fb9f2c0240993499870f4f204bf41c1_16x9.jpg?w=1600",
+    "source": "Abcnews.com",
+    "publishedAt": "2026-08-21T05:26:05Z",
+    "category": "Artificial Intelligence",
+    "summary": "AI chatbots have become the bane of teachers everywhere"
+  },
+  {
+    "id": "9kCPGZGOvVQ",
+    "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+    "description": "AI chatbots have become the bane of teachers everywhere",
+    "url": "https://abcnews.com/Technology/wireStory/schools-starting-teach-ai-literacy-means-helping-kids-135828390",
+    "image": "https://i.abcnewsfe.com/a/e1a4aae5-c4ad-4ccf-8689-247871ec78bf/wirestory_4fb9f2c0240993499870f4f204bf41c1_16x9.jpg?w=1600",
+    "source": "Abcnews.com",
+    "publishedAt": "2026-08-21T05:26:01Z",
+    "category": "Artificial Intelligence",
+    "summary": "AI chatbots have become the bane of teachers everywhere"
+  },
+  {
+    "id": "wZhsteEl-OU",
+    "title": "Bessent\u2019s bond market push struggles to bring down US borrowing costs",
+    "description": "US Treasury Secretary Scott Bessent\u2019s bond-buyback push has offered only limited relief, with long-term Treasury yields rising again. Investors remain focused on the wider pressures driving borrowing costs higher, including the growing fiscal deficit, heavy g\u2026",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/bessents-bond-market-push-struggles-to-bring-down-us-borrowing-costs/articleshow/133393939.cms",
+    "image": "https://img.etimg.com/thumb/msid-133394090,width-1200,height-630,imgsize-121864,overlay-etmarkets/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-21T05:24:53Z",
+    "category": "Artificial Intelligence",
+    "summary": "US Treasury Secretary Scott Bessent\u2019s bond-buyback push has offered only limited relief, with long-term Treasury yields rising again. Investors remain focused on the wider pressures driving borrowing costs higher, including the growing fiscal deficit, heavy g\u2026"
+  },
+  {
+    "id": "lZ0ZZIT6kmY",
+    "title": "Strikes in the Gulf changing rules behind India\u2019s big-money bets",
+    "description": "India Private Equity Investment 2026: Geopolitical risks now shape private equity deal considerations in India.  Investors increasingly focus on resilience and supply-chain stability for investments.  Capital deployment concentrates on manufacturing and finan\u2026",
+    "url": "https://economictimes.indiatimes.com/industry/banking/finance/india-private-equity-investment-2026-geopolitical-risks-gulf-war-pe-deals-investment-strategy-resilience-deloitte-report-bain-capital-limited-partners/articleshow/133393403.cms",
+    "image": "https://img.etimg.com/thumb/msid-133393464,width-1200,height-630,imgsize-193812,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-21T05:21:44Z",
+    "category": "Artificial Intelligence",
+    "summary": "India Private Equity Investment 2026: Geopolitical risks now shape private equity deal considerations in India.  Investors increasingly focus on resilience and supply-chain stability for investments.  Capital deployment concentrates on manufacturing and finan\u2026"
+  },
+  {
+    "id": "H8nUO02sLb8",
+    "title": "Student teachers not eligible for \u00a320,000 support feel 'disheartened'",
+    "description": "student teachers at St Mary's University College want the same financial support as those due to start their courses.",
+    "url": "https://www.bbc.co.uk/news/articles/c77gp7jr72jo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cd9/live/bb8b7240-9c9e-11f1-a5a0-114ca9d4a1bc.jpg",
+    "source": "BBC News",
+    "publishedAt": "2026-08-21T05:20:01Z",
+    "category": "Artificial Intelligence",
+    "summary": "student teachers at St Mary's University College want the same financial support as those due to start their courses."
+  },
+  {
+    "id": "9-nJnfnDUmU",
+    "title": "Samsung Galaxy S26 FE launch set for August 27: Expected specs and features",
+    "description": "Samsung will host its Galaxy Event on August 27, where it is expected to unveil the Galaxy S26 FE with an Exynos 2500 chip, new AI features, upgraded cameras and Android 17-based One UI",
+    "url": "https://www.business-standard.com/technology/tech-news/samsung-galaxy-s26-fe-launch-set-for-august-27-expected-specs-and-features-126082100294_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/featurecrop/1200X628/1787289279-4914.png",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-21T05:15:57Z",
+    "category": "Artificial Intelligence",
+    "summary": "Samsung will host its Galaxy Event on August 27, where it is expected to unveil the Galaxy S26 FE with an Exynos 2500 chip, new AI features, upgraded cameras and Android 17-based One UI"
+  },
+  {
+    "id": "85MWzGSXZCA",
+    "title": "\u2018Darth Vader\u2019 uses dark side to mock controversial surveillance cameras: 'The Emperor is a fan of Flock'",
+    "description": "A man dressed as Darth Vader mocked Flock surveillance cameras at a San Diego City Council meeting, saying the technology would help find \"rebel scum.\"",
+    "url": "https://www.foxnews.com/us/darth-vader-uses-dark-side-mock-controversial-surveillance-cameras-emperor-fan-flock",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/darth-vadar-flock-san-diego-meeting.png",
+    "source": "Fox News",
+    "publishedAt": "2026-08-21T05:13:33Z",
+    "category": "Artificial Intelligence",
+    "summary": "A man dressed as Darth Vader mocked Flock surveillance cameras at a San Diego City Council meeting, saying the technology would help find \"rebel scum.\""
+  },
+  {
+    "id": "vaf5-aA7zSI",
+    "title": "Retro style meets AMD power: Acemagic Retro X3 mini-PC currently still available at a discount",
+    "description": "The Acemagic Retro X3 is an unusual mini-PC that immediately catches the eye with its iconic retro design. Beneath its nostalgic exterior lies modern hardware that makes this compact computer a versatile companion for everyday use, multimedia, and light gamin\u2026",
+    "url": "https://www.notebookcheck.net/Retro-style-meets-AMD-power-Acemagic-Retro-X3-mini-PC-currently-still-available-at-a-discount.1372557.0.html",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_2.jpg",
+    "source": "Notebookcheck.net",
+    "publishedAt": "2026-08-21T05:11:00Z",
+    "category": "Artificial Intelligence",
+    "summary": "The Acemagic Retro X3 is an unusual mini-PC that immediately catches the eye with its iconic retro design. Beneath its nostalgic exterior lies modern hardware that makes this compact computer a versatile companion for everyday use, multimedia, and light gamin\u2026"
+  },
+  {
+    "id": "a0nfiUzxE5g",
+    "title": "Cruise passengers warned of chaos boarding ships as jumbo operator SWAPS terminals: 'Be prepared to walk'",
+    "description": "An overhaul of passenger facilities has resulted in operators issuing a daunting alert about the risk of disruption.",
+    "url": "https://www.dailymail.com/news/article-16068797/cruise-passengers-warned-chaos-boarding-terminals.html",
+    "image": "https://i.dailymail.com/1s/2026/08/21/04/110765899-0-Royal_Caribbean_Cruises_is_set_to_move_temporarily_to_PortMiami_-a-173_1787281365754.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-08-21T05:09:22Z",
+    "category": "Other Tech",
+    "summary": "An overhaul of passenger facilities has resulted in operators issuing a daunting alert about the risk of disruption."
+  },
+  {
+    "id": "5eiOIOj4xyQ",
+    "title": "FPIs chase India's consumption story, pull money from telecom and realty",
+    "description": "Overall, the allocation trend points towards a clear shift in FPI preference towards consumption, automobiles, technology and healthcare sectors.",
+    "url": "https://www.business-standard.com/finance/personal-finance/fpis-chase-india-s-consumption-story-pull-money-from-telecom-and-realty-126082100276_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/09/thumb/featurecrop/1200X628/1786291687-1451.jpg",
+    "source": "Business Standard",
+    "publishedAt": "2026-08-21T05:07:57Z",
+    "category": "Artificial Intelligence",
+    "summary": "Overall, the allocation trend points towards a clear shift in FPI preference towards consumption, automobiles, technology and healthcare sectors."
+  },
+  {
+    "id": "QUND56G9tH0",
+    "title": "Mobile phones are 'Trojan horses' for germs. Here's how to clean them",
+    "description": "Mobile phones behave like \"biological magnets\", with thousands of micro-organisms living on their surface, experts say. Here's now to keep them clean.",
+    "url": "https://www.abc.net.au/news/2026-08-21/the-thousands-of-germs-found-on-mobile-phones/107045118",
+    "image": "https://live-production.wcms.abc-cdn.net.au/2c06cef6cb4dee3c37e2c045fea19acd?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "source": "ABC News (AU)",
+    "publishedAt": "2026-08-21T05:06:36Z",
+    "category": "Other Tech",
+    "summary": "Mobile phones behave like \"biological magnets\", with thousands of micro-organisms living on their surface, experts say. Here's now to keep them clean."
+  },
+  {
+    "id": "d6quBYIfyKc",
+    "title": "Google rolls out AI learning tools, free AI Plus access for eligible Indian college students; JEE, NEET aspirants to benefit",
+    "description": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including t\u2026",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit/articleshow/133393785.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-72516,resizemode-75,msid-133393785/tech/artificial-intelligence/google-rolls-out-ai-learning-tools-free-ai-plus-access-for-eligible-indian-college-students-jee-neet-aspirants-to-benefit.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-21T05:03:49Z",
+    "category": "Artificial Intelligence",
+    "summary": "Google has announced a series of new AI-powered education tools and student offers for the 2026 academic year, including a 12-month free Google AI Plus plan for eligible college students outside the US, a move that could benefit students in India, including t\u2026"
+  },
+  {
+    "id": "_Az5tdAZKdY",
+    "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+    "description": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
+    "url": "https://www.bbc.com/news/articles/c75gp1ppk6no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/85cc124b01d13c75ed51b7d6e2582ff2d1f8e1357750d421b08a54a5299ffdd3/lightyear_networkapi/resizefill_w1023_h575%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8cb2e0543198d3f5b63dfecbfb747023.jpg",
+    "source": "BBC News",
+    "publishedAt": "2026-08-21T05:02:45Z",
+    "category": "Other Tech",
+    "summary": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax."
+  },
+  {
+    "id": "-S17GTi5GJA",
+    "title": "'Reasonable' or a 'hit list'? New Yorkers react to rollout of Mamdani's tax on second homes",
+    "description": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
+    "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4589/live/23d5b5c0-9c24-11f1-8f4f-835961d63624.jpg",
+    "source": "BBC News",
+    "publishedAt": "2026-08-21T05:02:39Z",
+    "category": "Artificial Intelligence",
+    "summary": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax."
+  },
+  {
+    "id": "1rtUdY4qQxM",
+    "title": "Kabarak University Advances AI and Health Technology Engagement at Deep Learning Indaba 2026 Lagos, Nigeria",
+    "description": "Kabarak University strengthened its engagement in artificial intelligence (AI), data science, robotics and health technology through its...",
+    "url": "https://kabarak.ac.ke/ibi/kabu-advances-ai-and-health-technology-engagement-at-deep-learning-indaba-2026-lagos",
+    "image": "https://kabarak.ac.ke/images/speasyimagegallery/albums/67/images/deep-learning-indaba-1.jpg#joomlaImage://local-images/speasyimagegallery/albums/67/images/deep-learning-indaba-1.jpg?width=1280&height=854",
+    "source": "Kabarak.ac.ke",
+    "publishedAt": "2026-08-21T05:01:07Z",
+    "category": "Artificial Intelligence",
+    "summary": "Kabarak University strengthened its engagement in artificial intelligence (AI), data science, robotics and health technology through its..."
+  },
+  {
+    "id": "NjO2DAXjLf0",
+    "title": "Over 70,000 Leaving Cert students to receive exam results",
+    "description": "Over 70,000 Leaving Cert students will receive their exam results later today, with the overall trend showing fewer top marks awarded, as the impacts of grade deflation continue.",
+    "url": "https://www.rte.ie/news/ireland/2026/0821/1588702-leaving-cert-results/",
+    "image": "https://www.rte.ie/images/001564c5-1600.jpg",
+    "source": "RTE",
+    "publishedAt": "2026-08-21T05:01:00Z",
+    "category": "Other Tech",
+    "summary": "Over 70,000 Leaving Cert students will receive their exam results later today, with the overall trend showing fewer top marks awarded, as the impacts of grade deflation continue."
+  },
+  {
+    "id": "mYcg1sDLhRU",
+    "title": "Covid impacts and enhanced grades: five takeaways from 2026 Leaving Cert results",
+    "description": "Friday\u2019s results, in the aggregate, are close to those awarded in 2020",
+    "url": "https://www.irishtimes.com/ireland/education/2026/08/21/covid-impacts-and-enhanced-grades-five-takeaways-from-2026-leaving-cert-results/",
+    "image": "https://www.irishtimes.com/resizer/v2/KFMQSTWKV5D5DDYMBVP6NVXPVY.jpg?smart=true&auth=12cca7511aa228c87a031837a6f86dd65874c59ab6bfa3be0f2cba4b058f57b9&width=1200&height=630",
+    "source": "The Irish Times",
+    "publishedAt": "2026-08-21T05:01:00Z",
+    "category": "Other Tech",
+    "summary": "Friday\u2019s results, in the aggregate, are close to those awarded in 2020"
+  },
+  {
+    "id": "4vIu5V8VQx4",
+    "title": "The Top 5 Omega Models From The 1990s",
+    "description": "Another Friday, another list! This week, we follow up on last week\u2019s list that was based on a discussion we had on Fratello Talks three weeks ago. In that episode, Robert-Jan, Nacho, and I discussed the ultimate decade for watches. RJ and I chose the \u201990s as \u2026",
+    "url": "https://www.fratellowatches.com/the-top-5-omega-models-from-the-1990s/",
+    "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/3594.50-and-3570.50-cover.jpg",
+    "source": "Fratellowatches.com",
+    "publishedAt": "2026-08-21T05:00:35Z",
+    "category": "Other Tech",
+    "summary": "Another Friday, another list! This week, we follow up on last week\u2019s list that was based on a discussion we had on Fratello Talks three weeks ago. In that episode, Robert-Jan, Nacho, and I discussed the ultimate decade for watches. RJ and I chose the \u201990s as \u2026"
+  },
+  {
+    "id": "iGy-GTF5JFs",
+    "title": "iPhone 18 Pro and Pro Max Price Increases: What You\u2019ll Actually Pay",
+    "description": "Apple\u2019s highly anticipated iPhone 18 Pro is facing significant challenges due to a global memory chip shortage. While Apple has successfully developed its advanced 2-nanometer A20 Pro processors, the company is struggling to secure adequate supplies of DRAM, \u2026",
+    "url": "https://www.geeky-gadgets.com/iphone-18-pro-chip-shortage/",
+    "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/iphone-18-pro-2.jpg",
+    "source": "Geeky Gadgets",
+    "publishedAt": "2026-08-21T05:00:14Z",
+    "category": "Gadgets & Hardware",
+    "summary": "Apple\u2019s highly anticipated iPhone 18 Pro is facing significant challenges due to a global memory chip shortage. While Apple has successfully developed its advanced 2-nanometer A20 Pro processors, the company is struggling to secure adequate supplies of DRAM, \u2026"
+  },
+  {
+    "id": "hVSvD7oQ_8I",
+    "title": "Details of Taoiseach\u2019s correspondence with tech giant Apple withheld on security grounds",
+    "description": "Some of the world\u2019s biggest technology companies lobbied the Government on AI and online safety before Ireland\u2019s EU presidency",
+    "url": "https://www.irishtimes.com/politics/2026/08/21/details-of-taoiseachs-correspondence-with-tech-giant-apple-withheld-on-security-grounds/",
+    "image": "https://www.irishtimes.com/resizer/v2/SMMORGLAADTGFNQFABEVDOP5GM.jpg?smart=true&auth=0a8d88f775008631638224040f940612a365f438d805b6eb7e0db3242df14327&width=1200&height=630",
+    "source": "The Irish Times",
+    "publishedAt": "2026-08-21T05:00:01Z",
+    "category": "Artificial Intelligence",
+    "summary": "Some of the world\u2019s biggest technology companies lobbied the Government on AI and online safety before Ireland\u2019s EU presidency"
+  },
+  {
+    "id": "RQ4E0EDbWPo",
+    "title": "Inside the new tests making ADAS systems you'll actually want to use",
+    "description": "Driver assistance systems annoy motorists on real roads, but testing body Thatcham Research is on the case\n\nJust inches from the crash test mock-up of a compact SUV, the automatic emergency braking system (AEB) fitted to the Tesla Model Y that is travelling a\u2026",
+    "url": "https://www.autocar.co.uk/car-news/features/inside-new-tests-making-adas-systems-youll-actually-want-use",
+    "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/tesla_about_to_rear_end_the_target_car.jpg",
+    "source": "Autocar",
+    "publishedAt": "2026-08-21T05:00:00Z",
+    "category": "Other Tech",
+    "summary": "Driver assistance systems annoy motorists on real roads, but testing body Thatcham Research is on the case\n\nJust inches from the crash test mock-up of a compact SUV, the automatic emergency braking system (AEB) fitted to the Tesla Model Y that is travelling a\u2026"
+  },
+  {
+    "id": "f8F3FDhPFRU",
+    "title": "Moka AI Reports 75% Reduction in Per-Store Time-to-Hire with Moka Eva Across 20,000-Location Network",
+    "description": "Moka AI (formerly MokaHR), an AI-powered applicant tracking system (ATS) and recruiting platform, has released deployment results for Moka Eva, its AI ...",
+    "url": "https://en.antaranews.com/news/428036/moka-ai-reports-75-reduction-in-per-store-time-to-hire-with-moka-eva-across-20000-location-network",
+    "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/21/moka.jpg",
+    "source": "Antaranews.com",
+    "publishedAt": "2026-08-21T04:58:56Z",
+    "category": "Artificial Intelligence",
+    "summary": "Moka AI (formerly MokaHR), an AI-powered applicant tracking system (ATS) and recruiting platform, has released deployment results for Moka Eva, its AI ..."
+  },
+  {
+    "id": "eNty2depfHo",
+    "title": "TCS deploys laptop monitoring tool for employees, sparking fresh questions over workplace surveillance",
+    "description": "Tata Consultancy Services (TCS) has reportedly introduced a Digital User Experience Monitoring tool on company-issued laptops, sparking debate over workplace privacy and surveillance. The technology can reportedly track application usage and time spent on dev\u2026",
+    "url": "https://timesofindia.indiatimes.com/education/news/tcs-deploys-laptop-monitoring-tool-for-employees-sparking-fresh-questions-over-workplace-surveillance/articleshow/133393429.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133393429,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-21T04:58:42Z",
+    "category": "Gadgets & Hardware",
+    "summary": "Tata Consultancy Services (TCS) has reportedly introduced a Digital User Experience Monitoring tool on company-issued laptops, sparking debate over workplace privacy and surveillance. The technology can reportedly track application usage and time spent on dev\u2026"
+  },
+  {
+    "id": "3rE6nzfIaAs",
+    "title": "Anthropic plans to change\u00a0data retention policy for advanced AI",
+    "description": "Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+    "image": "https://bl-i.thgim.com/public/incoming/92k79b/article71372193.ece/alternates/LANDSCAPE_1200/2026-02-26T012349Z_1301669123_RC2LU7AF7VPI_RTRMADP_3_ANTHROPIC-AI.JPG",
+    "source": "Bloomberg",
+    "publishedAt": "2026-08-21T04:39:09Z",
+    "category": "Artificial Intelligence",
+    "summary": "Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure"
+  },
+  {
+    "id": "EilLlEVRB-0",
+    "title": "Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training",
+    "description": "These lawsuits could reshape data privacy norms, emphasizing stricter consent and transparency requirements for AI training practices.\nThe post Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training appeared first o\u2026",
+    "url": "https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21003720/worker-using-ai-on-a-laptop-800x420.jpeg",
+    "source": "Crypto Briefing",
+    "publishedAt": "2026-08-21T04:37:35Z",
+    "category": "Artificial Intelligence",
+    "summary": "These lawsuits could reshape data privacy norms, emphasizing stricter consent and transparency requirements for AI training practices.\nThe post Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training appeared first o\u2026"
+  },
+  {
     "id": "k5_R00RqKrE",
     "title": "DPIIT signs MoU with PhonePe, Shell India to support startups",
     "description": "The Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, signed Memoranda of Understanding (MoUs) with PhonePe and Shell India Pvt. Ltd. to strengthen support for DPIIT-recognised startups and promote innovation \u2026",
@@ -33,28 +352,6 @@
     "summary": "NINtec Systems Ltd has lost 19.03% over last one month compared to 6.46% gain in BSE Information Technology index and 1.23% rise in the SENSEX"
   },
   {
-    "id": "iVyyuV1z9-o",
-    "title": "Huawei Unveils Upgraded Xinghe Intelligent Network Under the \"Secure and Intelligent Connectivity\" Philosophy",
-    "description": "The Huawei Network Summit 2026 Asia-Pacific today concluded in Bali, attracting over 500 industry leaders, technical experts, and ecosystem partners to ...",
-    "url": "https://en.antaranews.com/news/428024/huawei-unveils-upgraded-xinghe-intelligent-network-under-the-secure-and-intelligent-connectivity-philosophy",
-    "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/21/Leon-Wang.jpg",
-    "source": "Antaranews.com",
-    "publishedAt": "2026-08-21T04:19:57Z",
-    "category": "Other Tech",
-    "summary": "The Huawei Network Summit 2026 Asia-Pacific today concluded in Bali, attracting over 500 industry leaders, technical experts, and ecosystem partners to ..."
-  },
-  {
-    "id": "55lqQGBe4A0",
-    "title": "The task isn\u2019t the job",
-    "description": "A new role, and some questions I want to build my way through.",
-    "url": "https://sunilpai.dev/posts/the-task-isnt-the-job/",
-    "image": "https://sunilpai.dev/og-image/the-task-isnt-the-job.png",
-    "source": "Sunilpai.dev",
-    "publishedAt": "2026-08-21T04:19:05Z",
-    "category": "Other Tech",
-    "summary": "A new role, and some questions I want to build my way through."
-  },
-  {
     "id": "JPQjr9iwFlk",
     "title": "Spark CEO Jolie Hodson defends bonus, analysts deliver mixed views on result",
     "description": "Crown control of spectrum and favouring locals seen as bulwark against Starlink.",
@@ -66,61 +363,6 @@
     "summary": "Crown control of spectrum and favouring locals seen as bulwark against Starlink."
   },
   {
-    "id": "_IC62ePwUT0",
-    "title": "HTM Vibration Plate Exercise Machine w/ 9 Modes & 120 Speeds $42.50 + Free S&H",
-    "description": "eCoupon at checkout: EARO42XZ \n \nNote: Promo codes are typically for one-time use and don't always apply seamlessly. If you run into this issue, refresh the page, re-enter the code, or revisit the...",
-    "url": "https://slickdeals.net/f/19902087-vibration-plate-exercise-machine-vibrating-platform-with-resistance-bands-slot-300-lbs-capacity-120-speed-9-workout-modes-42-49",
-    "image": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/21339819.thumb",
-    "source": "Slickdeals.net",
-    "publishedAt": "2026-08-21T04:06:16Z",
-    "category": "Other Tech",
-    "summary": "eCoupon at checkout: EARO42XZ \n \nNote: Promo codes are typically for one-time use and don't always apply seamlessly. If you run into this issue, refresh the page, re-enter the code, or revisit the..."
-  },
-  {
-    "id": "7qcxf1zkZI4",
-    "title": "What if Meta loses trial? Penalties may top $1.4 trillion, matching its market cap",
-    "description": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users.",
-    "url": "https://economictimes.indiatimes.com/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap/articleshow/133392766.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21984,resizemode-75,msid-133392766/tech/technology/what-if-meta-loses-trial-penalties-may-top-1-4-trillion-matching-its-market-cap.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T04:04:13Z",
-    "category": "Other Tech",
-    "summary": "Meta, which owns Facebook and Instagram, is being sued by a bipartisan coalition of states on allegations of deceiving the public and designing the apps to encourage compulsive use among young users."
-  },
-  {
-    "id": "ULtNA9BJJVM",
-    "title": "Europe\u2019s Scorching Summer",
-    "description": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-    "url": "https://science.nasa.gov/earth/europes-scorching-summer/",
-    "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/europe's-scorching-summer/europeheatwaves_gmao_20260819_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "source": "NASA",
-    "publishedAt": "2026-08-21T04:01:00Z",
-    "category": "Other Tech",
-    "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe."
-  },
-  {
-    "id": "tb1-7rYxs2c",
-    "title": "The Digital World Is Becoming a Nightmare",
-    "description": "Modern technology has provided government with growing capability to monitor our lives.\u00a0\u00a0The amount of freedom in a \u201cfree American\u201d is slowly being reduced to nothing.\u00a0\u00a0Flock cameras are one such freedom-destroying tool. This article referenced below about po\u2026",
-    "url": "https://www.lewrockwell.com/2026/08/paul-craig-roberts/the-digital-world-is-becoming-a-nightmare/",
-    "image": "https://www.lewrockwell.com/wp-content/uploads/2026/08/Paul-Craig-Roberts-Copy-3.png",
-    "source": "Lewrockwell.com",
-    "publishedAt": "2026-08-21T04:01:00Z",
-    "category": "Other Tech",
-    "summary": "Modern technology has provided government with growing capability to monitor our lives.\u00a0\u00a0The amount of freedom in a \u201cfree American\u201d is slowly being reduced to nothing.\u00a0\u00a0Flock cameras are one such freedom-destroying tool. This article referenced below about po\u2026"
-  },
-  {
-    "id": "noFBmz11A_E",
-    "title": "Logitech RS H-Shifter",
-    "description": "Logitech G is giving manual gearbox fans a more serious way to shift with the RS H-Shifter, a dedicated 7 speed plus reverse H pattern shifter designed to bring a more mechanical feel to sim racing setups. The layout uses a push through lockout for seventh ge\u2026",
-    "url": "https://www.blessthisstuff.com/stuff/technology/gaming/logitech-rs-h-shifter/",
-    "image": "https://www.blessthisstuff.com/imagens/stuff/logitech-rs-h-shifter.jpg",
-    "source": "Blessthisstuff.com",
-    "publishedAt": "2026-08-21T04:00:00Z",
-    "category": "Other Tech",
-    "summary": "Logitech G is giving manual gearbox fans a more serious way to shift with the RS H-Shifter, a dedicated 7 speed plus reverse H pattern shifter designed to bring a more mechanical feel to sim racing setups. The layout uses a push through lockout for seventh ge\u2026"
-  },
-  {
     "id": "TCFJOwxlDGc",
     "title": "TIER IV joins Open Invention Network 2.0 to drive the expansion of the open-source ecosystem for autonomous driving through a patent strategy",
     "description": "TOKYO, Aug. 21, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined Open Invention Network (OIN) 2.0, a new framework established by OIN, a global network dedicated to protecting open source softwa\u2026",
@@ -130,17 +372,6 @@
     "publishedAt": "2026-08-21T04:00:00Z",
     "category": "Software & Programming",
     "summary": "TOKYO, Aug. 21, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined Open Invention Network (OIN) 2.0, a new framework established by OIN, a global network dedicated to protecting open source softwa\u2026"
-  },
-  {
-    "id": "9RFWbF9Qgsw",
-    "title": "Institutional-Grade Allocation in a Single Account: BiFu's Wealth Suite Takes Shape, Bringing Managed Funds and RWA Under One Roof",
-    "description": "HONG KONG, Aug. 21, 2026 /PRNewswire/ -- BiFu, an all-asset trading platform, has completed the build-out of its Wealth suite, which runs on two product lines: a Wealth product line offering five funds managed by licensed asset management institutions across \u2026",
-    "url": "https://www.prnewswire.com/news-releases/institutional-grade-allocation-in-a-single-account-bifus-wealth-suite-takes-shape-bringing-managed-funds-and-rwa-under-one-roof-302856285.html",
-    "image": "https://mmx.prnewswire.com/media/MS1972921/20260820033735EDT_image_1.jpg?id=OA2899732&p=facebook",
-    "source": "PRNewswire",
-    "publishedAt": "2026-08-21T04:00:00Z",
-    "category": "Other Tech",
-    "summary": "HONG KONG, Aug. 21, 2026 /PRNewswire/ -- BiFu, an all-asset trading platform, has completed the build-out of its Wealth suite, which runs on two product lines: a Wealth product line offering five funds managed by licensed asset management institutions across \u2026"
   },
   {
     "id": "IoxaszdTOgA",
@@ -163,17 +394,6 @@
     "publishedAt": "2026-08-21T03:56:29Z",
     "category": "Artificial Intelligence",
     "summary": "India's residential housing market saw sales decline by 6.1% YoY in Q2 2026, while average prices rose 1% QoQ to Rs 10,153 per sq ft. Led by a 26% price surge in Bengaluru, widening cost-sales gaps indicate maturing market dynamics and growing affordability p\u2026"
-  },
-  {
-    "id": "3k0rP2eOptE",
-    "title": "Cupid Breweries & Distilleries signs MoU for technology and business collaboration",
-    "description": "The authorised officials of the company are presently in Germany for business meetings for finalising technologies for the company's operations.",
-    "url": "https://www.business-standard.com/markets/capital-market-news/cupid-breweries-distilleries-signs-mou-for-technology-and-business-collaboration-126082100139_1.html",
-    "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-    "source": "Business Standard",
-    "publishedAt": "2026-08-21T03:46:14Z",
-    "category": "Other Tech",
-    "summary": "The authorised officials of the company are presently in Germany for business meetings for finalising technologies for the company's operations."
   },
   {
     "id": "L-ZISpYnxOM",
@@ -275,17 +495,6 @@
     "summary": "Himachal Pradesh Forest Department and ISB-BIPP signed a five-year pact.  This partnership aims to unlock the state's forest economy potential.  Science and technology will enable better forest governance and resource utilization.  The initiative focuses on c\u2026"
   },
   {
-    "id": "Qseu76D9UX4",
-    "title": "Stock radar: CEAT, Uno Minda, Lumax and 7 other auto part makers give a rare peek into car industry\u2019s future plans",
-    "description": "Top management from CEAT, Uno Minda, Lumax, Rolex Rings and seven other auto component companies sat down with analysts at the Equirus India Growth Summit. What came out was a clear picture of where profits, exports and new technology are headed over the next\u2026",
-    "url": "https://m.economictimes.com/wealth/invest/automobile-stock-radar-ceat-uno-minda-lumax-and-7-other-auto-part-makers-give-a-rare-peek-into-car-industrys-future-plans/10-auto-parts-makers-just-revealed-where-indias-car-industry-is-headed-next/slideshow/133391912.cms",
-    "image": "https://img.etimg.com/thumb/msid-133391912,width-1200,height-900,overlay-etwealth/slideshow.jpg",
-    "source": "Economictimes.com",
-    "publishedAt": "2026-08-21T03:24:47Z",
-    "category": "Other Tech",
-    "summary": "Top management from CEAT, Uno Minda, Lumax, Rolex Rings and seven other auto component companies sat down with analysts at the Equirus India Growth Summit. What came out was a clear picture of where profits, exports and new technology are headed over the next\u2026"
-  },
-  {
     "id": "J3K-r4umdCI",
     "title": "Gaja Alternative Asset Management IPO Day 3: Issue subscribed nearly 2.5 times; GMP at 11%. Should you subscribe?",
     "description": "Gaja Alternative Asset Management IPO entered its final bidding day with the issue subscribed 2.44 times on Day 2 and the grey market premium at 11%. With the company reporting strong FY26 profit growth and Anand Rathi Research recommending a \u201cSubscribe \u2013 Lon\u2026",
@@ -339,214 +548,5 @@
     "publishedAt": "2026-08-21T03:05:17Z",
     "category": "Artificial Intelligence",
     "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU \u200csales in \u2060the China \u2060market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson \u200bsaid."
-  },
-  {
-    "id": "ju2qA_6lmJU",
-    "title": "Planned New Battleships Come With a High Price Tag and an Uncertain Future",
-    "description": "Large warships could prove to be expensive drone sponges without a clear mission.",
-    "url": "https://reason.com/2026/08/21/planned-new-battleships-come-with-a-high-price-tag-and-an-uncertain-future/",
-    "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/08/trump-battleships-v1-1024x576.jpg",
-    "source": "Reason",
-    "publishedAt": "2026-08-21T03:03:44Z",
-    "category": "Artificial Intelligence",
-    "summary": "Large warships could prove to be expensive drone sponges without a clear mission."
-  },
-  {
-    "id": "zLYHJqPRJCk",
-    "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
-    "description": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his \u200cconduct would benefit \u2060the government \u2060of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evide\u2026",
-    "url": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53778,resizemode-75,msid-133391478/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T03:03:10Z",
-    "category": "Artificial Intelligence",
-    "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his \u200cconduct would benefit \u2060the government \u2060of China, a requirement to convict him on seven counts of economic espionage. Chhabria said evide\u2026"
-  },
-  {
-    "id": "8WP0wbXSLJE",
-    "title": "NZAero says its aircraft will be exported again, as new aviation deal with Thailand signed",
-    "description": "Hamilton-made acrobat aircraft has export production return as training demand surges.",
-    "url": "https://www.nzherald.co.nz/business/companies/airlines/nzaero-says-its-aircraft-will-be-exported-again-as-new-aviation-deal-with-thailand-signed/GYY4VNAKLFC3LJN7TB3DYSHFUE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/NLOSVCLNJRA2JHBBHHYSEZCYPA.jpg?auth=795cd71163dc7571e5726ac9c40d215ef7880d0c0be96d86ba8af42f1fb845eb&width=1200&height=675&quality=70&focal=310%2C296&smart=false",
-    "source": "New Zealand Herald",
-    "publishedAt": "2026-08-21T03:02:54Z",
-    "category": "Artificial Intelligence",
-    "summary": "Hamilton-made acrobat aircraft has export production return as training demand surges."
-  },
-  {
-    "id": "I_fCpcFnomQ",
-    "title": "ETMarkets Management Talk | Crompton 2.0: How premiumisation, innovation and smart products could reshape growth: Kaleeswaran Arunachalam",
-    "description": "Over the last decade, Crompton has expanded beyond its core categories through sustained investments in technology and product innovation.",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-crompton-2-0-how-premiumisation-innovation-and-smart-products-could-reshape-growth-kaleeswaran-arunachalam/articleshow/133391267.cms",
-    "image": "https://img.etimg.com/thumb/msid-133391378,width-1200,height-630,imgsize-21016,overlay-etmarkets/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T02:57:05Z",
-    "category": "Artificial Intelligence",
-    "summary": "Over the last decade, Crompton has expanded beyond its core categories through sustained investments in technology and product innovation."
-  },
-  {
-    "id": "h8emroewYxo",
-    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-    "description": "Industry executives also say they are losing some work entirely as customers use AI to shift tasks in-house, while all the \u200buncertainty that the new technology has brought is resulting in shorter contracts.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less/articleshow/133391316.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17954,resizemode-75,msid-133391316/tech/artificial-intelligence/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T02:54:06Z",
-    "category": "Artificial Intelligence",
-    "summary": "Industry executives also say they are losing some work entirely as customers use AI to shift tasks in-house, while all the \u200buncertainty that the new technology has brought is resulting in shorter contracts."
-  },
-  {
-    "id": "S0MM611CfTM",
-    "title": "Salmonella outbreak, and Roman shipwreck discovery",
-    "description": "Coming up, health agencies grapple with a Salmonella outbreak across Europe. What's behind it? Also, astronomers spot the fastest-moving star in the Milky Way, hurtling around the supermassive black hole at the heart of the galaxy; regulators in the United St\u2026",
-    "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/salmonella-outbreak-and-roman-shipwreck-discovery",
-    "image": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/g2a6b816ad4a505acb1a9a9e36abd2338e6d16249e966ba95e2e9588a41702b39c568952096014ff4f533b2b9fbbe6565ea2f7e6c88093eee915a858d1b40fb11_1280.jpg?itok=Bw2bJKEx",
-    "source": "The Naked Scientists",
-    "publishedAt": "2026-08-21T02:50:20Z",
-    "category": "Gadgets & Hardware",
-    "summary": "Coming up, health agencies grapple with a Salmonella outbreak across Europe. What's behind it? Also, astronomers spot the fastest-moving star in the Milky Way, hurtling around the supermassive black hole at the heart of the galaxy; regulators in the United St\u2026"
-  },
-  {
-    "id": "vR-eTmFdwGA",
-    "title": "Genesis GV90 \u2013 flagship Rolls-Royce-rivalling EV SUV, suicide doors, swivelling seats, 666 PS, 500 km range",
-    "description": "Having lived in relative anonymity for over a decade, Hyundai\u2019s premium offshoot Genesis is pulling out all the stops to establish itself as a serious competitor. It has already made its mark in the racing [\u2026]\nThe post Genesis GV90 \u2013 flagship Rolls-Royce-riva\u2026",
-    "url": "https://paultan.org/2026/08/21/genesis-gv90-flagship-rolls-royce-rivalling-ev-suv-suicide-doors-swivelling-seats-666-ps-500-km-range/",
-    "image": "https://paultan.org/image/2026/08/Genesis-GV90-4-e1787222601112-1200x678.jpg",
-    "source": "Paul Tan's Automotive News",
-    "publishedAt": "2026-08-21T02:46:20Z",
-    "category": "Artificial Intelligence",
-    "summary": "Having lived in relative anonymity for over a decade, Hyundai\u2019s premium offshoot Genesis is pulling out all the stops to establish itself as a serious competitor. It has already made its mark in the racing [\u2026]\nThe post Genesis GV90 \u2013 flagship Rolls-Royce-riva\u2026"
-  },
-  {
-    "id": "zTiHpbLAEYA",
-    "title": "Powerful Friday Motivation Quote: \u2018If you don\u2019t fail, you\u2019re not\u2026\u2019 - Sundar Pichai\u2019s inspiring lesson on why failure is the key to ambition and success",
-    "description": "Sundar Pichai's words highlight that ambition involves taking risks and accepting potential failures.  Failure is presented not as a setback but as a crucial indicator of aiming high.  This perspective challenges perfectionism and instead celebrates the devel\u2026",
-    "url": "https://economictimes.indiatimes.com/news/international/us/powerful-friday-motivation-quote-if-you-dont-fail-youre-not-sundar-pichais-powerful-lesson-on-why-failure-is-the-key-to-ambition-and-success/articleshow/133391117.cms",
-    "image": "https://img.etimg.com/thumb/msid-133391165,width-1200,height-630,imgsize-37964,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T02:42:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Sundar Pichai's words highlight that ambition involves taking risks and accepting potential failures.  Failure is presented not as a setback but as a crucial indicator of aiming high.  This perspective challenges perfectionism and instead celebrates the devel\u2026"
-  },
-  {
-    "id": "Clh3WCAmFaw",
-    "title": "\u3010\u73fe\u5730\u8996\u5bdf\u30ec\u30dd\u30fc\u30c8\u3011\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6700\u5927\u7d1aIT\u5c55\u300cINTI Asia 2026\u300d\u306b\u307f\u308b\u6771\u5357\u30a2\u30b8\u30a2\u5e02\u5834\u306e\u5b9f\u50cf",
-    "description": "[\u30a8\u30d0\u30fc\u30ea\u30c3\u30b8\u682a\u5f0f\u4f1a\u793e]\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/78233/244/78233-244-6c30212b2d3d9a30915ffe55991d711d-1980x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000244.000078233.html",
-    "image": "https://prcdn.freetls.fastly.net/release_image/78233/244/78233-244-6c30212b2d3d9a30915ffe55991d711d-1980x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "source": "Prtimes.jp",
-    "publishedAt": "2026-08-21T02:40:42Z",
-    "category": "Artificial Intelligence",
-    "summary": "[\u30a8\u30d0\u30fc\u30ea\u30c3\u30b8\u682a\u5f0f\u4f1a\u793e]\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/78233/244/78233-244-6c30212b2d3d9a30915ffe55991d711d-1980x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&..."
-  },
-  {
-    "id": "i7RJw1OQbGg",
-    "title": "Augmont Enterprises IPO opens today: GMP signals 38% listing gains. Should you subscribe?",
-    "description": "The Rs 825 crore Augmont Enterprises IPO comprises a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating to Rs 205 crore.",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-opens-today-gmp-signals-38-listing-gains-should-you-subscribe/articleshow/133391085.cms",
-    "image": "https://img.etimg.com/thumb/msid-133391134,width-1200,height-630,imgsize-2014231,overlay-etmarkets/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-21T02:38:55Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Rs 825 crore Augmont Enterprises IPO comprises a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating to Rs 205 crore."
-  },
-  {
-    "id": "ikBqFwvlhe8",
-    "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
-    "description": "Rising demand for AI computing power is increasing chip package sizes, bringing fan-out panel-level packaging (FOPLP) into sharper focus as a next-generation packaging technology that converts traditional round wafer formats into rectangular panels, offering \u2026",
-    "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
-    "image": "https://img.digitimes.com/newsshow/20260821pd208_files/1_b.jpg",
-    "source": "Digitimes",
-    "publishedAt": "2026-08-21T02:33:15Z",
-    "category": "Artificial Intelligence",
-    "summary": "Rising demand for AI computing power is increasing chip package sizes, bringing fan-out panel-level packaging (FOPLP) into sharper focus as a next-generation packaging technology that converts traditional round wafer formats into rectangular panels, offering \u2026"
-  },
-  {
-    "id": "BzGxr7_MpcA",
-    "title": "Google\u2019s attempt to buy Spirit Airlines\u2019 data might come unstuck",
-    "description": "Google LLC\u2019s artificial intelligence researchers had been salivating at the prospect of getting their hands on a trove of business data acquired from the defunct airline Spirit Airlines Inc. in an auction, but the proposed deal is being challenged by two sepa\u2026",
-    "url": "https://siliconangle.com/2026/08/20/googles-attempt-to-buy-spirit-airlines-data-might-come-unstuck/",
-    "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-01-21-06-32-23-1.png",
-    "source": "SiliconANGLE News",
-    "publishedAt": "2026-08-21T02:33:08Z",
-    "category": "Artificial Intelligence",
-    "summary": "Google LLC\u2019s artificial intelligence researchers had been salivating at the prospect of getting their hands on a trove of business data acquired from the defunct airline Spirit Airlines Inc. in an auction, but the proposed deal is being challenged by two sepa\u2026"
-  },
-  {
-    "id": "Eh6L1h5QhWI",
-    "title": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
-    "description": "The Princeton University spinout will use the funding to expand sales and commercial deployments of its revolutionary brine-based lithium production platform in the U.S. and South America. PRINCETON, N.J. \u2014\u00a0Princeton Critical Minerals (PCM), a startup develop\u2026",
-    "url": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
-    "image": "https://cleantechnica.com/wp-content/uploads/2026/08/PCM-Tech.png",
-    "source": "CleanTechnica",
-    "publishedAt": "2026-08-21T02:31:34Z",
-    "category": "Artificial Intelligence",
-    "summary": "The Princeton University spinout will use the funding to expand sales and commercial deployments of its revolutionary brine-based lithium production platform in the U.S. and South America. PRINCETON, N.J. \u2014\u00a0Princeton Critical Minerals (PCM), a startup develop\u2026"
-  },
-  {
-    "id": "O3cZuSTkV2g",
-    "title": "Google\u306e\u7121\u6599AI\u30e2\u30c7\u30eb\u300cGemma\u300d\u304c10\u5104\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3092\u9054\u6210",
-    "description": "Google\u304c\u958b\u767a\u3059\u308b\u30aa\u30fc\u30d7\u30f3\u30e2\u30c7\u30eb\u300cGemma\u300d\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u6570\u304c\u300110\u5104\u56de\u3092\u7a81\u7834\u3057\u305f\u3053\u3068\u304c\u660e\u3089\u304b\u306b\u306a\u308a\u307e\u3057\u305f\u3002Gemma passes 1 billion downloadshttps://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/Tonight we\u2019re gathering in SF to celebrate 1 BILLION Gemma downloads!While w\u2026",
-    "url": "https://news.livedoor.com/article/detail/32121495/",
-    "image": "https://image.news.livedoor.com/newsimage/stf/a/6/a689c_88_5b72cde6d83575ef4bc2597a09483403.png",
-    "source": "Livedoor.com",
-    "publishedAt": "2026-08-21T02:24:00Z",
-    "category": "Artificial Intelligence",
-    "summary": "Google\u304c\u958b\u767a\u3059\u308b\u30aa\u30fc\u30d7\u30f3\u30e2\u30c7\u30eb\u300cGemma\u300d\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u6570\u304c\u300110\u5104\u56de\u3092\u7a81\u7834\u3057\u305f\u3053\u3068\u304c\u660e\u3089\u304b\u306b\u306a\u308a\u307e\u3057\u305f\u3002Gemma passes 1 billion downloadshttps://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/Tonight we\u2019re gathering in SF to celebrate 1 BILLION Gemma downloads!While w\u2026"
-  },
-  {
-    "id": "FLiGwfypi-I",
-    "title": "Brazil invests $444M to enhance AI ecosystem and supercomputing",
-    "description": "Brazil's AI investment aims to boost technological sovereignty, reduce reliance on foreign tech, and position itself as a global AI leader.\nThe post Brazil invests $444M to enhance AI ecosystem and supercomputing appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/brazil-invests-444m-ai-supercomputing/",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20222340/the-supercomputer-at-the-barcelona-supercomputing-center-bsc-800x420.jpeg",
-    "source": "Crypto Briefing",
-    "publishedAt": "2026-08-21T02:23:47Z",
-    "category": "Artificial Intelligence",
-    "summary": "Brazil's AI investment aims to boost technological sovereignty, reduce reliance on foreign tech, and position itself as a global AI leader.\nThe post Brazil invests $444M to enhance AI ecosystem and supercomputing appeared first on Crypto Briefing."
-  },
-  {
-    "id": "VnVV5lR__C4",
-    "title": "\u201cSay Kirk Stuff\u201d: Sam Witwer Details Replacing William Shatner In Beloved Star Trek Short Film",
-    "description": "Sam Witwer talks all about playing Captain Kirk in the popular Star Trek short film 765874 - Unification on Dropping Names with Brent and Jonny.",
-    "url": "https://screenrant.com/star-trek-sam-witwer-replace-william-shatner-kirk-short-film/",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/young-kirk-in-unification.jpg?w=1600&h=900&fit=crop",
-    "source": "Screen Rant",
-    "publishedAt": "2026-08-21T02:17:06Z",
-    "category": "Artificial Intelligence",
-    "summary": "Sam Witwer talks all about playing Captain Kirk in the popular Star Trek short film 765874 - Unification on Dropping Names with Brent and Jonny."
-  },
-  {
-    "id": "mHZt0G5uSes",
-    "title": "Powerus Wins $22.3 Million Middle East Oil Infrastructure Security Deal",
-    "description": "U.S.-based Autonomous Power Corporation, which operates as Powerus, has signed a commercial contract worth approximately $22.3 million to provide counter-unmanned aircraft system technology for critical oil and gas infrastructure in the Middle East.\nThe agree\u2026",
-    "url": "https://biztoc.com/x/33327d31066d8efd",
-    "image": "https://biztoc.com/cdn/33327d31066d8efd_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-08-21T02:10:33Z",
-    "category": "Artificial Intelligence",
-    "summary": "U.S.-based Autonomous Power Corporation, which operates as Powerus, has signed a commercial contract worth approximately $22.3 million to provide counter-unmanned aircraft system technology for critical oil and gas infrastructure in the Middle East.\nThe agree\u2026"
-  },
-  {
-    "id": "95f8Msrvzuc",
-    "title": "Expert warning over all the ways your boss could be snooping on you: 'This is what they're watching'",
-    "description": "An expert revealed how technology advancements have allowed employers to track productivity and collect data on workers that have raised privacy concerns for employees- even in their own homes.",
-    "url": "https://www.dailymail.com/news/article-16068471/expert-warning-boss-snooping-watching.html",
-    "image": "https://i.dailymail.com/1s/2026/08/21/01/110764787-0-image-m-160_1787273869812.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-08-21T02:08:02Z",
-    "category": "Artificial Intelligence",
-    "summary": "An expert revealed how technology advancements have allowed employers to track productivity and collect data on workers that have raised privacy concerns for employees- even in their own homes."
-  },
-  {
-    "id": "2_0_pNmaVe4",
-    "title": "Augmont Enterprises IPO opens today at \u20b9750-788",
-    "description": "\u20b9825-crore issue includes \u20b9620-crore fresh issue; company raised \u20b9246.29 crore from 14 anchor investors",
-    "url": "https://www.thehindubusinessline.com/markets/augmont-enterprises-ipo-opens-today-at-750-788/article71372032.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/l9fufj/article71357109.ece/alternates/LANDSCAPE_1200/IPOs-new.jpg",
-    "source": "BusinessLine",
-    "publishedAt": "2026-08-21T02:04:35Z",
-    "category": "Artificial Intelligence",
-    "summary": "\u20b9825-crore issue includes \u20b9620-crore fresh issue; company raised \u20b9246.29 crore from 14 anchor investors"
   }
 ]
